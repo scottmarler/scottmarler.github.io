@@ -42,6 +42,34 @@ white-space: nowrap;
 pointer-events: none;
 }
 
+#circle_tooltip1 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
+}
+
+#circle_tooltip2 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
+}
+
 #circle circle {
 fill: none;
 pointer-events: all;
@@ -84,10 +112,6 @@ circle.parent:hover {
   stroke-width: .5px;
 }
 
-circle.child {
-  pointer-events: none;
-}
-
 /* Style the body */
 body {
   font-family: Arial;
@@ -98,7 +122,7 @@ body {
 .header {
   padding: 120px;
   text-align: center;
-  background-image: url('screenshot_banner.PNG');
+  background-image: url('images/screenshot_banner.png');
   background-repeat: no-repeat;
   background-position: center center;
   color: white;
@@ -165,9 +189,10 @@ body {
     flex-direction: column;
   }
   
-
-  
+ 
 }
+
+
 </style>
 </head>
 <body>
@@ -198,14 +223,11 @@ body {
     <p>The GCU Clan is run by the GCU group administrators and is open to any member of GCU, regardless of how much they play.</p>
     <h2>What's the purpose of this website?</h2>
     <p>Honestly, I just wanted a place to share some cool visualizations I made about the clan.</p>
-    <h2>Disclaimer</h2>
-    <p>I'm not a web developer and this is not optimized for viewing on a mobile device. However, it should probably still work for the most part.</p>
-    <p>If you're on a mobile device, try tapping on the visualizations to get the zoom features and tooltips</p>
   </div>
   <div class="main">
     <h2>Season 1</h2>
     <h5>Where it all began. Sep 30, 2018 - Oct 28, 2018</h5>
-    <div id="s1" style="height:600px;"></div>
+    <div id="s1" style="height:600px;"><div id="circle_tooltip1"></div></div>
     <p>The purpose of the first season was to see where everyone would end up with points. Using these results, we did a major shuffle to establish more appropriate clans.</p>
     <br>
     <h2>The Big Shuffle</h2>
@@ -215,7 +237,7 @@ body {
     <p></p>
     <h2>Season 2</h2>
     <h5>Oct 28, 2018 - Nov 25, 2018</h5>
-    <div id="s2" style="height:600px;"></div>
+    <div id="s2" style="height:600px;"><div id="circle_tooltip2"></div></div>
     <p></p>
     <br>
     <h2>A More Manageable Shuffle</h2>
@@ -263,7 +285,7 @@ body {
             .attr("transform", "translate(" + (w1 - r1) / 2 + "," + (h1 - r1) / 2 + ")");
 
         // add the tooltip area to the webpage
-        var tooltip1 = d3.select("#s1").append("div")
+        var tooltip1 = d3.select("s1").append("div")
             .attr("class", "tooltip")
             .style("opacity", 0);
             
@@ -280,6 +302,15 @@ body {
               .attr("cy", function(d) { return d.y; })
               .attr("r", function(d) { return d.r; })
               .on("click", function(d) { return zoom1(node == d ? root : d); })
+              .on("mouseover", function (d) {
+                  d3.select("#circle_tooltip1")
+                    .style("visibility", "visible")
+                    .html(d.name + "<br>" + d.fb_name)
+                    .style("top", function () { return (d3.event.pageY - 20)+"px"})
+                    .style("left", function () { return (d3.event.pageX + 20)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#circle_tooltip1").style("visibility", "hidden")
+                });
               ;
 
           vis1.selectAll("text")
@@ -359,17 +390,14 @@ body {
               .attr("cy", function(d) { return d.y; })
               .attr("r", function(d) { return d.r; })
               .on("click", function(d) { return zoom2(node == d ? root : d); })
-              .on("mouseover", function(d) {
-                  tooltip.transition()
-                       .duration(200)
-                       .style("opacity", .9);
-                  tooltip.html(d.name)
-                       .style("left", (d3.event.pageX + 5) + "px")
-                       .style("top", (d3.event.pageY - 28) + "px")})
-              .on("mouseout", function(d) {
-                  tooltip.transition()
-                       .duration(500)
-                       .style("opacity", 0);
+              .on("mouseover", function (d) {
+                  d3.select("#circle_tooltip2")
+                    .style("visibility", "visible")
+                    .html(d.name + "<br>" + d.fb_name)
+                    .style("top", function () { return (d3.event.pageY - 20)+"px"})
+                    .style("left", function () { return (d3.event.pageX + 20)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#circle_tooltip2").style("visibility", "hidden")
               })
               ;
 

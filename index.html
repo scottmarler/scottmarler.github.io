@@ -1,163 +1,661 @@
 <!DOCTYPE html>
 <html>
-<meta charset="utf-8">
-
-<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
-<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
-<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
-
+<head>
+<title>GCU Clan Family Info</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript" src="d3/d3.js"></script>
+<script type="text/javascript" src="d3/d3.layout.js"></script>
+<script src="lib/d3.js"></script>
+<script src="lib/underscore.js"></script>
+<script src="js/mapper.js"></script>
 <style>
-body {
-  font: 11px sans-serif;
+* {
+  box-sizing: border-box;
 }
 
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+#tooltip1 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
 }
 
-.dot {
-  stroke: #000;
+#tooltip2 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
 }
 
-.tooltip {
-  position: absolute;
-  width: 200px;
-  height: 28px;
+#circle circle {
+fill: none;
+pointer-events: all;
+}
+path.group {
+fill-opacity: .8;
+}
+path.chord {
+fill-opacity: .8;
+stroke: #000;
+stroke-width: .25px;
+}
+#circle:hover path.fade {
+display: none;
+}
+
+text {
+  font-size: 11px;
   pointer-events: none;
 }
+
+text.parent {
+  fill: #1f77b4;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #999;
+  pointer-events: all;
+}
+
+circle.parent {
+  fill: #1f77b4;
+  fill-opacity: .1;
+  stroke: steelblue;
+}
+
+circle.parent:hover {
+  stroke: #ff7f0e;
+  stroke-width: .5px;
+}
+
+circle.child {
+  pointer-events: none;
+}
+
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 120px;
+  text-align: center;
+  background-image: url('images/screenshot_banner.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Column container */
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row, .navbar {   
+    flex-direction: column;
+  }
+  
+
+  
+}
 </style>
+</head>
 <body>
-<script src="http://d3js.org/d3.v3.min.js"></script>
 
-<script>
-var margin = {top: 20, right: 40, bottom: 30, left: 40},
-    width = 500 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+<!-- Note 
+<div style="background:yellow;padding:5px">
+  <h4 style="text-align:center">Resize the browser window to see the responsive effect.</h4>
+</div> -->
 
-/* 
- * value accessor - returns the value to encode for a given data object.
- * scale - maps value to a visual display encoding, such as a pixel position.
- * map function - maps from data value to display value
- * axis - sets up axis
- */ 
+<!-- Header -->
+<div class="header">
+  <h1>Some mildly interesting information about the family of GCU clans</h1>
+  <p>This will be <b>uninteresting</b> to most people.</p>
+</div>
 
-// setup x 
-var xValue = function(d) { return d.S1Points;}, // data -> value
-    xScale = d3.scale.linear().range([0, width]), // value -> display
-    xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/1372346449515232/">Main Facebook Group</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/1849608365155216/">Clan Facebook Group</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Top Secret Secrets</a>
+</div>
 
-// setup y
-var yValue = function(d) { return d["S2Points"];}, // data -> value
-    yScale = d3.scale.linear().range([height, 0]), // value -> display
-    yMap = function(d) { return yScale(yValue(d));}, // data -> display
-    yAxis = d3.svg.axis().scale(yScale).orient("left");
+<!-- The flexible grid (content) -->
+<div class="row">
+  <div class="side">
+    <h2>About Us</h2>
+    <p>Golf Clash University is a Facebook group dedicated to teaching people how to play Golf Clash.</p>
+    <p>The GCU Clan is run by the GCU group administrators and is open to any member of GCU, regardless of how much they play.</p>
+    <h2>What's the purpose of this website?</h2>
+    <p>Honestly, I just wanted a place to share some cool visualizations I made about the clan.</p>
+  </div>
+  <div class="main">
+    <h2>Season 1</h2>
+    <h5>Where it all began. Sep 30, 2018 - Oct 28, 2018</h5>
+    <div id="s1" style="height:600px;"></div>
+    <p>The purpose of the first season was to see where everyone would end up with points. Using these results, we did a major shuffle to establish more appropriate clans.</p>
+    <br>
+    <h2>The Big Shuffle</h2>
+    <h5>It was like Musical Chairs, but WAY less efficient</h5>
+    <p>Hey, remember when we thought we could prevent everyone from logging in so we could try to control which bracket the clan would enter? lol.</p>
+    <div id="shuffle1" style="height:600px;"><div id="tooltip1"></div></div>
+    <p></p>
+    <h2>Season 2</h2>
+    <h5>Oct 28, 2018 - Nov 25, 2018</h5>
+    <div id="s2" style="height:600px;"></div>
+    <p></p>
+    <br>
+    <h2>A More Manageable Shuffle</h2>
+    <h5>We're starting to figure this thing out.</h5>
+    <p></p>
+    <div id="shuffle2" style="height:600px;"><div id="tooltip2"></div></div>
+    <p></p>
+    <h2>Season 3</h2>
+    <h5>Nov 25, 2018 - Dec 23, 2018</h5>
+    <div class="fakeimg" style="height:200px;">Waiting for Data</div>
+    <p></p>
+    <br>
+    <h2>Every Month We're Shuf-fl-in'</h2>
+    <h5>Business as usual</h5>
+    <p></p>
+    <div class="fakeimg" style="height:200px;">Waiting for Data</div>
+    <p></p>
+  </div>
+</div>
 
-// setup fill color
-var cValue = function(d) { return d.S3Clan;},
-    color = d3.scale.category10();
+<!-- Footer -->
+<div class="footer">
+  <h2>You've reached the bottom of the page.</h2>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">This is where the actual secrets are kept.</a>
+</div>
 
-// add the graph canvas to the body of the webpage
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    <script type="text/javascript">
 
-// add the tooltip area to the webpage
-var tooltip = d3.select("body").append("div")
-    .attr("class", "tooltip")
-    .style("opacity", 0);
+        var w1 = 600,
+            h1 = 600,
+            r1 = 550,
+            x1 = d3.scale.linear().range([0, r1]),
+            y1 = d3.scale.linear().range([0, r1]),
+            node1,
+            root1;
 
-// load data
-d3.csv("GC Accounts-Grid view.csv", function(error, data) {
+        var pack1 = d3.layout.pack()
+            .size([r1, r1])
+            .value(function(d) { return d.size; })
 
-  // change string (from CSV) into number format
-  data.forEach(function(d) {
-    d.S1Points = +d.S1Points;
-    d["S2Points"] = +d["S2Points"];
-//    console.log(d);
-  });
+        var vis1 = d3.select("#s1").insert("svg:svg")
+            .attr("width", w1)
+            .attr("height", h1)
+          .append("svg:g")
+            .attr("transform", "translate(" + (w1 - r1) / 2 + "," + (h1 - r1) / 2 + ")");
 
-  // don't want dots overlapping axis, so add in buffer to data domain
-  xScale.domain([d3.min(data, xValue)-1, d3.max(data, xValue)+1]);
-  yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
+        // add the tooltip area to the webpage
+        var tooltip1 = d3.select("#s1").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+            
+        d3.json("circle_data/s1_circles.json", function(data) {
+          node = root = data;
 
-  // x-axis
-  svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-    .append("text")
-      .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
-      .style("text-anchor", "end")
-      .text("S1Points");
+          var nodes1 = pack1.nodes(root);
 
-  // y-axis
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      .attr("class", "label")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("S2Points");
+          vis1.selectAll("circle")
+              .data(nodes1)
+            .enter().append("svg:circle")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; })
+              .attr("r", function(d) { return d.r; })
+              .on("click", function(d) { return zoom1(node == d ? root : d); })
+              ;
 
-  // draw dots
-  svg.selectAll(".dot")
-      .data(data)
-    .enter().append("circle")
-      .attr("class", "dot")
-      .attr("r", 4)
-      .attr("cx", xMap)
-      .attr("cy", yMap)
-      .attr("opacity", .8)
-      .style("fill", function(d) { return color(cValue(d));}) 
-      .on("mouseover", function(d) {
-          tooltip.transition()
-               .duration(200)
-               .style("opacity", .9);
-          tooltip.html(d["Name"] + "<br/> (" + xValue(d) 
-	        + ", " + yValue(d) + ")")
-               .style("left", (d3.event.pageX + 5) + "px")
-               .style("top", (d3.event.pageY - 28) + "px");
-      })
-      .on("mouseout", function(d) {
-          tooltip.transition()
-               .duration(500)
-               .style("opacity", 0);
+          vis1.selectAll("text")
+              .data(nodes1)
+            .enter().append("svg:text")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("x", function(d) { return d.x; })
+              .attr("y", function(d) { return d.y; })
+              .attr("dy", ".35em")
+              .attr("text-anchor", "middle")
+              .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+              .text(function(d) { return d.name; })
+              ;
+
+          d3.select(window).on("click", function() { zoom1(root); });
+        });
+
+        function zoom1(d, i) {
+          var k1 = r1 / d.r / 2;
+          x1.domain([d.x - d.r, d.x + d.r]);
+          y1.domain([d.y - d.r, d.y + d.r]);
+
+          var t = vis1.transition()
+              .duration(d3.event.altKey ? 7500 : 750);
+
+          t.selectAll("circle")
+              .attr("cx", function(d) { return x1(d.x); })
+              .attr("cy", function(d) { return y1(d.y); })
+              .attr("r", function(d) { return k1 * d.r; });
+
+          t.selectAll("text")
+              .attr("x", function(d) { return x1(d.x); })
+              .attr("y", function(d) { return y1(d.y); })
+              .style("opacity", function(d) { return k1 * d.r > 15 ? 1 : 0; });
+
+          node = d;
+          d3.event.stopPropagation();
+}
+
+    </script>
+    
+    <script type="text/javascript">
+
+        var w2 = 600,
+            h2 = 600,
+            r2 = 550,
+            x2 = d3.scale.linear().range([0, r2]),
+            y2 = d3.scale.linear().range([0, r2]),
+            node2,
+            root2;
+
+        var pack = d3.layout.pack()
+            .size([r2, r2])
+            .value(function(d) { return d.size; })
+
+        var vis2 = d3.select("#s2").insert("svg:svg", "h2")
+            .attr("width", w2)
+            .attr("height", h2)
+          .append("svg:g")
+            .attr("transform", "translate(" + (w2 - r2) / 2 + "," + (h2 - r2) / 2 + ")");
+
+        // add the tooltip area to the webpage
+        var tooltip = d3.select("#s2").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+            
+        d3.json("circle_data/s2_circles.json", function(data) {
+          node = root = data;
+
+          var nodes2 = pack.nodes(root);
+
+          vis2.selectAll("circle")
+              .data(nodes2)
+            .enter().append("svg:circle")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; })
+              .attr("r", function(d) { return d.r; })
+              .on("click", function(d) { return zoom2(node == d ? root : d); })
+              .on("mouseover", function(d) {
+                  tooltip.transition()
+                       .duration(200)
+                       .style("opacity", .9);
+                  tooltip.html(d.name)
+                       .style("left", (d3.event.pageX + 5) + "px")
+                       .style("top", (d3.event.pageY - 28) + "px")})
+              .on("mouseout", function(d) {
+                  tooltip.transition()
+                       .duration(500)
+                       .style("opacity", 0);
+              })
+              ;
+
+          vis2.selectAll("text")
+              .data(nodes2)
+            .enter().append("svg:text")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("x", function(d) { return d.x; })
+              .attr("y", function(d) { return d.y; })
+              .attr("dy", ".35em")
+              .attr("text-anchor", "middle")
+              .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+              .text(function(d) { return d.name; })
+              ;
+
+          d3.select(window).on("click", function() { zoom2(root); });
+        });
+
+        function zoom2(d, i) {
+          var k2 = r2 / d.r / 2;
+          x2.domain([d.x - d.r, d.x + d.r]);
+          y2.domain([d.y - d.r, d.y + d.r]);
+
+          var t = vis2.transition()
+              .duration(d3.event.altKey ? 7500 : 750);
+
+          t.selectAll("circle")
+              .attr("cx", function(d) { return x2(d.x); })
+              .attr("cy", function(d) { return y2(d.y); })
+              .attr("r", function(d) { return k2 * d.r; });
+
+          t.selectAll("text")
+              .attr("x", function(d) { return x2(d.x); })
+              .attr("y", function(d) { return y2(d.y); })
+              .style("opacity", function(d) { return k2 * d.r > 15 ? 1 : 0; });
+
+          node = d;
+          d3.event.stopPropagation();
+        }
+
+    </script>
+    
+    <script>
+      //*******************************************************************
+      //  CREATE MATRIX AND MAP
+      //*******************************************************************
+      d3.csv('shuffle_data/s1_shuffle.csv', function (error, data) {
+        var mpr1 = chordMpr(data);
+
+        mpr1
+          .addValuesToMap('isin')
+          .setFilter(function (row, a, b) {
+            return (row.isin === a.name && row.goesto === b.name)
+          })
+          .setAccessor(function (recs, a, b) {
+            if (!recs[0]) return 0;
+            return +recs[0].count;
+          });
+        drawChords1(mpr1.getMatrix(), mpr1.getMap());
       });
+      //*******************************************************************
+      //  DRAW THE CHORD DIAGRAM
+      //*******************************************************************
+      function drawChords1 (matrix, mmap) {
+        var w1 = 600, h1 = 600, r11 = h1 / 2, r10 = r11 - 100;
 
-  // draw legend
-  var legend = svg.selectAll(".legend")
-      .data(color.domain())
-    .enter().append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+        var fill1 = d3.scale.ordinal()
+            .domain(d3.range(4))
+            .range(["#000000", "#000080", "#006400", "#00BFFF", "#696969", "#800000", "#800080", "#DA70D6"]);
 
-  // draw legend colored rectangles
-  legend.append("rect")
-      .attr("x", width + 20)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", color);
+        var chord1 = d3.layout.chord()
+            .padding(.02)
+            .sortSubgroups(d3.descending)
+            .sortChords(d3.descending);
 
-  // draw legend text
-  legend.append("text")
-      .attr("x", width + 14)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("text-anchor", "end")
-      .text(function(d) { return d;})
-});
+        var arc1 = d3.svg.arc()
+            .innerRadius(r10)
+            .outerRadius(r10 + 20);
 
-</script>
+        var svg1 = d3.select("#shuffle1").append("svg:svg")
+            .attr("width", w1)
+            .attr("height", h1)
+          .append("svg:g")
+            .attr("id", "circle")
+            .attr("transform", "translate(" + w1 / 2 + "," + h1 / 2 + ")");
+
+            svg1.append("circle")
+                .attr("r", r10 + 20);
+
+        var rdr1 = chordRdr(matrix, mmap);
+        chord1.matrix(matrix);
+
+        var g1 = svg1.selectAll("g.group")
+            .data(chord1.groups())
+          .enter().append("svg:g")
+            .attr("class", "group")
+            .on("mouseover", mouseover1)
+            .on("mouseout", function (d) { d3.select("#tooltip1").style("visibility", "hidden") });
+
+        g1.append("svg:path")
+            .style("stroke", "black")
+            .style("fill", function(d) { return fill1(d.index); })
+            .attr("d", arc1);
+
+        g1.append("svg:text")
+            .each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; })
+            .attr("dy", ".35em")
+            .style("font-family", "helvetica, arial, sans-serif")
+            .style("font-size", "10px")
+            .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
+            .attr("transform", function(d) {
+              return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
+                  + "translate(" + (r10 + 26) + ")"
+                  + (d.angle > Math.PI ? "rotate(180)" : "");
+            })
+            .text(function(d) { return rdr1(d).gname; });
+
+          var chordPaths1 = svg1.selectAll("path.chord")
+                .data(chord1.chords())
+              .enter().append("svg:path")
+                .attr("class", "chord")
+                .style("stroke", function(d) { return d3.rgb(fill1(d.target.index)).darker(); })
+                .style("fill", function(d) { return fill1(d.target.index); })
+                .attr("d", d3.svg.chord().radius(r10))
+                .on("mouseover", function (d) {
+                  d3.select("#tooltip1")
+                    .style("visibility", "visible")
+                    .html(chordTip1(rdr1(d)))
+                    .style("top", function () { return (d3.event.pageY - 100)+"px"})
+                    .style("left", function () { return (d3.event.pageX - 100)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#tooltip1").style("visibility", "hidden") });
+
+          function chordTip1 (d) {
+            var p = d3.format(".1%"), q = d3.format("r")
+            return "Chord Info:<br/>"
+              + p(d.svalue/d.stotal) + " (" + q(d.svalue) + ") of "
+              + d.sname + " move to " + d.tname
+              + (d.sname === d.tname ? "": ("<br/>while...<br/>"
+              + p(d.tvalue/d.ttotal) + " (" + q(d.tvalue) + ") of "
+              + d.tname + " move to " + d.sname))
+          }
+
+          function groupTip1 (d) {
+            var p = d3.format(".1%"), q = d3.format(",.3r")
+            return "Group Info:<br/>"
+                + d.gname + " : " + q(d.gvalue) + "<br/>"
+                + p(d.gvalue/d.mtotal) + " of Clan Total (" + q(d.mtotal) + ")"
+          }
+
+          function mouseover1(d, i) {
+            d3.select("#tooltip1")
+              .style("visibility", "visible")
+              .html(groupTip1(rdr1(d)))
+              .style("top", function () { return (d3.event.pageY - 80)+"px"})
+              .style("left", function () { return (d3.event.pageX - 130)+"px";})
+
+            chordPaths1.classed("fade", function(p) {
+              return p.source.index != i
+                  && p.target.index != i;
+            });
+          }
+      }
+
+    </script>
+    
+    <script>
+      //*******************************************************************
+      //  CREATE MATRIX AND MAP
+      //*******************************************************************
+      d3.csv('shuffle_data/s2_shuffle.csv', function (error, data) {
+        var mpr2 = chordMpr(data);
+
+        mpr2
+          .addValuesToMap('isin')
+          .setFilter(function (row, a, b) {
+            return (row.isin === a.name && row.goesto === b.name)
+          })
+          .setAccessor(function (recs, a, b) {
+            if (!recs[0]) return 0;
+            return +recs[0].count;
+          });
+        drawChords2(mpr2.getMatrix(), mpr2.getMap());
+      });
+      //*******************************************************************
+      //  DRAW THE CHORD DIAGRAM
+      //*******************************************************************
+      function drawChords2 (matrix, mmap) {
+        var w2 = 600, h2 = 600, r21 = h2 / 2, r20 = r21 - 100;
+
+        var fill2 = d3.scale.ordinal()
+            .domain(d3.range(4))
+            .range(["#000000", "#000080", "#006400", "#00BFFF", "#696969", "#800000", "#800080", "#DA70D6"]);
+
+        var chord2 = d3.layout.chord()
+            .padding(.02)
+            .sortSubgroups(d3.descending)
+            .sortChords(d3.descending);
+
+        var arc2 = d3.svg.arc()
+            .innerRadius(r20)
+            .outerRadius(r20 + 20);
+
+        var svg2 = d3.select("#shuffle2").append("svg:svg")
+            .attr("width", w2)
+            .attr("height", h2)
+          .append("svg:g")
+            .attr("id", "circle")
+            .attr("transform", "translate(" + w2 / 2 + "," + h2 / 2 + ")");
+
+            svg2.append("circle")
+                .attr("r", r20 + 20);
+
+        var rdr2 = chordRdr(matrix, mmap);
+        chord2.matrix(matrix);
+
+        var g2 = svg2.selectAll("g.group")
+            .data(chord2.groups())
+          .enter().append("svg:g")
+            .attr("class", "group")
+            .on("mouseover", mouseover2)
+            .on("mouseout", function (d) { d3.select("#tooltip2").style("visibility", "hidden") });
+
+        g2.append("svg:path")
+            .style("stroke", "black")
+            .style("fill", function(d) { return fill2(d.index); })
+            .attr("d", arc2);
+
+        g2.append("svg:text")
+            .each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; })
+            .attr("dy", ".35em")
+            .style("font-family", "helvetica, arial, sans-serif")
+            .style("font-size", "10px")
+            .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
+            .attr("transform", function(d) {
+              return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
+                  + "translate(" + (r20 + 26) + ")"
+                  + (d.angle > Math.PI ? "rotate(180)" : "");
+            })
+            .text(function(d) { return rdr2(d).gname; });
+
+          var chordPaths2 = svg2.selectAll("path.chord")
+                .data(chord2.chords())
+              .enter().append("svg:path")
+                .attr("class", "chord")
+                .style("stroke", function(d) { return d3.rgb(fill2(d.target.index)).darker(); })
+                .style("fill", function(d) { return fill2(d.target.index); })
+                .attr("d", d3.svg.chord().radius(r20))
+                .on("mouseover", function (d) {
+                  d3.select("#tooltip2")
+                    .style("visibility", "visible")
+                    .html(chordTip2(rdr2(d)))
+                    .style("top", function () { return (d3.event.pageY - 100)+"px"})
+                    .style("left", function () { return (d3.event.pageX - 100)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#tooltip1").style("visibility", "hidden") });
+
+          function chordTip2 (d) {
+            var p = d3.format(".1%"), q = d3.format("r")
+            return "Chord Info:<br/>"
+              + p(d.svalue/d.stotal) + " (" + q(d.svalue) + ") of "
+              + d.sname + " move to " + d.tname
+              + (d.sname === d.tname ? "": ("<br/>while...<br/>"
+              + p(d.tvalue/d.ttotal) + " (" + q(d.tvalue) + ") of "
+              + d.tname + " move to " + d.sname))
+          }
+
+          function groupTip2 (d) {
+            var p = d3.format(".1%"), q = d3.format(",.3r")
+            return "Group Info:<br/>"
+                + d.gname + " : " + q(d.gvalue) + "<br/>"
+                + p(d.gvalue/d.mtotal) + " of Clan Total (" + q(d.mtotal) + ")"
+          }
+
+          function mouseover2(d, i) {
+            d3.select("#tooltip2")
+              .style("visibility", "visible")
+              .html(groupTip2(rdr2(d)))
+              .style("top", function () { return (d3.event.pageY - 80)+"px"})
+              .style("left", function () { return (d3.event.pageX - 130)+"px";})
+
+            chordPaths2.classed("fade", function(p) {
+              return p.source.index != i
+                  && p.target.index != i;
+            });
+          }
+      }
+
+    </script>
+
 </body>
 </html>

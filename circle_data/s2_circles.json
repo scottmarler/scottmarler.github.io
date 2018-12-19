@@ -49,10 +49,6 @@
                     "size": 6710.0
                 },
                 {
-                    "name": "Luis",
-                    "size": 6500.0
-                },
-                {
                     "name": "Randy",
                     "size": 6290.0
                 },
@@ -63,10 +59,6 @@
                 {
                     "name": "Luckyshot",
                     "size": 6110.0
-                },
-                {
-                    "name": "Stephen",
-                    "size": 6090.0
                 },
                 {
                     "name": "Will",
@@ -113,16 +105,8 @@
                     "size": 5300.0
                 },
                 {
-                    "name": "Scott",
-                    "size": 5190.0
-                },
-                {
                     "name": "Dave",
                     "size": 5160.0
-                },
-                {
-                    "name": "Paul",
-                    "size": 4970.0
                 },
                 {
                     "name": "Sherm",
@@ -137,24 +121,12 @@
                     "size": 4790.0
                 },
                 {
-                    "name": "Tin Cup",
-                    "size": 4740.0
-                },
-                {
                     "name": "Venician",
                     "size": 4700.0
                 },
                 {
-                    "name": "Oh Henrik",
-                    "size": 4540.0
-                },
-                {
                     "name": "Buck",
                     "size": 4540.0
-                },
-                {
-                    "name": "BallBoy534",
-                    "size": 4440.0
                 },
                 {
                     "name": "Gwo",
@@ -171,10 +143,6 @@
                 {
                     "name": "Hawk",
                     "size": 4130.0
-                },
-                {
-                    "name": "Beaven",
-                    "size": 4060.0
                 },
                 {
                     "name": "King",
@@ -203,12 +171,56 @@
                 {
                     "name": "Michael",
                     "size": 1550.0
+                },
+                {
+                    "name": "Derrick",
+                    "size": 3660.0
+                },
+                {
+                    "name": "F. Ouimet",
+                    "size": 3430.0
+                },
+                {
+                    "name": "Becca",
+                    "size": 3200.0
+                },
+                {
+                    "name": "Quacky",
+                    "size": 2730.0
+                },
+                {
+                    "name": "Chris",
+                    "size": 2670.0
+                },
+                {
+                    "name": "Crash-n-Burn",
+                    "size": 2420.0
+                },
+                {
+                    "name": "Getinthehole",
+                    "size": 1940.0
+                },
+                {
+                    "name": "Grip-n-Rip",
+                    "size": 1390.0
                 }
             ]
         },
         {
             "name": "Bedlam",
             "children": [
+                {
+                    "name": "Luis",
+                    "size": 6500.0
+                },
+                {
+                    "name": "Stephen",
+                    "size": 6090.0
+                },
+                {
+                    "name": "Oh Henrik",
+                    "size": 4540.0
+                },
                 {
                     "name": "Ron",
                     "size": 8150.0
@@ -226,40 +238,16 @@
                     "size": 3980.0
                 },
                 {
-                    "name": "Hendrix",
-                    "size": 3940.0
-                },
-                {
                     "name": "Found it!",
                     "size": 3790.0
-                },
-                {
-                    "name": "Derrick",
-                    "size": 3660.0
-                },
-                {
-                    "name": "F. Ouimet",
-                    "size": 3430.0
-                },
-                {
-                    "name": "KatBClashin",
-                    "size": 3330.0
                 },
                 {
                     "name": "Luis",
                     "size": 3260.0
                 },
                 {
-                    "name": "Trouble Boy",
-                    "size": 3230.0
-                },
-                {
                     "name": "Tee Time",
                     "size": 3230.0
-                },
-                {
-                    "name": "Becca",
-                    "size": 3200.0
                 },
                 {
                     "name": "Venician2",
@@ -270,16 +258,8 @@
                     "size": 3120.0
                 },
                 {
-                    "name": "Jochen",
-                    "size": 3090.0
-                },
-                {
                     "name": "Derick",
                     "size": 2980.0
-                },
-                {
-                    "name": "Julio",
-                    "size": 2970.0
                 },
                 {
                     "name": "Justin",
@@ -290,36 +270,16 @@
                     "size": 2890.0
                 },
                 {
-                    "name": "Quacky",
-                    "size": 2730.0
-                },
-                {
                     "name": "Hookslice",
                     "size": 2730.0
-                },
-                {
-                    "name": "Noonan!",
-                    "size": 2720.0
                 },
                 {
                     "name": "DLB",
                     "size": 2680.0
                 },
                 {
-                    "name": "Chris",
-                    "size": 2670.0
-                },
-                {
-                    "name": "Karl",
-                    "size": 2670.0
-                },
-                {
                     "name": "Tim",
                     "size": 2630.0
-                },
-                {
-                    "name": "Edison",
-                    "size": 2620.0
                 },
                 {
                     "name": "Paul",
@@ -408,6 +368,38 @@
                 {
                     "name": "Tee-1000",
                     "size": 1700.0
+                },
+                {
+                    "name": "TeeTime",
+                    "size": 1640.0
+                },
+                {
+                    "name": "Dave",
+                    "size": 1370.0
+                },
+                {
+                    "name": "Geoff",
+                    "size": 1310.0
+                },
+                {
+                    "name": "Chad",
+                    "size": 992.0
+                },
+                {
+                    "name": "Rory",
+                    "size": 920.0
+                },
+                {
+                    "name": "Rory",
+                    "size": 920.0
+                },
+                {
+                    "name": "Moises",
+                    "size": 885.0
+                },
+                {
+                    "name": "Anthony",
+                    "size": 522.0
                 }
             ]
         },
@@ -415,16 +407,32 @@
             "name": "Chaos",
             "children": [
                 {
-                    "name": "Foot Wedge $",
+                    "name": "Scott",
+                    "size": 5190.0
+                },
+                {
+                    "name": "Paul",
+                    "size": 4970.0
+                },
+                {
+                    "name": "Tin Cup",
+                    "size": 4740.0
+                },
+                {
+                    "name": "BallBoy534",
+                    "size": 4440.0
+                },
+                {
+                    "name": "Beaven",
+                    "size": 4060.0
+                },
+                {
+                    "name": "Hendrix",
+                    "size": 3940.0
+                },
+                {
+                    "name": "Noonan!",
                     "size": 2720.0
-                },
-                {
-                    "name": "Zephyr2",
-                    "size": 2580.0
-                },
-                {
-                    "name": "Zemanch",
-                    "size": 2570.0
                 },
                 {
                     "name": "KC GC",
@@ -435,64 +443,8 @@
                     "size": 2440.0
                 },
                 {
-                    "name": "Crash-n-Burn",
-                    "size": 2420.0
-                },
-                {
-                    "name": "#coachp",
-                    "size": 2400.0
-                },
-                {
-                    "name": "Joseph",
-                    "size": 2320.0
-                },
-                {
-                    "name": "Studnitz",
-                    "size": 2200.0
-                },
-                {
-                    "name": "Jason",
-                    "size": 2190.0
-                },
-                {
-                    "name": "Scott",
-                    "size": 2150.0
-                },
-                {
-                    "name": "Jake",
-                    "size": 2110.0
-                },
-                {
-                    "name": "Allison",
-                    "size": 2100.0
-                },
-                {
-                    "name": "Mike",
-                    "size": 2020.0
-                },
-                {
-                    "name": "Getinthehole",
-                    "size": 1940.0
-                },
-                {
                     "name": "Ace",
                     "size": 1930.0
-                },
-                {
-                    "name": "Not Sure",
-                    "size": 1840.0
-                },
-                {
-                    "name": "Prion",
-                    "size": 1800.0
-                },
-                {
-                    "name": "Peter",
-                    "size": 1790.0
-                },
-                {
-                    "name": "Keyser Soze",
-                    "size": 1790.0
                 },
                 {
                     "name": "Jack",
@@ -501,10 +453,6 @@
                 {
                     "name": "MerdeLadop",
                     "size": 1740.0
-                },
-                {
-                    "name": "Jason",
-                    "size": 1720.0
                 },
                 {
                     "name": "Darlene",
@@ -607,8 +555,52 @@
                     "size": 1030.0
                 },
                 {
-                    "name": "Bryantm",
-                    "size": 503.0
+                    "name": "Free.Rider",
+                    "size": 2680.0
+                },
+                {
+                    "name": "Craig",
+                    "size": 989.0
+                },
+                {
+                    "name": "Brian",
+                    "size": 954.0
+                },
+                {
+                    "name": "Hawk",
+                    "size": 830.0
+                },
+                {
+                    "name": "Fred M.....",
+                    "size": 749.0
+                },
+                {
+                    "name": "La Donco",
+                    "size": 732.0
+                },
+                {
+                    "name": "Tina",
+                    "size": 717.0
+                },
+                {
+                    "name": "Gary",
+                    "size": 520.0
+                },
+                {
+                    "name": "Brad H",
+                    "size": 498.0
+                },
+                {
+                    "name": "Jay Enright",
+                    "size": 488.0
+                },
+                {
+                    "name": "Bernadette",
+                    "size": 1460.0
+                },
+                {
+                    "name": "Bunkerseeker",
+                    "size": 1150.0
                 }
             ]
         },
@@ -616,36 +608,44 @@
             "name": "Destruction",
             "children": [
                 {
-                    "name": "Free.Rider",
-                    "size": 2680.0
+                    "name": "Julio",
+                    "size": 2970.0
+                },
+                {
+                    "name": "Edison",
+                    "size": 2620.0
+                },
+                {
+                    "name": "#coachp",
+                    "size": 2400.0
+                },
+                {
+                    "name": "Joseph",
+                    "size": 2320.0
+                },
+                {
+                    "name": "Studnitz",
+                    "size": 2200.0
+                },
+                {
+                    "name": "Jake",
+                    "size": 2110.0
+                },
+                {
+                    "name": "Bryantm",
+                    "size": 503.0
                 },
                 {
                     "name": "Jon Snow",
                     "size": 1730.0
                 },
                 {
-                    "name": "Poppa Mupp",
-                    "size": 1660.0
-                },
-                {
                     "name": "BallCrusher",
                     "size": 1650.0
                 },
                 {
-                    "name": "TeeTime",
-                    "size": 1640.0
-                },
-                {
                     "name": "Tin Cup",
                     "size": 1600.0
-                },
-                {
-                    "name": "Del",
-                    "size": 1510.0
-                },
-                {
-                    "name": "Bust'n Balls",
-                    "size": 1500.0
                 },
                 {
                     "name": "Martin",
@@ -656,28 +656,12 @@
                     "size": 1470.0
                 },
                 {
-                    "name": "Andy G",
-                    "size": 1430.0
-                },
-                {
                     "name": "Darrin",
                     "size": 1410.0
                 },
                 {
-                    "name": "Grip-n-Rip",
-                    "size": 1390.0
-                },
-                {
                     "name": "Virus",
                     "size": 1380.0
-                },
-                {
-                    "name": "Dave",
-                    "size": 1370.0
-                },
-                {
-                    "name": "Geoff",
-                    "size": 1310.0
                 },
                 {
                     "name": "Care",
@@ -686,10 +670,6 @@
                 {
                     "name": "Ghost Pepper",
                     "size": 1250.0
-                },
-                {
-                    "name": "Jennifer",
-                    "size": 1180.0
                 },
                 {
                     "name": "Rassa",
@@ -704,10 +684,6 @@
                     "size": 1120.0
                 },
                 {
-                    "name": "Ray",
-                    "size": 1110.0
-                },
-                {
                     "name": "Charles",
                     "size": 1090.0
                 },
@@ -718,10 +694,6 @@
                 {
                     "name": "Bink",
                     "size": 1060.0
-                },
-                {
-                    "name": "Flash Clash",
-                    "size": 1030.0
                 },
                 {
                     "name": "Monk",
@@ -736,32 +708,12 @@
                     "size": 995.0
                 },
                 {
-                    "name": "Chad",
-                    "size": 992.0
-                },
-                {
-                    "name": "Craig",
-                    "size": 989.0
-                },
-                {
                     "name": "Zoey",
                     "size": 971.0
                 },
                 {
                     "name": "Joe",
                     "size": 971.0
-                },
-                {
-                    "name": "Buddy",
-                    "size": 955.0
-                },
-                {
-                    "name": "Brian",
-                    "size": 954.0
-                },
-                {
-                    "name": "Rory",
-                    "size": 920.0
                 },
                 {
                     "name": "RobertGoulet",
@@ -810,12 +762,80 @@
                 {
                     "name": "Michael",
                     "size": 573.0
+                },
+                {
+                    "name": "The Phoenix",
+                    "size": 562.0
+                },
+                {
+                    "name": "Smiles",
+                    "size": 522.0
+                },
+                {
+                    "name": "Forrest",
+                    "size": 519.0
+                },
+                {
+                    "name": "BallKiller85",
+                    "size": 400.0
+                },
+                {
+                    "name": "Warren",
+                    "size": 256.0
+                },
+                {
+                    "name": "Sova4u",
+                    "size": 241.0
+                },
+                {
+                    "name": "Jeangulmanut",
+                    "size": 56.0
+                },
+                {
+                    "name": "Charles",
+                    "size": 1150.0
                 }
             ]
         },
         {
             "name": "Endbringer",
             "children": [
+                {
+                    "name": "Foot Wedge $",
+                    "size": 2720.0
+                },
+                {
+                    "name": "Zemanch",
+                    "size": 2570.0
+                },
+                {
+                    "name": "Allison",
+                    "size": 2100.0
+                },
+                {
+                    "name": "Mike",
+                    "size": 2020.0
+                },
+                {
+                    "name": "Not Sure",
+                    "size": 1840.0
+                },
+                {
+                    "name": "Prion",
+                    "size": 1800.0
+                },
+                {
+                    "name": "Del",
+                    "size": 1510.0
+                },
+                {
+                    "name": "Bust'n Balls",
+                    "size": 1500.0
+                },
+                {
+                    "name": "Andy G",
+                    "size": 1430.0
+                },
                 {
                     "name": "Amber",
                     "size": 1700.0
@@ -877,20 +897,8 @@
                     "size": 930.0
                 },
                 {
-                    "name": "Rory",
-                    "size": 920.0
-                },
-                {
-                    "name": "Buckeye45",
-                    "size": 899.0
-                },
-                {
                     "name": "Harris",
                     "size": 897.0
-                },
-                {
-                    "name": "Moises",
-                    "size": 885.0
                 },
                 {
                     "name": "Russell",
@@ -913,24 +921,12 @@
                     "size": 832.0
                 },
                 {
-                    "name": "Hawk",
-                    "size": 830.0
-                },
-                {
-                    "name": "LaffertyDan",
-                    "size": 818.0
-                },
-                {
                     "name": "Lock2",
                     "size": 801.0
                 },
                 {
                     "name": "Joel",
                     "size": 788.0
-                },
-                {
-                    "name": "D Dot Doug",
-                    "size": 787.0
                 },
                 {
                     "name": "Steve C",
@@ -945,20 +941,8 @@
                     "size": 756.0
                 },
                 {
-                    "name": "Fred M.....",
-                    "size": 749.0
-                },
-                {
                     "name": "Dregoboss",
                     "size": 735.0
-                },
-                {
-                    "name": "La Donco",
-                    "size": 732.0
-                },
-                {
-                    "name": "Tina",
-                    "size": 717.0
                 },
                 {
                     "name": "Tom",
@@ -989,34 +973,70 @@
                     "size": 582.0
                 },
                 {
-                    "name": "The Phoenix",
-                    "size": 562.0
-                },
-                {
-                    "name": "Anthony",
-                    "size": 522.0
-                },
-                {
-                    "name": "Smiles",
-                    "size": 522.0
-                },
-                {
-                    "name": "Gary",
-                    "size": 520.0
-                },
-                {
-                    "name": "Forrest",
-                    "size": 519.0
-                },
-                {
                     "name": "D.J",
                     "size": 514.0
+                },
+                {
+                    "name": "Overreaction",
+                    "size": 433.0
+                },
+                {
+                    "name": "Fred",
+                    "size": 402.0
+                },
+                {
+                    "name": "Tanstaafl",
+                    "size": 338.0
+                },
+                {
+                    "name": "GC-Russ",
+                    "size": 273.0
+                },
+                {
+                    "name": "Crash Davis",
+                    "size": 233.0
+                },
+                {
+                    "name": "Stephen",
+                    "size": 156.0
                 }
             ]
         },
         {
             "name": "Fire",
             "children": [
+                {
+                    "name": "Zephyr2",
+                    "size": 2580.0
+                },
+                {
+                    "name": "Poppa Mupp",
+                    "size": 1660.0
+                },
+                {
+                    "name": "Ray",
+                    "size": 1110.0
+                },
+                {
+                    "name": "Flash Clash",
+                    "size": 1030.0
+                },
+                {
+                    "name": "Buddy",
+                    "size": 955.0
+                },
+                {
+                    "name": "Buckeye45",
+                    "size": 899.0
+                },
+                {
+                    "name": "LaffertyDan",
+                    "size": 818.0
+                },
+                {
+                    "name": "D Dot Doug",
+                    "size": 787.0
+                },
                 {
                     "name": "Dalton",
                     "size": 1100.0
@@ -1070,16 +1090,8 @@
                     "size": 506.0
                 },
                 {
-                    "name": "Brad H",
-                    "size": 498.0
-                },
-                {
                     "name": "Myst",
                     "size": 498.0
-                },
-                {
-                    "name": "Jay Enright",
-                    "size": 488.0
                 },
                 {
                     "name": "Dennis",
@@ -1088,10 +1100,6 @@
                 {
                     "name": "Schwabby78",
                     "size": 445.0
-                },
-                {
-                    "name": "Overreaction",
-                    "size": 433.0
                 },
                 {
                     "name": "Brandon22",
@@ -1110,14 +1118,6 @@
                     "size": 406.0
                 },
                 {
-                    "name": "Fred",
-                    "size": 402.0
-                },
-                {
-                    "name": "BallKiller85",
-                    "size": 400.0
-                },
-                {
                     "name": "BK84",
                     "size": 397.0
                 },
@@ -1132,10 +1132,6 @@
                 {
                     "name": "Gee",
                     "size": 349.0
-                },
-                {
-                    "name": "Tanstaafl",
-                    "size": 338.0
                 },
                 {
                     "name": "Eugene",
@@ -1162,14 +1158,6 @@
                     "size": 295.0
                 },
                 {
-                    "name": "Jason",
-                    "size": 286.0
-                },
-                {
-                    "name": "GC-Russ",
-                    "size": 273.0
-                },
-                {
                     "name": "Ty Webb",
                     "size": 272.0
                 },
@@ -1182,24 +1170,8 @@
                     "size": 267.0
                 },
                 {
-                    "name": "Warren",
-                    "size": 256.0
-                },
-                {
-                    "name": "Sova4u",
-                    "size": 241.0
-                },
-                {
-                    "name": "Crash Davis",
-                    "size": 233.0
-                },
-                {
                     "name": "TaylorMade",
                     "size": 176.0
-                },
-                {
-                    "name": "Stephen",
-                    "size": 156.0
                 },
                 {
                     "name": "Sketch",
@@ -1208,6 +1180,26 @@
                 {
                     "name": "Benn Dover",
                     "size": 20.0
+                },
+                {
+                    "name": "Robert",
+                    "size": 115.0
+                },
+                {
+                    "name": "CH\u20ac\u20acZ\u20ac",
+                    "size": 56.0
+                },
+                {
+                    "name": "Hollywood",
+                    "size": 36.0
+                },
+                {
+                    "name": "Les",
+                    "size": 383.0
+                },
+                {
+                    "name": "Dick",
+                    "size": 209.0
                 }
             ]
         },
@@ -1215,8 +1207,44 @@
             "name": "Guerrillas",
             "children": [
                 {
-                    "name": "Bernadette",
-                    "size": 1460.0
+                    "name": "KatBClashin",
+                    "size": 3330.0
+                },
+                {
+                    "name": "Trouble Boy",
+                    "size": 3230.0
+                },
+                {
+                    "name": "Jochen",
+                    "size": 3090.0
+                },
+                {
+                    "name": "Karl",
+                    "size": 2670.0
+                },
+                {
+                    "name": "Jason",
+                    "size": 2190.0
+                },
+                {
+                    "name": "Scott",
+                    "size": 2150.0
+                },
+                {
+                    "name": "Peter",
+                    "size": 1790.0
+                },
+                {
+                    "name": "Keyser Soze",
+                    "size": 1790.0
+                },
+                {
+                    "name": "Jason",
+                    "size": 1720.0
+                },
+                {
+                    "name": "Jennifer",
+                    "size": 1180.0
                 },
                 {
                     "name": "Maverick",
@@ -1331,10 +1359,6 @@
                     "size": 120.0
                 },
                 {
-                    "name": "Robert",
-                    "size": 115.0
-                },
-                {
                     "name": "GC - Gards",
                     "size": 104.0
                 },
@@ -1347,20 +1371,8 @@
                     "size": 70.0
                 },
                 {
-                    "name": "Jeangulmanut",
-                    "size": 56.0
-                },
-                {
-                    "name": "CH\u20ac\u20acZ\u20ac",
-                    "size": 56.0
-                },
-                {
                     "name": "Lauras",
                     "size": 40.0
-                },
-                {
-                    "name": "Hollywood",
-                    "size": 36.0
                 },
                 {
                     "name": "Kkimmes",
@@ -1373,6 +1385,14 @@
                 {
                     "name": "Teddy13",
                     "size": 6.0
+                },
+                {
+                    "name": "TofuDaLegend",
+                    "size": 336.0
+                },
+                {
+                    "name": "Nasty1",
+                    "size": 80.0
                 }
             ]
         }

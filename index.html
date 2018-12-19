@@ -70,6 +70,20 @@ white-space: nowrap;
 pointer-events: none;
 }
 
+#circle_tooltip3 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
+}
+
 #circle circle {
 fill: none;
 pointer-events: all;
@@ -247,8 +261,8 @@ body {
     <p></p>
     <h2>Season 3</h2>
     <h5>Nov 25, 2018 - Dec 23, 2018</h5>
-    <div class="fakeimg" style="height:200px;">Waiting for Data</div>
-    <p></p>
+    <p>Circles will be drawn to scale when the final S3 points are recorded.</p>
+    <div id="s3" style="height:600px;"><div id="circle_tooltip3"></div></div>
     <br>
     <h2>Every Month We're Shuf-fl-in'</h2>
     <h5>Business as usual</h5>
@@ -305,7 +319,7 @@ body {
               .on("mouseover", function (d) {
                   d3.select("#circle_tooltip1")
                     .style("visibility", "visible")
-                    .html(d.name + "<br>" + d.fb_name)
+                    .html(d.name + "<br>" + d.fb_name + "<br>" +d.size)
                     .style("top", function () { return (d3.event.pageY - 20)+"px"})
                     .style("left", function () { return (d3.event.pageX + 20)+"px";})
                 })
@@ -393,7 +407,7 @@ body {
               .on("mouseover", function (d) {
                   d3.select("#circle_tooltip2")
                     .style("visibility", "visible")
-                    .html(d.name + "<br>" + d.fb_name)
+                    .html(d.name + "<br>" + d.fb_name + "<br>" +d.size)
                     .style("top", function () { return (d3.event.pageY - 20)+"px"})
                     .style("left", function () { return (d3.event.pageX + 20)+"px";})
                 })
@@ -433,6 +447,94 @@ body {
               .attr("x", function(d) { return x2(d.x); })
               .attr("y", function(d) { return y2(d.y); })
               .style("opacity", function(d) { return k2 * d.r > 15 ? 1 : 0; });
+
+          node = d;
+          d3.event.stopPropagation();
+        }
+
+    </script>
+    
+    <script type="text/javascript">
+
+        var w3 = 600,
+            h3 = 600,
+            r3 = 550,
+            x3 = d3.scale.linear().range([0, r3]),
+            y3 = d3.scale.linear().range([0, r3]),
+            node3,
+            root3;
+
+        var pack = d3.layout.pack()
+            .size([r3, r3])
+            .value(function(d) { return d.size; })
+
+        var vis3 = d3.select("#s3").insert("svg:svg", "h2")
+            .attr("width", w3)
+            .attr("height", h3)
+          .append("svg:g")
+            .attr("transform", "translate(" + (w3 - r3) / 2 + "," + (h3 - r3) / 2 + ")");
+
+        // add the tooltip area to the webpage
+        var tooltip = d3.select("#s3").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+            
+        d3.json("circle_data/s3_circles.json", function(data) {
+          node = root = data;
+
+          var nodes3 = pack.nodes(root);
+
+          vis3.selectAll("circle")
+              .data(nodes3)
+            .enter().append("svg:circle")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; })
+              .attr("r", function(d) { return d.r; })
+              .on("click", function(d) { return zoom3(node == d ? root : d); })
+              .on("mouseover", function (d) {
+                  d3.select("#circle_tooltip3")
+                    .style("visibility", "visible")
+                    .html(d.name + "<br>" + d.fb_name + "<br>" +d.size)
+                    .style("top", function () { return (d3.event.pageY - 20)+"px"})
+                    .style("left", function () { return (d3.event.pageX + 20)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#circle_tooltip3").style("visibility", "hidden")
+              })
+              ;
+
+          vis3.selectAll("text")
+              .data(nodes3)
+            .enter().append("svg:text")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("x", function(d) { return d.x; })
+              .attr("y", function(d) { return d.y; })
+              .attr("dy", ".35em")
+              .attr("text-anchor", "middle")
+              .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+              .text(function(d) { return d.name; })
+              ;
+
+          d3.select(window).on("click", function() { zoom3(root); });
+        });
+
+        function zoom3(d, i) {
+          var k3 = r3 / d.r / 2;
+          x3.domain([d.x - d.r, d.x + d.r]);
+          y3.domain([d.y - d.r, d.y + d.r]);
+
+          var t = vis3.transition()
+              .duration(d3.event.altKey ? 7500 : 750);
+
+          t.selectAll("circle")
+              .attr("cx", function(d) { return x3(d.x); })
+              .attr("cy", function(d) { return y3(d.y); })
+              .attr("r", function(d) { return k3 * d.r; });
+
+          t.selectAll("text")
+              .attr("x", function(d) { return x3(d.x); })
+              .attr("y", function(d) { return y3(d.y); })
+              .style("opacity", function(d) { return k3 * d.r > 15 ? 1 : 0; });
 
           node = d;
           d3.event.stopPropagation();

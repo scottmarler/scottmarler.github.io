@@ -240,7 +240,8 @@
                     "fb_name": "Dave Cheetham"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Bedlam",
@@ -486,7 +487,8 @@
                     "fb_name": "Dan Bennett"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Chaos",
@@ -727,7 +729,8 @@
                     "fb_name": "Craig Stein"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Destruction",
@@ -943,7 +946,8 @@
                     "fb_name": "John Weston"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Endbringer",
@@ -1184,7 +1188,8 @@
                     "fb_name": "Andrew Bernard"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Fire",
@@ -1370,7 +1375,8 @@
                     "fb_name": "Oak Hale"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Guerrillas",
@@ -1576,7 +1582,8 @@
                     "fb_name": "David Roseman"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         },
         {
             "name": "Havoc",
@@ -1632,8 +1639,10 @@
                     "fb_name": "Larry Kirkland"
                 }
             ],
-            "fb_name": ""
+            "fb_name": "",
+            "size": ""
         }
     ],
-    "fb_name": "For the U!"
+    "fb_name": "For the U!",
+    "size": ""
 }

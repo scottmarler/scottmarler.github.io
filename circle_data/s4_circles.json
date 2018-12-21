@@ -1,243 +1,258 @@
 {
-    "name": "GCU S3 Clan Family",
+    "name": "GCU S4 Clan Family",
     "children": [
         {
             "name": "Anarchy",
             "children": [
                 {
                     "name": "Shanker Mike",
-                    "size": 8380.0,
+                    "size": 1,
                     "fb_name": "Mike Zoran"
                 },
                 {
                     "name": "BallBoy534",
-                    "size": 5670.0,
+                    "size": 1,
                     "fb_name": "Will Reeside"
                 },
                 {
                     "name": "Bones",
-                    "size": 5640.0,
+                    "size": 1,
                     "fb_name": "Bones Rekamreliob"
                 },
                 {
+                    "name": "Dark Side",
+                    "size": 1,
+                    "fb_name": "Jimmy Keenan"
+                },
+                {
                     "name": "Beeferclaus",
-                    "size": 4470.0,
+                    "size": 1,
                     "fb_name": "Brian McCale"
                 },
                 {
                     "name": "Randy",
-                    "size": 4140.0,
+                    "size": 1,
                     "fb_name": "Randy Chua"
                 },
                 {
                     "name": "Chris",
-                    "size": 9050.0,
+                    "size": 1,
                     "fb_name": "Chris Kowatsch"
                 },
                 {
+                    "name": "Mike",
+                    "size": 1,
+                    "fb_name": "Mike Bradt"
+                },
+                {
                     "name": "Will",
-                    "size": 7500.0,
+                    "size": 1,
                     "fb_name": "Will Reeside"
                 },
                 {
                     "name": "Baron",
-                    "size": 6290.0,
+                    "size": 1,
                     "fb_name": "Baron Gochenour"
                 },
                 {
                     "name": "Josh",
-                    "size": 5200.0,
+                    "size": 1,
                     "fb_name": "Josh Hathorn"
                 },
                 {
-                    "name": "Ty Webb",
-                    "size": 7540.0,
-                    "fb_name": "Ty Webb II"
-                },
-                {
                     "name": "Gwo",
-                    "size": 6270.0,
+                    "size": 1,
                     "fb_name": "Gwo Shih"
                 },
                 {
+                    "name": "DLB",
+                    "size": 1,
+                    "fb_name": "Dlb Barneyppm"
+                },
+                {
                     "name": "Ben",
-                    "size": 4330.0,
+                    "size": 1,
                     "fb_name": "Ben Aviss"
                 },
                 {
-                    "name": "Venician",
-                    "size": 3760.0,
-                    "fb_name": "Lou Rossi"
+                    "name": "Jochen",
+                    "size": 1,
+                    "fb_name": "J\u00f6rgen Forslund"
                 },
                 {
                     "name": "J\u00f6rgen",
-                    "size": 6080.0,
+                    "size": 1,
                     "fb_name": "J\u00f6rgen Forslund"
                 },
                 {
                     "name": "Oh Henrik",
-                    "size": 5290.0,
+                    "size": 1,
                     "fb_name": "Joseph Sherman"
                 },
                 {
                     "name": "Derek",
-                    "size": 12780.0,
+                    "size": 1,
                     "fb_name": "Derek Holt"
                 },
                 {
                     "name": "Luis",
-                    "size": 6500.0,
+                    "size": 1,
                     "fb_name": "Luis Retamar Briggs"
                 },
                 {
                     "name": "Bradley",
-                    "size": 6710.0,
+                    "size": 1,
                     "fb_name": "Bradley Faithfull"
                 },
                 {
-                    "name": "Zack",
-                    "size": 3250.0,
-                    "fb_name": "David Waugh"
-                },
-                {
                     "name": "Paul",
-                    "size": 4490.0,
+                    "size": 1,
                     "fb_name": "Paul Klages"
                 },
                 {
                     "name": "Scott",
-                    "size": 12130.0,
+                    "size": 1,
                     "fb_name": "Scott Marler"
                 },
                 {
                     "name": "Joel",
-                    "size": 5200.0,
+                    "size": 1,
                     "fb_name": "Joel Saffer"
                 },
                 {
                     "name": "Beaven",
-                    "size": 4440.0,
+                    "size": 1,
                     "fb_name": "Beaner Brown"
                 },
                 {
                     "name": "Michael",
-                    "size": 19870.0,
+                    "size": 1,
                     "fb_name": "Michael Bradt Jr."
                 },
                 {
                     "name": "James G",
-                    "size": 7240.0,
+                    "size": 1,
                     "fb_name": "James G Hudson"
                 },
                 {
                     "name": "\u26f3Matthew\u26f3",
-                    "size": 11490.0,
+                    "size": 1,
                     "fb_name": "Matthew Wilkinson"
                 },
                 {
                     "name": "Matt",
-                    "size": 11130.0,
+                    "size": 1,
                     "fb_name": "Matthew Spatcher"
                 },
                 {
                     "name": "Keyser S\u00f6ze",
-                    "size": 6960.0,
+                    "size": 1,
                     "fb_name": "Bobby Boyens"
                 },
                 {
                     "name": "Dave",
-                    "size": 5720.0,
+                    "size": 1,
                     "fb_name": "Dave Shill"
                 },
                 {
+                    "name": "Daddy T",
+                    "size": 1,
+                    "fb_name": "Tray Batson"
+                },
+                {
                     "name": "Nick",
-                    "size": 8060.0,
+                    "size": 1,
                     "fb_name": "Nick Fyock"
                 },
                 {
                     "name": "Skadoosh",
-                    "size": 10180.0,
+                    "size": 1,
                     "fb_name": "George Canales"
                 },
                 {
                     "name": "Tin Cup",
-                    "size": 4120.0,
+                    "size": 1,
                     "fb_name": "Justin Reynolds"
                 },
                 {
                     "name": "BruceLee1976",
-                    "size": 4390.0,
+                    "size": 1,
                     "fb_name": "Gwo Shih"
                 },
                 {
                     "name": "Stephen",
-                    "size": 4840.0,
+                    "size": 1,
                     "fb_name": "Stephen Falcus"
                 },
                 {
                     "name": "Kevin",
-                    "size": 6850.0,
+                    "size": 1,
                     "fb_name": "Kevin Nunes"
                 },
                 {
                     "name": "Bobby",
-                    "size": 3610.0,
+                    "size": 1,
                     "fb_name": "Bobby Boyens"
                 },
                 {
-                    "name": "Poppy",
-                    "size": 2490.0,
-                    "fb_name": "Jay Whipple"
+                    "name": "#coachp",
+                    "size": 1,
+                    "fb_name": "Jeff Ellsworth"
                 },
                 {
                     "name": "Luckyshot",
-                    "size": 16060.0,
+                    "size": 1,
                     "fb_name": "Christopher Tyrrell"
                 },
                 {
                     "name": "Buck",
-                    "size": 4130.0,
+                    "size": 1,
                     "fb_name": "Buck Luckner"
                 },
                 {
                     "name": "Washed Balls",
-                    "size": 5650.0,
+                    "size": 1,
                     "fb_name": "Quinn Oldenhoff"
                 },
                 {
                     "name": "Quackers",
-                    "size": 4670.0,
+                    "size": 1,
                     "fb_name": "Ross Munford"
                 },
                 {
                     "name": "Brian",
-                    "size": 14780.0,
+                    "size": 1,
                     "fb_name": "Christopher Tyrrell"
                 },
                 {
                     "name": "Sherm",
-                    "size": 6450.0,
+                    "size": 1,
                     "fb_name": "Joseph Sherman"
                 },
                 {
-                    "name": "Robin",
-                    "size": 2450.0,
-                    "fb_name": "Robin Parker"
+                    "name": "Go2urhome",
+                    "size": 1,
+                    "fb_name": "Ikee Woods"
+                },
+                {
+                    "name": "Rory",
+                    "size": 1,
+                    "fb_name": "Rory Violett"
                 },
                 {
                     "name": "Falcon",
-                    "size": 4360.0,
+                    "size": 1,
                     "fb_name": "Bill Baker"
                 },
                 {
                     "name": "Jonathan",
-                    "size": 9910.0,
+                    "size": 1,
                     "fb_name": "Jonathan Bathe"
                 },
                 {
-                    "name": "Scott",
-                    "size": 3010.0,
-                    "fb_name": "Scott Miles"
+                    "name": "Craig",
+                    "size": 1,
+                    "fb_name": "Craig Stein"
                 }
             ],
             "fb_name": "",
@@ -248,247 +263,252 @@
             "children": [
                 {
                     "name": "The Mate",
-                    "size": 3730.0,
+                    "size": 1,
                     "fb_name": "Christopher F. Haggins"
                 },
                 {
                     "name": "Scott",
-                    "size": 3960.0,
+                    "size": 1,
                     "fb_name": "Scott Caenepeel"
                 },
                 {
-                    "name": "Justin",
-                    "size": 846.0,
-                    "fb_name": "Justin Zachary"
-                },
-                {
                     "name": "Hendrix",
-                    "size": 3010.0,
+                    "size": 1,
                     "fb_name": "Jim Matteuzzi"
                 },
                 {
                     "name": "RTR Bama",
-                    "size": 1780.0,
+                    "size": 1,
                     "fb_name": "John McKinney"
                 },
                 {
                     "name": "Beaner",
-                    "size": 2460.0,
+                    "size": 1,
                     "fb_name": "Beaner Brown"
                 },
                 {
+                    "name": "Darlene",
+                    "size": 1,
+                    "fb_name": "Darlene Barnhouse"
+                },
+                {
                     "name": "Chris",
-                    "size": 2460.0,
+                    "size": 1,
                     "fb_name": "Chris Dohm"
                 },
                 {
+                    "name": "Sneppahtihs",
+                    "size": 1,
+                    "fb_name": "Robert Vincent"
+                },
+                {
                     "name": "Quacky",
-                    "size": 5120.0,
+                    "size": 1,
                     "fb_name": "Ross Munford"
                 },
                 {
                     "name": "Derick",
-                    "size": 2780.0,
+                    "size": 1,
                     "fb_name": "Derick Turner"
                 },
                 {
                     "name": "Jon",
-                    "size": 4000.0,
+                    "size": 1,
                     "fb_name": "Jon Herrick"
                 },
                 {
                     "name": "Kat",
-                    "size": 3250.0,
+                    "size": 1,
                     "fb_name": "Kat Ramage"
                 },
                 {
                     "name": "Michelle",
-                    "size": 1800.0,
+                    "size": 1,
                     "fb_name": "Michelle Law"
                 },
                 {
-                    "name": "NeoDawg",
-                    "size": 1580.0,
-                    "fb_name": "Fernando Ponce"
-                },
-                {
                     "name": "Tim",
-                    "size": 2480.0,
+                    "size": 1,
                     "fb_name": "Timothy Shane"
                 },
                 {
                     "name": "Paul",
-                    "size": 2830.0,
+                    "size": 1,
                     "fb_name": "Paul E. Mooney"
                 },
                 {
+                    "name": "Ty Webb",
+                    "size": 1,
+                    "fb_name": "Ty Webb II"
+                },
+                {
                     "name": "Andrew",
-                    "size": 2800.0,
+                    "size": 1,
                     "fb_name": "Andrew Bernlohr"
                 },
                 {
-                    "name": "DLB",
-                    "size": 4370.0,
-                    "fb_name": "Dlb Barneyppm"
-                },
-                {
-                    "name": "Ron",
-                    "size": 5690.0,
-                    "fb_name": "Ron Knobloch"
-                },
-                {
                     "name": "Shooter",
-                    "size": 2560.0,
+                    "size": 1,
                     "fb_name": "Tony Weber"
                 },
                 {
+                    "name": "Venician",
+                    "size": 1,
+                    "fb_name": "Lou Rossi"
+                },
+                {
                     "name": "Trouble Boy",
-                    "size": 3080.0,
+                    "size": 1,
                     "fb_name": "Luis Retamar Briggs"
                 },
                 {
                     "name": "Tee-1000",
-                    "size": 3320.0,
+                    "size": 1,
                     "fb_name": "David Cheetham"
                 },
                 {
-                    "name": "Jochen",
-                    "size": 4130.0,
-                    "fb_name": "J\u00f6rgen Forslund"
-                },
-                {
                     "name": "HoneyB",
-                    "size": 1880.0,
+                    "size": 1,
                     "fb_name": "Pat Brovier"
                 },
                 {
                     "name": "Luis",
-                    "size": 2770.0,
+                    "size": 1,
                     "fb_name": "Luis Retamar Briggs"
                 },
                 {
+                    "name": "Quackerjack",
+                    "size": 1,
+                    "fb_name": "Ross Munford"
+                },
+                {
+                    "name": "Bryantm",
+                    "size": 1,
+                    "fb_name": "Bryant Mack"
+                },
+                {
                     "name": "Hookslice",
-                    "size": 4640.0,
+                    "size": 1,
                     "fb_name": "Paul E. Mooney"
                 },
                 {
-                    "name": "Becca",
-                    "size": 1640.0,
-                    "fb_name": "Craig Stein"
+                    "name": "Zack",
+                    "size": 1,
+                    "fb_name": "David Waugh"
                 },
                 {
                     "name": "John",
-                    "size": 2080.0,
+                    "size": 1,
                     "fb_name": "John Hayden"
                 },
                 {
                     "name": "ButtonButton",
-                    "size": 1480.0,
+                    "size": 1,
                     "fb_name": "Mike Button"
                 },
                 {
-                    "name": "Julio",
-                    "size": 808.0,
-                    "fb_name": "Julio C Jaramillo"
-                },
-                {
                     "name": "Venician2",
-                    "size": 2440.0,
+                    "size": 1,
                     "fb_name": "Lou Rossi"
                 },
                 {
                     "name": "Cornholio",
-                    "size": 3580.0,
+                    "size": 1,
                     "fb_name": "Stephen Conway Jr"
                 },
                 {
                     "name": "Tee Time",
-                    "size": 3780.0,
+                    "size": 1,
                     "fb_name": "Tee Time"
                 },
                 {
                     "name": "Noonan!",
-                    "size": 4420.0,
+                    "size": 1,
                     "fb_name": "Danny Noonan"
                 },
                 {
                     "name": "Kyle",
-                    "size": 1760.0,
+                    "size": 1,
                     "fb_name": "Kyle Plaster"
                 },
                 {
                     "name": "Ty Webb",
-                    "size": 3290.0,
+                    "size": 1,
                     "fb_name": "Ty Webb"
                 },
                 {
-                    "name": "Bohica",
-                    "size": 180.0,
-                    "fb_name": "Bill Foster"
-                },
-                {
                     "name": "OhYeah",
-                    "size": 2040.0,
+                    "size": 1,
                     "fb_name": "Everett Wilson"
                 },
                 {
                     "name": "F. Ouimet",
-                    "size": 1850.0,
+                    "size": 1,
                     "fb_name": "Ty Webb"
                 },
                 {
-                    "name": "MinH",
-                    "size": 1570.0,
-                    "fb_name": "Minh Nguyen"
+                    "name": "Velcro Balls",
+                    "size": 1,
+                    "fb_name": "Robert Vincent"
+                },
+                {
+                    "name": "LaffertyDan",
+                    "size": 1,
+                    "fb_name": "Daniel Jimenez"
                 },
                 {
                     "name": "DP",
-                    "size": 1200.0,
+                    "size": 1,
                     "fb_name": "David Potts"
                 },
                 {
                     "name": "KatBClashin",
-                    "size": 3090.0,
+                    "size": 1,
                     "fb_name": "Kat Ramage"
                 },
                 {
                     "name": "Jay",
-                    "size": 2600.0,
+                    "size": 1,
                     "fb_name": "Jeremy Holt"
                 },
                 {
                     "name": "Derrick",
-                    "size": 2020.0,
+                    "size": 1,
                     "fb_name": "Derrick Walls"
                 },
                 {
                     "name": "RV",
-                    "size": 4060.0,
+                    "size": 1,
                     "fb_name": "Robert Vincent"
                 },
                 {
                     "name": "Edison",
-                    "size": 3730.0,
+                    "size": 1,
                     "fb_name": "Edison Doughty"
                 },
                 {
+                    "name": "Allison",
+                    "size": 1,
+                    "fb_name": "Nick Fyock"
+                },
+                {
                     "name": "Dewlap",
-                    "size": 1920.0,
+                    "size": 1,
                     "fb_name": "Scott Groff"
                 },
                 {
                     "name": "Betterwetter",
-                    "size": 2250.0,
+                    "size": 1,
                     "fb_name": "Stephen Conway Jr"
                 },
                 {
-                    "name": "SirSliceAlot",
-                    "size": 1640.0,
-                    "fb_name": "Dave Herman"
+                    "name": "Zephyr2",
+                    "size": 1,
+                    "fb_name": "Dean Evans"
                 },
                 {
                     "name": "Found it!",
-                    "size": 1940.0,
+                    "size": 1,
                     "fb_name": "Dan Bennett"
                 }
             ],
@@ -500,248 +520,253 @@
             "children": [
                 {
                     "name": "Ace",
-                    "size": 1320.0,
+                    "size": 1,
                     "fb_name": "Adam Effinger"
                 },
                 {
                     "name": "Getinthehole",
-                    "size": 1020.0,
+                    "size": 1,
                     "fb_name": "Derrick Walls"
                 },
                 {
                     "name": "Not Sure",
-                    "size": 2020.0,
+                    "size": 1,
                     "fb_name": "Justin Gleiter"
                 },
                 {
-                    "name": "Darlene",
-                    "size": 3480.0,
-                    "fb_name": "Darlene Barnhouse"
-                },
-                {
-                    "name": "FrayBentos",
-                    "size": 812.0,
-                    "fb_name": "Steve Farley"
-                },
-                {
-                    "name": "Sneppahtihs",
-                    "size": 3560.0,
-                    "fb_name": "Robert Vincent"
-                },
-                {
-                    "name": "Larry",
-                    "size": 914.0,
-                    "fb_name": "Larry Kirkland"
-                },
-                {
                     "name": "Tim",
-                    "size": 1710.0,
+                    "size": 1,
                     "fb_name": "Tim Van Tassel"
                 },
                 {
+                    "name": "Walt",
+                    "size": 1,
+                    "fb_name": "Walter Ramsey"
+                },
+                {
                     "name": "Kenny",
-                    "size": 1120.0,
+                    "size": 1,
                     "fb_name": "Kenny Jay"
                 },
                 {
                     "name": "Rob",
-                    "size": 917.0,
+                    "size": 1,
                     "fb_name": "Rob Skuza"
                 },
                 {
-                    "name": "Brian",
-                    "size": 20.0,
-                    "fb_name": "Brian Allen"
-                },
-                {
-                    "name": "Sam",
-                    "size": 628.0,
-                    "fb_name": "Roland Armitage"
-                },
-                {
                     "name": "Delroy",
-                    "size": 1030.0,
+                    "size": 1,
                     "fb_name": "Delroy Tuorila"
                 },
                 {
+                    "name": "Charles",
+                    "size": 1,
+                    "fb_name": "Charles P Harris"
+                },
+                {
                     "name": "Ghost",
-                    "size": 3260.0,
+                    "size": 1,
                     "fb_name": "Nick Fyock"
                 },
                 {
                     "name": "Studnitz",
-                    "size": 2280.0,
+                    "size": 1,
                     "fb_name": "Martin Studnitz Andersen"
                 },
                 {
-                    "name": "Jok3r",
-                    "size": 550.0,
-                    "fb_name": "Joshua M. Koester"
+                    "name": "Dalton",
+                    "size": 1,
+                    "fb_name": "Dalton Morris"
                 },
                 {
-                    "name": "Bryantm",
-                    "size": 3810.0,
-                    "fb_name": "Bryant Mack"
+                    "name": "Amanda",
+                    "size": 1,
+                    "fb_name": "Tom Clark"
                 },
                 {
-                    "name": "Ferchu",
-                    "size": 626.0,
-                    "fb_name": "Fernando Galvan"
+                    "name": "Tin Cup",
+                    "size": 1,
+                    "fb_name": "Ivan Sharpe"
                 },
                 {
                     "name": "The Hobbster",
-                    "size": 1590.0,
+                    "size": 1,
                     "fb_name": "Yog Bear"
                 },
                 {
                     "name": "MerdeLadop",
-                    "size": 1530.0,
+                    "size": 1,
                     "fb_name": "Scott Groff"
                 },
                 {
+                    "name": "Becca",
+                    "size": 1,
+                    "fb_name": "Craig Stein"
+                },
+                {
                     "name": "Robert",
-                    "size": 1210.0,
+                    "size": 1,
                     "fb_name": "Robert Fudge"
                 },
                 {
                     "name": "Philip",
-                    "size": 1410.0,
+                    "size": 1,
                     "fb_name": "Philip Neussendorfer"
                 },
                 {
                     "name": "Mike",
-                    "size": 2660.0,
+                    "size": 1,
                     "fb_name": "Mike Wortman"
                 },
                 {
                     "name": "Jack",
-                    "size": 930.0,
+                    "size": 1,
                     "fb_name": "Jack Noe"
                 },
                 {
+                    "name": "Rory",
+                    "size": 1,
+                    "fb_name": "Rory Dowling"
+                },
+                {
                     "name": "Peter",
-                    "size": 2530.0,
+                    "size": 1,
                     "fb_name": "Peter Epsom"
                 },
                 {
                     "name": "Prion",
-                    "size": 1530.0,
+                    "size": 1,
                     "fb_name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u03a0\u03bf\u03c1\u03c6\u03cd\u03c1\u03b7\u03c2"
                 },
                 {
                     "name": "ZipperZipper",
-                    "size": 1910.0,
+                    "size": 1,
                     "fb_name": "Mike Button"
                 },
                 {
                     "name": "\u03a0\u0391\u039f\u039a",
-                    "size": 2140.0,
+                    "size": 1,
                     "fb_name": "Steve Georgitsos"
                 },
                 {
                     "name": "Dan C.",
-                    "size": 2800.0,
+                    "size": 1,
                     "fb_name": "Dan Cline"
                 },
                 {
                     "name": "Shanker",
-                    "size": 1270.0,
+                    "size": 1,
                     "fb_name": "Mike Zoran"
                 },
                 {
                     "name": "Go Blue TB12",
-                    "size": 2760.0,
+                    "size": 1,
                     "fb_name": "Rory Violett"
                 },
                 {
                     "name": "Zemanch",
-                    "size": 1480.0,
+                    "size": 1,
                     "fb_name": "Josh Zechman"
                 },
                 {
                     "name": "InDaHole",
-                    "size": 1080.0,
+                    "size": 1,
                     "fb_name": "Jay Ott"
                 },
                 {
+                    "name": "Betheball",
+                    "size": 1,
+                    "fb_name": "David Glazer"
+                },
+                {
                     "name": "KC GC",
-                    "size": 1900.0,
+                    "size": 1,
                     "fb_name": "Scott Caenepeel"
                 },
                 {
                     "name": "Foot Wedge $",
-                    "size": 2740.0,
+                    "size": 1,
                     "fb_name": "Paul E. Mooney"
                 },
                 {
-                    "name": "Jake",
-                    "size": 128.0,
+                    "name": "Smiles",
+                    "size": 1,
                     "fb_name": "Jake Brandl"
                 },
                 {
-                    "name": "Joseph",
-                    "size": 368.0,
-                    "fb_name": "Joseph Andersen"
-                },
-                {
-                    "name": "#coachp",
-                    "size": 4300.0,
-                    "fb_name": "Jeff Ellsworth"
-                },
-                {
-                    "name": "Juan Centavo",
-                    "size": 272.0,
-                    "fb_name": "John Penny"
-                },
-                {
                     "name": "GC Robert",
-                    "size": 1180.0,
+                    "size": 1,
                     "fb_name": "Robert Mcdougall"
                 },
                 {
+                    "name": "Poppy",
+                    "size": 1,
+                    "fb_name": "Jay Whipple"
+                },
+                {
                     "name": "Craig",
-                    "size": 2780.0,
+                    "size": 1,
                     "fb_name": "Craig Lee"
                 },
                 {
                     "name": "Scott",
-                    "size": 1900.0,
+                    "size": 1,
                     "fb_name": "Scott Groff"
                 },
                 {
                     "name": "Keyser Soze",
-                    "size": 1680.0,
+                    "size": 1,
                     "fb_name": "David Potts"
                 },
                 {
+                    "name": "Ghost Pepper",
+                    "size": 1,
+                    "fb_name": "Jeffrey Bereiter"
+                },
+                {
+                    "name": "Poppa Mupp",
+                    "size": 1,
+                    "fb_name": "Cliff Vaughan"
+                },
+                {
                     "name": "Crash-n-Burn",
-                    "size": 2580.0,
+                    "size": 1,
                     "fb_name": "Robert Sweisthal"
                 },
                 {
                     "name": "Roland",
-                    "size": 1500.0,
+                    "size": 1,
                     "fb_name": "Roland Armitage"
                 },
                 {
-                    "name": "Allison",
-                    "size": 3630.0,
-                    "fb_name": "Nick Fyock"
-                },
-                {
                     "name": "Michael",
-                    "size": 2090.0,
+                    "size": 1,
                     "fb_name": "Michael Li"
                 },
                 {
                     "name": "LuckyGirl2",
-                    "size": 1820.0,
+                    "size": 1,
                     "fb_name": "Sonja K Larson"
                 },
                 {
-                    "name": "Zephyr2",
-                    "size": 3240.0,
-                    "fb_name": "Dean Evans"
+                    "name": "Robin",
+                    "size": 1,
+                    "fb_name": "Robin Parker"
+                },
+                {
+                    "name": "Martin",
+                    "size": 1,
+                    "fb_name": "Martin Studnitz Andersen"
+                },
+                {
+                    "name": "Dave",
+                    "size": 1,
+                    "fb_name": "Dave Cheetham"
+                },
+                {
+                    "name": "Scott",
+                    "size": 1,
+                    "fb_name": "Scott Miles"
                 }
             ],
             "fb_name": "",
@@ -751,254 +776,254 @@
             "name": "Destruction",
             "children": [
                 {
-                    "name": "TeeTime",
-                    "size": 13.0,
-                    "fb_name": "David Glazer"
+                    "name": "Tyler",
+                    "size": 1,
+                    "fb_name": "Tyler Andrew"
                 },
                 {
                     "name": "Andy|K",
-                    "size": 764.0,
+                    "size": 1,
                     "fb_name": "Andy Kirkbride"
                 },
                 {
                     "name": "Del",
-                    "size": 1460.0,
+                    "size": 1,
                     "fb_name": "Delroy Tuorila"
                 },
                 {
+                    "name": "Zephyr",
+                    "size": 1,
+                    "fb_name": "Dean Evans"
+                },
+                {
                     "name": "Geoff",
-                    "size": 841.0,
+                    "size": 1,
                     "fb_name": "Geoff Brown"
                 },
                 {
-                    "name": "Larry Don",
-                    "size": 224.0,
-                    "fb_name": "Larry Kirkland"
+                    "name": "Walter",
+                    "size": 1,
+                    "fb_name": "Walter Ramsey"
+                },
+                {
+                    "name": "Mike",
+                    "size": 1,
+                    "fb_name": "Mike Snyder"
+                },
+                {
+                    "name": "NeoDawg",
+                    "size": 1,
+                    "fb_name": "Fernando Ponce"
                 },
                 {
                     "name": "Grip-n-Rip",
-                    "size": 684.0,
+                    "size": 1,
                     "fb_name": "Ken Bengtson"
                 },
                 {
-                    "name": "Care",
-                    "size": 468.0,
-                    "fb_name": "Carie L. May"
+                    "name": "Slumerican",
+                    "size": 1,
+                    "fb_name": "Matt Coker"
                 },
                 {
                     "name": "Bruce",
-                    "size": 1600.0,
+                    "size": 1,
                     "fb_name": "Bruce LeMeur"
                 },
                 {
                     "name": "Flash Clash",
-                    "size": 711.0,
+                    "size": 1,
                     "fb_name": "Yog Bear"
                 },
                 {
                     "name": "Michael",
-                    "size": 949.0,
+                    "size": 1,
                     "fb_name": "Michael Schimmelman"
                 },
                 {
-                    "name": "Charles",
-                    "size": 2480.0,
-                    "fb_name": "Charles P Harris"
-                },
-                {
                     "name": "Andy G",
-                    "size": 1250.0,
+                    "size": 1,
                     "fb_name": "Andy Grassom"
                 },
                 {
-                    "name": "Ido Haiku",
-                    "size": 418.0,
-                    "fb_name": "Ray Caligiuri"
-                },
-                {
                     "name": "Virus",
-                    "size": 1470.0,
+                    "size": 1,
                     "fb_name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u03a0\u03bf\u03c1\u03c6\u03cd\u03c1\u03b7\u03c2"
                 },
                 {
-                    "name": "Amanda",
-                    "size": 2140.0,
-                    "fb_name": "Tom Clark"
-                },
-                {
-                    "name": "Darrin",
-                    "size": 457.0,
-                    "fb_name": "Darrin Parrish"
-                },
-                {
-                    "name": "Tin Cup",
-                    "size": 2820.0,
-                    "fb_name": "Ivan Sharpe"
-                },
-                {
                     "name": "Ray",
-                    "size": 689.0,
+                    "size": 1,
                     "fb_name": "Bink Davis"
                 },
                 {
                     "name": "Jennifer",
-                    "size": 1210.0,
+                    "size": 1,
                     "fb_name": "Jennifer Bitner-Castellanos"
                 },
                 {
-                    "name": "RobertGoulet",
-                    "size": 517.0,
-                    "fb_name": "Mike Johnson"
+                    "name": "Craig",
+                    "size": 1,
+                    "fb_name": "Craig Anderson"
+                },
+                {
+                    "name": "Blackandblue",
+                    "size": 1,
+                    "fb_name": "Mathew Vargas"
                 },
                 {
                     "name": "Cuse33",
-                    "size": 1120.0,
+                    "size": 1,
                     "fb_name": "Frank Swierk"
                 },
                 {
+                    "name": "Deek",
+                    "size": 1,
+                    "fb_name": "Derick Turner"
+                },
+                {
+                    "name": "Maverick",
+                    "size": 1,
+                    "fb_name": "Bradley Faithfull"
+                },
+                {
                     "name": "David",
-                    "size": 671.0,
+                    "size": 1,
                     "fb_name": "David Windsor"
                 },
                 {
+                    "name": "Grip-n-Rip3",
+                    "size": 1,
+                    "fb_name": "Ken Bengtson"
+                },
+                {
                     "name": "Jon Snow",
-                    "size": 9570.0,
+                    "size": 1,
                     "fb_name": "Michael Bradt Jr."
                 },
                 {
                     "name": "Portaguee",
-                    "size": 1140.0,
+                    "size": 1,
                     "fb_name": "Mathew Vargas"
                 },
                 {
+                    "name": "Daddy T x 2",
+                    "size": 1,
+                    "fb_name": "Tray Batson"
+                },
+                {
                     "name": "Chad",
-                    "size": 589.0,
+                    "size": 1,
                     "fb_name": "Chad Shearer"
                 },
                 {
                     "name": "Bink",
-                    "size": 1130.0,
+                    "size": 1,
                     "fb_name": "Bink Davis"
                 },
                 {
                     "name": "Rassa",
-                    "size": 804.0,
+                    "size": 1,
                     "fb_name": "Rassa Wassa"
                 },
                 {
+                    "name": "Big Hampton",
+                    "size": 1,
+                    "fb_name": "Paul Baker"
+                },
+                {
                     "name": "Michael",
-                    "size": 1340.0,
+                    "size": 1,
                     "fb_name": "Michael Tran"
                 },
                 {
                     "name": "Steve",
-                    "size": 1680.0,
+                    "size": 1,
                     "fb_name": "Steve Georgitsos"
                 },
                 {
-                    "name": "Zoey",
-                    "size": 395.0,
-                    "fb_name": "Minh Nguyen"
-                },
-                {
                     "name": "Jim",
-                    "size": 1010.0,
+                    "size": 1,
                     "fb_name": "Jim Bailey"
                 },
                 {
                     "name": "Bust'n Balls",
-                    "size": 1400.0,
+                    "size": 1,
                     "fb_name": "Geoff Hamilton"
                 },
                 {
-                    "name": "GolfPlumber",
-                    "size": 500.0,
-                    "fb_name": "Nathan Mcdevitt"
+                    "name": "MinH",
+                    "size": 1,
+                    "fb_name": "Minh Nguyen"
+                },
+                {
+                    "name": "D.J",
+                    "size": 1,
+                    "fb_name": "Duncan Woods"
                 },
                 {
                     "name": "Jethro",
-                    "size": 710.0,
+                    "size": 1,
                     "fb_name": "Geoff Brown"
                 },
                 {
+                    "name": "Bernadette",
+                    "size": 1,
+                    "fb_name": "Robert Fudge"
+                },
+                {
+                    "name": "Michael",
+                    "size": 1,
+                    "fb_name": "Michael Li"
+                },
+                {
                     "name": "BallCrusher",
-                    "size": 712.0,
+                    "size": 1,
                     "fb_name": "William Netz"
                 },
                 {
                     "name": "Joe",
-                    "size": 1420.0,
+                    "size": 1,
                     "fb_name": "Joe Servedio"
                 },
                 {
-                    "name": "Ghost Pepper",
-                    "size": 2060.0,
-                    "fb_name": "Jeffrey Bereiter"
-                },
-                {
-                    "name": "Poppa Mupp",
-                    "size": 1900.0,
-                    "fb_name": "Cliff Vaughan"
-                },
-                {
                     "name": "Teddy",
-                    "size": 789.0,
+                    "size": 1,
                     "fb_name": "Teddy Gorman"
                 },
                 {
                     "name": "Monk",
-                    "size": 1050.0,
+                    "size": 1,
                     "fb_name": "GC Monk"
                 },
                 {
-                    "name": "Buster Brown",
-                    "size": 208.0,
-                    "fb_name": "Bones Rekamreliob"
-                },
-                {
                     "name": "Random",
-                    "size": 673.0,
+                    "size": 1,
                     "fb_name": "Randy Dedeugd"
                 },
                 {
-                    "name": "Dennis",
-                    "size": 472.0,
-                    "fb_name": "Dennis Beninato"
+                    "name": "Cal",
+                    "size": 1,
+                    "fb_name": "Caleb Hathorn"
                 },
                 {
                     "name": "Corey",
-                    "size": 854.0,
+                    "size": 1,
                     "fb_name": "Corey Dolan"
                 },
                 {
                     "name": "Brian",
-                    "size": 914.0,
+                    "size": 1,
                     "fb_name": "Brian Zimmel"
                 },
                 {
-                    "name": "Rory",
-                    "size": 5270.0,
-                    "fb_name": "Rory Violett"
+                    "name": "SirSliceAlot",
+                    "size": 1,
+                    "fb_name": "Dave Herman"
                 },
                 {
                     "name": "Buddy",
-                    "size": 1280.0,
+                    "size": 1,
                     "fb_name": "Bill Myers"
-                },
-                {
-                    "name": "Martin",
-                    "size": 2210.0,
-                    "fb_name": "Martin Studnitz Andersen"
-                },
-                {
-                    "name": "Dave",
-                    "size": 2660.0,
-                    "fb_name": "Dave Cheetham"
-                },
-                {
-                    "name": "Craig",
-                    "size": 6000.0,
-                    "fb_name": "Craig Stein"
                 }
             ],
             "fb_name": "",
@@ -1008,253 +1033,253 @@
             "name": "Endbringer",
             "children": [
                 {
-                    "name": "Anthony",
-                    "size": 292.0,
-                    "fb_name": "Anthony Jones"
+                    "name": "Justin",
+                    "size": 1,
+                    "fb_name": "Justin Zachary"
+                },
+                {
+                    "name": "FrayBentos",
+                    "size": 1,
+                    "fb_name": "Steve Farley"
                 },
                 {
                     "name": "D Dot Doug",
-                    "size": 742.0,
+                    "size": 1,
                     "fb_name": "Dougie Doug"
                 },
                 {
                     "name": "Pat",
-                    "size": 806.0,
+                    "size": 1,
                     "fb_name": "Pat O'Shrine"
                 },
                 {
                     "name": "Udunngoe",
-                    "size": 849.0,
+                    "size": 1,
                     "fb_name": "Scott Groff"
                 },
                 {
-                    "name": "Zephyr",
-                    "size": 1490.0,
-                    "fb_name": "Dean Evans"
-                },
-                {
-                    "name": "Walter",
-                    "size": 1610.0,
-                    "fb_name": "Walter Ramsey"
-                },
-                {
                     "name": "La Donco",
-                    "size": 673.0,
+                    "size": 1,
                     "fb_name": "Larry Kirkland"
                 },
                 {
-                    "name": "Moises",
-                    "size": 20.0,
-                    "fb_name": "Moises Hop"
+                    "name": "Larry",
+                    "size": 1,
+                    "fb_name": "Larry Kirkland"
                 },
                 {
-                    "name": "The Phoenix",
-                    "size": 170.0,
-                    "fb_name": "Lora Welch"
+                    "name": "Sam",
+                    "size": 1,
+                    "fb_name": "Roland Armitage"
                 },
                 {
                     "name": "Tom",
-                    "size": 574.0,
+                    "size": 1,
                     "fb_name": "Tom Clark"
                 },
                 {
                     "name": "Bill",
-                    "size": 1020.0,
+                    "size": 1,
                     "fb_name": "Bill Myers"
                 },
                 {
                     "name": "MrPWest",
-                    "size": 773.0,
+                    "size": 1,
                     "fb_name": "Prescott Hilson"
                 },
                 {
+                    "name": "Jok3r",
+                    "size": 1,
+                    "fb_name": "Joshua M. Koester"
+                },
+                {
                     "name": "Cliff",
-                    "size": 1060.0,
+                    "size": 1,
                     "fb_name": "Cliff Vaughan"
                 },
                 {
+                    "name": "Myst",
+                    "size": 1,
+                    "fb_name": "Clay Flemming"
+                },
+                {
+                    "name": "Ferchu",
+                    "size": 1,
+                    "fb_name": "Fernando Galvan"
+                },
+                {
+                    "name": "YankeeJoe",
+                    "size": 1,
+                    "fb_name": "Joseph Sherman"
+                },
+                {
                     "name": "Joel",
-                    "size": 987.0,
+                    "size": 1,
                     "fb_name": "McAndrews Joel"
                 },
                 {
-                    "name": "Craig",
-                    "size": 1190.0,
-                    "fb_name": "Craig Anderson"
-                },
-                {
-                    "name": "Mike the 3rd",
-                    "size": 370.0,
-                    "fb_name": "Mike Button"
+                    "name": "RobertGoulet",
+                    "size": 1,
+                    "fb_name": "Mike Johnson"
                 },
                 {
                     "name": "Fred M.....",
-                    "size": 1090.0,
+                    "size": 1,
                     "fb_name": "Fred Miller"
                 },
                 {
-                    "name": "Blackandblue",
-                    "size": 1170.0,
-                    "fb_name": "Mathew Vargas"
-                },
-                {
-                    "name": "Harris",
-                    "size": 373.0,
-                    "fb_name": "Harris Paul"
-                },
-                {
                     "name": "Buckeye45",
-                    "size": 688.0,
+                    "size": 1,
                     "fb_name": "Dave Sisson"
                 },
                 {
-                    "name": "Rory",
-                    "size": 2880.0,
-                    "fb_name": "Rory Dowling"
-                },
-                {
                     "name": "Tom",
-                    "size": 998.0,
+                    "size": 1,
                     "fb_name": "Tom Clark"
                 },
                 {
-                    "name": "Hamish",
-                    "size": 402.0,
-                    "fb_name": "Hamish Philp"
+                    "name": "Julio",
+                    "size": 1,
+                    "fb_name": "Julio C Jaramillo"
                 },
                 {
                     "name": "Russell",
-                    "size": 496.0,
+                    "size": 1,
                     "fb_name": "Russell Gardner"
                 },
                 {
+                    "name": "Open Man",
+                    "size": 1,
+                    "fb_name": "Robert Fudge"
+                },
+                {
+                    "name": "Rob",
+                    "size": 1,
+                    "fb_name": "Rob Kerfoot"
+                },
+                {
                     "name": "Lock2",
-                    "size": 1290.0,
+                    "size": 1,
                     "fb_name": "Bryan Loughmiller"
                 },
                 {
                     "name": "Bryan_Lock1",
-                    "size": 1390.0,
+                    "size": 1,
                     "fb_name": "Bryan Loughmiller"
                 },
                 {
                     "name": "Dominic",
-                    "size": 707.0,
+                    "size": 1,
                     "fb_name": "Dominic Aviss"
                 },
                 {
                     "name": "Edward",
-                    "size": 641.0,
+                    "size": 1,
                     "fb_name": "Edward Chase"
                 },
                 {
-                    "name": "Big Hampton",
-                    "size": 1300.0,
-                    "fb_name": "Paul Baker"
+                    "name": "Miles...",
+                    "size": 1,
+                    "fb_name": "Scott Miles"
                 },
                 {
                     "name": "Olddog62",
-                    "size": 806.0,
+                    "size": 1,
                     "fb_name": "Chris Field"
                 },
                 {
                     "name": "Amber",
-                    "size": 656.0,
+                    "size": 1,
                     "fb_name": "Bones Rekamreliob"
                 },
                 {
-                    "name": "Mike",
-                    "size": 456.0,
-                    "fb_name": "Mike George"
+                    "name": "GolfPlumber",
+                    "size": 1,
+                    "fb_name": "Nathan Mcdevitt"
                 },
                 {
                     "name": "#GoBlue",
-                    "size": 1070.0,
+                    "size": 1,
                     "fb_name": "Fritz Allhoff"
                 },
                 {
                     "name": "Dregoboss",
-                    "size": 875.0,
+                    "size": 1,
                     "fb_name": "Andre Carty"
                 },
                 {
-                    "name": "Neal2",
-                    "size": 130.0,
-                    "fb_name": "John Brown"
-                },
-                {
-                    "name": "D.J",
-                    "size": 1610.0,
-                    "fb_name": "Duncan Woods"
-                },
-                {
-                    "name": "Smiles",
-                    "size": 2050.0,
-                    "fb_name": "Jake Brandl"
-                },
-                {
-                    "name": "LaffertyDan",
-                    "size": 3380.0,
-                    "fb_name": "Daniel Jimenez"
-                },
-                {
-                    "name": "Michael",
-                    "size": 1600.0,
-                    "fb_name": "Michael Li"
-                },
-                {
                     "name": "Forrest",
-                    "size": 691.0,
+                    "size": 1,
                     "fb_name": "Forrest VanPatten"
                 },
                 {
                     "name": "Gino",
-                    "size": 796.0,
+                    "size": 1,
                     "fb_name": "Mattia Peruzzo"
                 },
                 {
                     "name": "Kirkland",
-                    "size": 539.0,
+                    "size": 1,
                     "fb_name": "Larry Kirkland"
                 },
                 {
+                    "name": "Fred",
+                    "size": 1,
+                    "fb_name": "Fred Schlicht"
+                },
+                {
                     "name": "Tina",
-                    "size": 1080.0,
+                    "size": 1,
                     "fb_name": "Tina R Weston"
                 },
                 {
-                    "name": "2ndHand Lion",
-                    "size": 456.0,
-                    "fb_name": "Dave Rees"
-                },
-                {
                     "name": "Whackhead",
-                    "size": 944.0,
+                    "size": 1,
                     "fb_name": "Norman Haggan"
                 },
                 {
+                    "name": "Dennis",
+                    "size": 1,
+                    "fb_name": "Dennis Beninato"
+                },
+                {
                     "name": "Victor",
-                    "size": 760.0,
+                    "size": 1,
                     "fb_name": "Victor Jeanah Bartruff"
                 },
                 {
                     "name": "GCJimmy",
-                    "size": 466.0,
+                    "size": 1,
                     "fb_name": "Jim Almond"
                 },
                 {
+                    "name": "Brooke",
+                    "size": 1,
+                    "fb_name": "Jonathan Bathe"
+                },
+                {
+                    "name": "Jason",
+                    "size": 1,
+                    "fb_name": "Jason Tisdale"
+                },
+                {
+                    "name": "Davis",
+                    "size": 1,
+                    "fb_name": "Davis Tran"
+                },
+                {
+                    "name": "Curtis",
+                    "size": 1,
+                    "fb_name": "Curtis Vanover"
+                },
+                {
                     "name": "Steve C",
-                    "size": 768.0,
+                    "size": 1,
                     "fb_name": "Steven Curry"
                 },
                 {
-                    "name": "Neal3",
-                    "size": 420.0,
-                    "fb_name": "John Brown"
-                },
-                {
                     "name": "John",
-                    "size": 658.0,
+                    "size": 1,
                     "fb_name": "John Weston"
                 }
             ],
@@ -1265,239 +1290,254 @@
             "name": "Fire",
             "children": [
                 {
-                    "name": "Tyler",
-                    "size": 1250.0,
-                    "fb_name": "Tyler Andrew"
+                    "name": "Anthony",
+                    "size": 1,
+                    "fb_name": "Anthony Jones"
                 },
                 {
                     "name": "\u660e\u6bc5",
-                    "size": 319.0,
+                    "size": 1,
                     "fb_name": "Ming-yi Li"
                 },
                 {
                     "name": "XGC Loaded",
-                    "size": 318.0,
+                    "size": 1,
                     "fb_name": "JR Byford"
                 },
                 {
                     "name": "Ty Webb",
-                    "size": 325.0,
+                    "size": 1,
                     "fb_name": "Jason Ballard"
                 },
                 {
+                    "name": "Larry Don",
+                    "size": 1,
+                    "fb_name": "Larry Kirkland"
+                },
+                {
                     "name": "Schwabby78",
-                    "size": 360.0,
+                    "size": 1,
                     "fb_name": "James Schwab"
                 },
                 {
-                    "name": "Mike",
-                    "size": 1270.0,
-                    "fb_name": "Mike Snyder"
-                },
-                {
                     "name": "Duggan",
-                    "size": 306.0,
+                    "size": 1,
                     "fb_name": "Dan Bennett"
                 },
                 {
-                    "name": "Walt",
-                    "size": 2590.0,
-                    "fb_name": "Walter Ramsey"
-                },
-                {
                     "name": "Vegas Rose",
-                    "size": 732.0,
+                    "size": 1,
                     "fb_name": "Scott Miles"
                 },
                 {
                     "name": "Undertaker",
-                    "size": 716.0,
+                    "size": 1,
                     "fb_name": "James Milligan"
                 },
                 {
+                    "name": "The Phoenix",
+                    "size": 1,
+                    "fb_name": "Lora Welch"
+                },
+                {
                     "name": "Brad H",
-                    "size": 598.0,
+                    "size": 1,
                     "fb_name": "Brad Harrison"
                 },
                 {
                     "name": "NapoleonSolo",
-                    "size": 406.0,
+                    "size": 1,
                     "fb_name": "Joe Morrison"
                 },
                 {
-                    "name": "Alex",
-                    "size": 1240.0,
-                    "fb_name": "Scott Marler"
+                    "name": "Care",
+                    "size": 1,
+                    "fb_name": "Carie L. May"
                 },
                 {
                     "name": "Brainiac",
-                    "size": 216.0,
+                    "size": 1,
                     "fb_name": "Brian Cole"
                 },
                 {
-                    "name": "Slumerican",
-                    "size": 1520.0,
-                    "fb_name": "Matt Coker"
-                },
-                {
                     "name": "John P",
-                    "size": 269.0,
+                    "size": 1,
                     "fb_name": "John Penny"
                 },
                 {
-                    "name": "Dalton",
-                    "size": 1970.0,
-                    "fb_name": "Dalton Morris"
-                },
-                {
                     "name": "Ricko",
-                    "size": 579.0,
+                    "size": 1,
                     "fb_name": "Ricko Sells"
                 },
                 {
                     "name": "Jay Enright",
-                    "size": 622.0,
+                    "size": 1,
                     "fb_name": "Jay Enright"
                 },
                 {
                     "name": "Shao-Ting",
-                    "size": 376.0,
+                    "size": 1,
                     "fb_name": "Shao-ting Li"
                 },
                 {
+                    "name": "Ido Haiku",
+                    "size": 1,
+                    "fb_name": "Ray Caligiuri"
+                },
+                {
+                    "name": "Darrin",
+                    "size": 1,
+                    "fb_name": "Darrin Parrish"
+                },
+                {
                     "name": "FredM IV",
-                    "size": 508.0,
+                    "size": 1,
                     "fb_name": "Fred Miller"
                 },
                 {
-                    "name": "Myst",
-                    "size": 836.0,
-                    "fb_name": "Clay Flemming"
-                },
-                {
                     "name": "Badguest",
-                    "size": 323.0,
+                    "size": 1,
                     "fb_name": "Sketch Mohan"
                 },
                 {
-                    "name": "Gee",
-                    "size": 156.0,
-                    "fb_name": "Gee Wiz"
-                },
-                {
                     "name": "Fly Away",
-                    "size": 628.0,
+                    "size": 1,
                     "fb_name": "Harold Sutton"
                 },
                 {
-                    "name": "Da' Man",
-                    "size": 148.0,
-                    "fb_name": "Gary Breakfield"
-                },
-                {
                     "name": "Eugene",
-                    "size": 776.0,
+                    "size": 1,
                     "fb_name": "Eugene Greenfield"
                 },
                 {
+                    "name": "Mike the 3rd",
+                    "size": 1,
+                    "fb_name": "Mike Button"
+                },
+                {
+                    "name": "Harris",
+                    "size": 1,
+                    "fb_name": "Harris Paul"
+                },
+                {
                     "name": "Tommy",
-                    "size": 469.0,
+                    "size": 1,
                     "fb_name": "Tommy Howell II"
                 },
                 {
                     "name": "Chris",
-                    "size": 372.0,
+                    "size": 1,
                     "fb_name": "Chris Field"
-                },
-                {
-                    "name": "Sketch",
-                    "size": 75.0,
-                    "fb_name": "Sketch Mohan"
                 },
                 {
                     "name": "Olddog",
-                    "size": 363.0,
+                    "size": 1,
                     "fb_name": "Chris Field"
                 },
                 {
-                    "name": "Rob",
-                    "size": 921.0,
-                    "fb_name": "Rob Kerfoot"
+                    "name": "Hamish",
+                    "size": 1,
+                    "fb_name": "Hamish Philp"
                 },
                 {
                     "name": "BallKiller85",
-                    "size": 192.0,
+                    "size": 1,
                     "fb_name": "Julio C Jaramillo"
                 },
                 {
                     "name": "GC-Russ",
-                    "size": 657.0,
+                    "size": 1,
                     "fb_name": "Russell Gardner"
                 },
                 {
                     "name": "Overreaction",
-                    "size": 223.0,
+                    "size": 1,
                     "fb_name": "Dave Sisson"
                 },
                 {
+                    "name": "Bohica",
+                    "size": 1,
+                    "fb_name": "Bill Foster"
+                },
+                {
+                    "name": "Zoey",
+                    "size": 1,
+                    "fb_name": "Minh Nguyen"
+                },
+                {
                     "name": "TaylorMade",
-                    "size": 304.0,
+                    "size": 1,
                     "fb_name": "Patrick Whitehead"
                 },
                 {
+                    "name": "Mike",
+                    "size": 1,
+                    "fb_name": "Mike George"
+                },
+                {
                     "name": "Clint",
-                    "size": 340.0,
+                    "size": 1,
                     "fb_name": "Clint Craven"
                 },
                 {
                     "name": "Mini-me",
-                    "size": 3150.0,
+                    "size": 1,
                     "fb_name": "Scott Marler"
                 },
                 {
                     "name": "BlackCaesar",
-                    "size": 556.0,
+                    "size": 1,
                     "fb_name": "Prescott Hilson"
                 },
                 {
+                    "name": "Joseph",
+                    "size": 1,
+                    "fb_name": "Joseph Andersen"
+                },
+                {
+                    "name": "Juan Centavo",
+                    "size": 1,
+                    "fb_name": "John Penny"
+                },
+                {
                     "name": "Dennis",
-                    "size": 318.0,
+                    "size": 1,
                     "fb_name": "Dennis M McClendon Jr"
                 },
                 {
-                    "name": "Fred",
-                    "size": 1070.0,
-                    "fb_name": "Fred Schlicht"
+                    "name": "Buster Brown",
+                    "size": 1,
+                    "fb_name": "Bones Rekamreliob"
                 },
                 {
-                    "name": "Cal",
-                    "size": 1130.0,
-                    "fb_name": "Caleb Hathorn"
+                    "name": "2ndHand Lion",
+                    "size": 1,
+                    "fb_name": "Dave Rees"
                 },
                 {
                     "name": "Jason",
-                    "size": 696.0,
+                    "size": 1,
                     "fb_name": "Jason Speer"
                 },
                 {
                     "name": "Brandon22",
-                    "size": 627.0,
+                    "size": 1,
                     "fb_name": "Sarah N Brandon Whitfield"
                 },
                 {
                     "name": "BK84",
-                    "size": 322.0,
+                    "size": 1,
                     "fb_name": "Bryan Krikalo"
                 },
                 {
-                    "name": "Curtis",
-                    "size": 950.0,
-                    "fb_name": "Curtis Vanover"
+                    "name": "Whole N Juan",
+                    "size": 1,
+                    "fb_name": "Oak Hale"
                 },
                 {
-                    "name": "Whole N Juan",
-                    "size": 533.0,
-                    "fb_name": "Oak Hale"
+                    "name": "Neal3",
+                    "size": 1,
+                    "fb_name": "John Brown"
                 }
             ],
             "fb_name": "",
@@ -1508,217 +1548,242 @@
             "children": [
                 {
                     "name": "I",
-                    "size": 58.0,
+                    "size": 1,
                     "fb_name": "Bryan Krikalo"
                 },
                 {
+                    "name": "TeeTime",
+                    "size": 1,
+                    "fb_name": "David Glazer"
+                },
+                {
+                    "name": "Daddy T x 3",
+                    "size": 1,
+                    "fb_name": "Tray Batson"
+                },
+                {
                     "name": "Frouimet",
-                    "size": 180.0,
+                    "size": 1,
                     "fb_name": "Patrick Whitehead"
                 },
                 {
                     "name": "Andrew",
-                    "size": 329.0,
+                    "size": 1,
                     "fb_name": "Nick Fyock"
                 },
                 {
+                    "name": "Gerhard",
+                    "size": 1,
+                    "fb_name": "Gerhard Clash"
+                },
+                {
                     "name": "Burr",
-                    "size": 571.0,
+                    "size": 1,
                     "fb_name": "Matt Huber"
                 },
                 {
                     "name": "Bryan",
-                    "size": 65.0,
+                    "size": 1,
                     "fb_name": "Bryan Gilbert"
                 },
                 {
+                    "name": "Moises",
+                    "size": 1,
+                    "fb_name": "Moises Hop"
+                },
+                {
                     "name": "Bean",
-                    "size": 347.0,
+                    "size": 1,
                     "fb_name": "Beaner Brown"
                 },
                 {
+                    "name": "Lauras",
+                    "size": 1,
+                    "fb_name": "Laura Shrader"
+                },
+                {
                     "name": "Teddy13",
-                    "size": 27.0,
+                    "size": 1,
                     "fb_name": "Teddy Gorman"
                 },
                 {
                     "name": "Craig",
-                    "size": 128.0,
+                    "size": 1,
                     "fb_name": "Craig Sutherland"
                 },
                 {
+                    "name": "Brian",
+                    "size": 1,
+                    "fb_name": "Brian Allen"
+                },
+                {
                     "name": "Ty Webb",
-                    "size": 108.0,
+                    "size": 1,
                     "fb_name": "Jonathan Gartland"
                 },
                 {
                     "name": "James",
-                    "size": 277.0,
+                    "size": 1,
                     "fb_name": "James Jacob"
                 },
                 {
                     "name": "ANewName",
-                    "size": 160.0,
+                    "size": 1,
                     "fb_name": "David Potts"
                 },
                 {
+                    "name": "Awsungawd",
+                    "size": 1,
+                    "fb_name": "Walter Lyons"
+                },
+                {
                     "name": "JB",
-                    "size": 235.0,
+                    "size": 1,
                     "fb_name": "Juliana Brown"
                 },
                 {
                     "name": "Gizmo",
-                    "size": 316.0,
+                    "size": 1,
                     "fb_name": "Jen Bitner"
                 },
                 {
-                    "name": "YankeeJoe",
-                    "size": 1070.0,
-                    "fb_name": "Joseph Sherman"
+                    "name": "Gee",
+                    "size": 1,
+                    "fb_name": "Gee Wiz"
                 },
                 {
-                    "name": "Deek",
-                    "size": 1220.0,
-                    "fb_name": "Derick Turner"
+                    "name": "Justin",
+                    "size": 1,
+                    "fb_name": "Justin Patrick"
                 },
                 {
-                    "name": "Maverick",
-                    "size": 1170.0,
-                    "fb_name": "Bradley Faithfull"
+                    "name": "Da' Man",
+                    "size": 1,
+                    "fb_name": "Gary Breakfield"
                 },
                 {
                     "name": "Hobart",
-                    "size": 12.0,
+                    "size": 1,
                     "fb_name": "Bryan Gilbert"
                 },
                 {
                     "name": "Gerd B Clash",
-                    "size": 410.0,
+                    "size": 1,
                     "fb_name": "Gerd B Clash Clash"
                 },
                 {
                     "name": "Tom",
-                    "size": 498.0,
+                    "size": 1,
                     "fb_name": "Tom Kosakowski"
                 },
                 {
+                    "name": "Sketch",
+                    "size": 1,
+                    "fb_name": "Sketch Mohan"
+                },
+                {
+                    "name": "Jeangulmanut",
+                    "size": 1,
+                    "fb_name": "Oak Hale"
+                },
+                {
                     "name": "Jhorn",
-                    "size": 499.0,
+                    "size": 1,
                     "fb_name": "Josh Hathorn"
                 },
                 {
-                    "name": "Grip-n-Rip3",
-                    "size": 1140.0,
-                    "fb_name": "Ken Bengtson"
-                },
-                {
-                    "name": "Open Man",
-                    "size": 1800.0,
-                    "fb_name": "Robert Fudge"
-                },
-                {
                     "name": "Gerd-Clash",
-                    "size": 588.0,
+                    "size": 1,
                     "fb_name": "Gerd-Clash Clash"
                 },
                 {
-                    "name": "Miles...",
-                    "size": 884.0,
-                    "fb_name": "Scott Miles"
-                },
-                {
                     "name": "Pod",
-                    "size": 246.0,
+                    "size": 1,
                     "fb_name": "Patrick O'Daniel"
                 },
                 {
                     "name": "Richard",
-                    "size": 251.0,
+                    "size": 1,
                     "fb_name": "Richard Paul"
                 },
                 {
-                    "name": "Betheball",
-                    "size": 2100.0,
-                    "fb_name": "David Glazer"
+                    "name": "Anthony",
+                    "size": 1,
+                    "fb_name": "Anthony Rivera"
+                },
+                {
+                    "name": "Neal2",
+                    "size": 1,
+                    "fb_name": "John Brown"
                 },
                 {
                     "name": "Albi Seeker",
-                    "size": 65.0,
+                    "size": 1,
                     "fb_name": "David Roseman"
                 },
                 {
                     "name": "Chrissy",
-                    "size": 222.0,
+                    "size": 1,
                     "fb_name": "Chrissy Howard"
                 },
                 {
                     "name": "Dave",
-                    "size": 342.0,
+                    "size": 1,
                     "fb_name": "Dave Sisson"
                 },
                 {
-                    "name": "Bernadette",
-                    "size": 1220.0,
-                    "fb_name": "Robert Fudge"
+                    "name": "Jake",
+                    "size": 1,
+                    "fb_name": "Jake Brandl"
                 },
                 {
                     "name": "Rob",
-                    "size": 244.0,
+                    "size": 1,
                     "fb_name": "Rob Cunningham"
                 },
                 {
                     "name": "Duffer",
-                    "size": 253.0,
+                    "size": 1,
                     "fb_name": "Michael Sturm"
                 },
                 {
                     "name": "Gerdclash",
-                    "size": 176.0,
+                    "size": 1,
                     "fb_name": "Gerhard Clash"
                 },
                 {
                     "name": "GC - Gards",
-                    "size": 195.0,
+                    "size": 1,
                     "fb_name": "Russell Gardner"
                 },
                 {
                     "name": "Gerd-Clasha",
-                    "size": 324.0,
+                    "size": 1,
                     "fb_name": "Gerd-Clasha Clash"
                 },
                 {
                     "name": "Venician3",
-                    "size": 503.0,
+                    "size": 1,
                     "fb_name": "Lou Rossi"
                 },
                 {
                     "name": "Rhyno",
-                    "size": 14.0,
+                    "size": 1,
                     "fb_name": "Ryan Doherty"
                 },
                 {
-                    "name": "Brooke",
-                    "size": 979.0,
-                    "fb_name": "Jonathan Bathe"
-                },
-                {
-                    "name": "Jason",
-                    "size": 788.0,
-                    "fb_name": "Jason Tisdale"
-                },
-                {
-                    "name": "Davis",
-                    "size": 706.0,
-                    "fb_name": "Davis Tran"
+                    "name": "TrippinMocha",
+                    "size": 1,
+                    "fb_name": "Jonathan Palmos"
                 },
                 {
                     "name": "NoWinForYou",
-                    "size": 170.0,
+                    "size": 1,
                     "fb_name": "Andrew Bernard"
                 },
                 {
                     "name": "Dave Jr.",
-                    "size": 310.0,
+                    "size": 1,
                     "fb_name": "David Roseman"
                 }
             ],

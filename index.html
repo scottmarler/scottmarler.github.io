@@ -42,6 +42,20 @@ white-space: nowrap;
 pointer-events: none;
 }
 
+#tooltip3 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
+}
+
 #circle_tooltip1 {
 color: white;
 opacity: .9;
@@ -71,6 +85,20 @@ pointer-events: none;
 }
 
 #circle_tooltip3 {
+color: white;
+opacity: .9;
+background: #333;
+padding: 5px;
+border: 1px solid lightgrey;
+border-radius: 5px;
+position: absolute;
+z-index: 10;
+visibility: hidden;
+white-space: nowrap;
+pointer-events: none;
+}
+
+#circle_tooltip4 {
 color: white;
 opacity: .9;
 background: #333;
@@ -227,6 +255,8 @@ body {
   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/1372346449515232/">Main Facebook Group</a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/1849608365155216/">Clan Facebook Group</a>
   <a target="_blank" rel="noopener noreferrer" href="Roster/index.html">Current Roster</a>
+  <a target="_blank" rel="noopener noreferrer" href="PCVis/index.html">Individual Points Visualization</a>
+  <a target="_blank" rel="noopener noreferrer" href="barchart.html">End-of-Season Point Totals</a>
 </div>
 
 <!-- The flexible grid (content) -->
@@ -235,22 +265,35 @@ body {
     <h2>About Us</h2>
     <p>Golf Clash University is a Facebook group dedicated to teaching people how to play Golf Clash.</p>
     <p>The GCU Clan is run by the GCU group administrators and is open to any member of GCU, regardless of how much they play.</p>
+    
+    <h2>A Bit More In-Depth</h2>
+    <p>We’re a family of related clans, managed under a single organizational structure. This family is open to anybody who is already part of the GCU group on Facebook. There are *no* other requirements, apart from generally not being a toxic jerk-face and being a part of the GCU Clan group as well.</p>
+    
+    <p>Our entire philosophy is that everybody has a style and pace of play that works best for them. We have no desire to change that. Instead, we’ve set up a system so that everybody is grouped with others who earn *roughly* the same number of clan points. That way nobody is dragging down the go-getters who want to push higher and compete with each other and, conversely, nobody feels pressured to grind to maintain some minimum standard. So, in the end, we all enjoy the (admittedly lame) clan perks that make sense for our level of play while having as much comradery with our fellow clan mates as we like.</p>
+    
+    <p>If you’re already a member of GCU, you can probably guess approximately how much drama you can expect to find here. If you’re a bad guesser, or maybe a “bad test taker,” here’s the answer: none. We hate drama, we hate hearing about other people’s drama, and we hate writing about how much we hate drama because that’s getting waaaaay too close to it. We want to play golf and have fun and comment with an occasional funny gif.</p>
+    
+    <p>Technically speaking, the way this works is that at the end of every season, we take the top 10 and bottom 10 point earners in every clan and place them into a pool. That pool is sorted based on points, and then everybody is placed into whichever clan opening is appropriate. Because of this, you can go from the top to the bottom, the bottom to the top, stay right where you are, or something in between. There are no guaranteed promotions or demotions…it all just depends on how your point totals compare to everybody else in the pool. This is the most fair system we could come up with. Your participation in this clan family implies that you understand and accept this way of life! Furthermore, we (the admin staff) reserve the right to make decisions on a case-by-case basis based on logic and our ability to think that may deviate from what I just outlined; but that will be rare.</p>
+    
+    <p>If you'd like to join us, become a part of the GCU community and then join the GCU clan group. Once there, just make a post saying you’re new and want to join a clan. Tell us the name of your in-game account, too. For example, if your name on Facebook is “Turd Fergison”, your default in-game name is just “Turd”. But maybe you changed it and now it’s “Sean Connery.” Whatever it is, we need to know.</p>
+    
     <h2>What's the purpose of this website?</h2>
     <p>Honestly, I just wanted a place to share some cool visualizations I made about the clan.</p>
   </div>
   <div class="main">
     <h2>Season 1</h2>
     <h5>Where it all began. Sep 30, 2018 - Oct 28, 2018</h5>
+    <p>Click/tap to zoom. Circles are sized based on the number of points contained within at the end of the season.</p>
     <div id="s1" style="height:600px;"><div id="circle_tooltip1"></div></div>
-    <p>The purpose of the first season was to see where everyone would end up with points. Using these results, we did a major shuffle to establish more appropriate clans.</p>
     <br>
     <h2>The Big Shuffle</h2>
-    <h5>It was like Musical Chairs, but WAY less efficient</h5>
-    <p>Hey, remember when we thought we could prevent everyone from logging in so we could try to control which bracket the clan would enter? lol.</p>
+    <h4>It was like Musical Chairs, but WAY less efficient</h4>
+    <p>The purpose of the first season was to see where everyone would end up with points. Using these results, we did a major shuffle to establish more appropriate clans.</p>
     <div id="shuffle1" style="height:600px;"><div id="tooltip1"></div></div>
     <p></p>
     <h2>Season 2</h2>
     <h5>Oct 28, 2018 - Nov 25, 2018</h5>
+    <p>Hey, remember when we thought we could prevent everyone from logging in so we could try to control which bracket the clan would enter? lol.</p>
     <div id="s2" style="height:600px;"><div id="circle_tooltip2"></div></div>
     <p></p>
     <br>
@@ -261,21 +304,26 @@ body {
     <p></p>
     <h2>Season 3</h2>
     <h5>Nov 25, 2018 - Dec 23, 2018</h5>
-    <p>Circles will be drawn to scale when the final S3 points are recorded.</p>
+    <p></p>
     <div id="s3" style="height:600px;"><div id="circle_tooltip3"></div></div>
     <br>
     <h2>Every Month We're Shuf-fl-in'</h2>
     <h5>Business as usual</h5>
     <p></p>
-    <div class="fakeimg" style="height:200px;">Waiting for Data</div>
+    <div id="shuffle3" style="height:600px;"><div id="tooltip3"></div></div>
     <p></p>
+    <h2>Season 4</h2>
+    <h5>Dec 23, 2018 - Jan 20, 2019</h5>
+    <p>Circles will be drawn to scale when S4 points are recorded.</p>
+    <div id="s4" style="height:600px;"><div id="circle_tooltip4"></div></div>
+    <br>
   </div>
 </div>
 
 <!-- Footer -->
 <div class="footer">
   <h2>You've reached the bottom of the page.</h2>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=U9t-slLl30E">This is where the actual secrets are kept.</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=U9t-slLl30E">This is the Bad Lip Reading music video called "SEAGULLS! (Stop It Now)". If you haven't seen it, do yourself a favor and click here.</a>
 </div>
 
     <script>
@@ -542,6 +590,94 @@ body {
 
     </script>
     
+        <script type="text/javascript">
+
+        var w4 = 600,
+            h4 = 600,
+            r4 = 550,
+            x4 = d3.scale.linear().range([0, r4]),
+            y4 = d3.scale.linear().range([0, r4]),
+            node4,
+            root4;
+
+        var pack = d3.layout.pack()
+            .size([r4, r4])
+            .value(function(d) { return d.size; })
+
+        var vis4 = d3.select("#s4").insert("svg:svg", "h2")
+            .attr("width", w4)
+            .attr("height", h4)
+          .append("svg:g")
+            .attr("transform", "translate(" + (w4 - r4) / 2 + "," + (h4 - r4) / 2 + ")");
+
+        // add the tooltip area to the webpage
+        var tooltip = d3.select("#s4").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+            
+        d3.json("circle_data/s4_circles.json", function(data) {
+          node = root = data;
+
+          var nodes4 = pack.nodes(root);
+
+          vis4.selectAll("circle")
+              .data(nodes4)
+            .enter().append("svg:circle")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; })
+              .attr("r", function(d) { return d.r; })
+              .on("click", function(d) { return zoom4(node == d ? root : d); })
+              .on("mouseover", function (d) {
+                  d3.select("#circle_tooltip4")
+                    .style("visibility", "visible")
+                    .html(d.name + "<br>" + d.fb_name + "<br>" +d.size)
+                    .style("top", function () { return (d3.event.pageY - 20)+"px"})
+                    .style("left", function () { return (d3.event.pageX + 20)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#circle_tooltip4").style("visibility", "hidden")
+              })
+              ;
+
+          vis4.selectAll("text")
+              .data(nodes4)
+            .enter().append("svg:text")
+              .attr("class", function(d) { return d.children ? "parent" : "child"; })
+              .attr("x", function(d) { return d.x; })
+              .attr("y", function(d) { return d.y; })
+              .attr("dy", ".35em")
+              .attr("text-anchor", "middle")
+              .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+              .text(function(d) { return d.name; })
+              ;
+
+          d3.select(window).on("click", function() { zoom4(root); });
+        });
+
+        function zoom4(d, i) {
+          var k4 = r4 / d.r / 2;
+          x4.domain([d.x - d.r, d.x + d.r]);
+          y4.domain([d.y - d.r, d.y + d.r]);
+
+          var t = vis4.transition()
+              .duration(d3.event.altKey ? 7500 : 750);
+
+          t.selectAll("circle")
+              .attr("cx", function(d) { return x4(d.x); })
+              .attr("cy", function(d) { return y4(d.y); })
+              .attr("r", function(d) { return k4 * d.r; });
+
+          t.selectAll("text")
+              .attr("x", function(d) { return x4(d.x); })
+              .attr("y", function(d) { return y4(d.y); })
+              .style("opacity", function(d) { return k4 * d.r > 15 ? 1 : 0; });
+
+          node = d;
+          d3.event.stopPropagation();
+        }
+
+    </script>
+    
     <script>
       //*******************************************************************
       //  CREATE MATRIX AND MAP
@@ -755,7 +891,7 @@ body {
                     .style("top", function () { return (d3.event.pageY - 100)+"px"})
                     .style("left", function () { return (d3.event.pageX - 100)+"px";})
                 })
-                .on("mouseout", function (d) { d3.select("#tooltip1").style("visibility", "hidden") });
+                .on("mouseout", function (d) { d3.select("#tooltip2").style("visibility", "hidden") });
 
           function chordTip2 (d) {
             var p = d3.format(".1%"), q = d3.format("r")
@@ -782,6 +918,130 @@ body {
               .style("left", function () { return (d3.event.pageX - 130)+"px";})
 
             chordPaths2.classed("fade", function(p) {
+              return p.source.index != i
+                  && p.target.index != i;
+            });
+          }
+      }
+
+    </script>
+    
+    <script>
+      //*******************************************************************
+      //  CREATE MATRIX AND MAP
+      //*******************************************************************
+      d3.csv('shuffle_data/s3_shuffle.csv', function (error, data) {
+        var mpr3 = chordMpr(data);
+
+        mpr3
+          .addValuesToMap('isin')
+          .setFilter(function (row, a, b) {
+            return (row.isin === a.name && row.goesto === b.name)
+          })
+          .setAccessor(function (recs, a, b) {
+            if (!recs[0]) return 0;
+            return +recs[0].count;
+          });
+        drawChords3(mpr3.getMatrix(), mpr3.getMap());
+      });
+      //*******************************************************************
+      //  DRAW THE CHORD DIAGRAM
+      //*******************************************************************
+      function drawChords3 (matrix, mmap) {
+        var w3 = 600, h3 = 600, r31 = h3 / 2, r30 = r31 - 100;
+
+        var fill3 = d3.scale.ordinal()
+            .domain(d3.range(4))
+            .range(["#000000", "#000080", "#006400", "#00BFFF", "#696969", "#800000", "#800080", "#DA70D6"]);
+
+        var chord3 = d3.layout.chord()
+            .padding(.02)
+            .sortSubgroups(d3.descending)
+            .sortChords(d3.descending);
+
+        var arc3 = d3.svg.arc()
+            .innerRadius(r30)
+            .outerRadius(r30 + 20);
+
+        var svg3 = d3.select("#shuffle3").append("svg:svg")
+            .attr("width", w3)
+            .attr("height", h3)
+          .append("svg:g")
+            .attr("id", "circle")
+            .attr("transform", "translate(" + w3 / 2 + "," + h3 / 2 + ")");
+
+            svg3.append("circle")
+                .attr("r", r30 + 20);
+
+        var rdr3 = chordRdr(matrix, mmap);
+        chord3.matrix(matrix);
+
+        var g3 = svg3.selectAll("g.group")
+            .data(chord3.groups())
+          .enter().append("svg:g")
+            .attr("class", "group")
+            .on("mouseover", mouseover3)
+            .on("mouseout", function (d) { d3.select("#tooltip3").style("visibility", "hidden") });
+
+        g3.append("svg:path")
+            .style("stroke", "black")
+            .style("fill", function(d) { return fill3(d.index); })
+            .attr("d", arc3);
+
+        g3.append("svg:text")
+            .each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; })
+            .attr("dy", ".35em")
+            .style("font-family", "helvetica, arial, sans-serif")
+            .style("font-size", "10px")
+            .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
+            .attr("transform", function(d) {
+              return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
+                  + "translate(" + (r30 + 26) + ")"
+                  + (d.angle > Math.PI ? "rotate(180)" : "");
+            })
+            .text(function(d) { return rdr3(d).gname; });
+
+          var chordPaths3 = svg3.selectAll("path.chord")
+                .data(chord3.chords())
+              .enter().append("svg:path")
+                .attr("class", "chord")
+                .style("stroke", function(d) { return d3.rgb(fill3(d.target.index)).darker(); })
+                .style("fill", function(d) { return fill3(d.target.index); })
+                .attr("d", d3.svg.chord().radius(r30))
+                .on("mouseover", function (d) {
+                  d3.select("#tooltip3")
+                    .style("visibility", "visible")
+                    .html(chordTip3(rdr3(d)))
+                    .style("top", function () { return (d3.event.pageY - 100)+"px"})
+                    .style("left", function () { return (d3.event.pageX - 100)+"px";})
+                })
+                .on("mouseout", function (d) { d3.select("#tooltip3").style("visibility", "hidden") });
+
+          function chordTip3 (d) {
+            var p = d3.format(".1%"), q = d3.format("r")
+            return "Chord Info:<br/>"
+              + p(d.svalue/d.stotal) + " (" + q(d.svalue) + ") of "
+              + d.sname + " move to " + d.tname
+              + (d.sname === d.tname ? "": ("<br/>while...<br/>"
+              + p(d.tvalue/d.ttotal) + " (" + q(d.tvalue) + ") of "
+              + d.tname + " move to " + d.sname))
+          }
+
+          function groupTip3 (d) {
+            var p = d3.format(".1%"), q = d3.format(",.3r")
+            return "Group Info:<br/>"
+                + d.gname + " : " + q(d.gvalue) + "<br/>"
+                + p(d.gvalue/d.mtotal) + " of Clan Total (" + q(d.mtotal) + ")"
+          }
+
+          function mouseover3(d, i) {
+            d3.select("#tooltip3")
+              .style("visibility", "visible")
+              .html(groupTip3(rdr3(d)))
+              .style("top", function () { return (d3.event.pageY - 80)+"px"})
+              .style("left", function () { return (d3.event.pageX - 130)+"px";})
+
+            chordPaths3.classed("fade", function(p) {
               return p.source.index != i
                   && p.target.index != i;
             });

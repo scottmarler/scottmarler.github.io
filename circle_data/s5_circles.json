@@ -1053,6 +1053,11 @@
                     "fb_name": "Mike Snyder"
                 },
                 {
+                    "name": "Duggan",
+                    "size": 1,
+                    "fb_name": "Dan Bennett"
+                },
+                {
                     "name": "Undertaker",
                     "size": 1,
                     "fb_name": "James Milligan"
@@ -1228,11 +1233,6 @@
                     "fb_name": "Larry Kirkland"
                 },
                 {
-                    "name": "Random",
-                    "size": 1,
-                    "fb_name": "Randy Dedeugd"
-                },
-                {
                     "name": "Fred",
                     "size": 1,
                     "fb_name": "Fred Schlicht"
@@ -1290,9 +1290,19 @@
             "name": "Fire",
             "children": [
                 {
+                    "name": "Daddy T x 3",
+                    "size": 1,
+                    "fb_name": "Tray Batson"
+                },
+                {
                     "name": "XGC Loaded",
                     "size": 1,
                     "fb_name": "JR Byford"
+                },
+                {
+                    "name": "Frouimet",
+                    "size": 1,
+                    "fb_name": "Patrick Whitehead"
                 },
                 {
                     "name": "Andrew",
@@ -1313,11 +1323,6 @@
                     "name": "Derick",
                     "size": 1,
                     "fb_name": "Derick Turner"
-                },
-                {
-                    "name": "Duggan",
-                    "size": 1,
-                    "fb_name": "Dan Bennett"
                 },
                 {
                     "name": "Bryan",
@@ -1343,6 +1348,11 @@
                     "name": "John P",
                     "size": 1,
                     "fb_name": "John Penny"
+                },
+                {
+                    "name": "Ty Webb",
+                    "size": 1,
+                    "fb_name": "Jonathan Gartland"
                 },
                 {
                     "name": "James",
@@ -1420,11 +1430,6 @@
                     "fb_name": "Rob Kerfoot"
                 },
                 {
-                    "name": "BallKiller85",
-                    "size": 1,
-                    "fb_name": "Julio C Jaramillo"
-                },
-                {
                     "name": "Gerd-Clash",
                     "size": 1,
                     "fb_name": "Gerd-Clash Clash"
@@ -1448,11 +1453,6 @@
                     "name": "TaylorMade",
                     "size": 1,
                     "fb_name": "Patrick Whitehead"
-                },
-                {
-                    "name": "Clint",
-                    "size": 1,
-                    "fb_name": "Clint Craven"
                 },
                 {
                     "name": "Albi Seeker",
@@ -1557,16 +1557,6 @@
                     "fb_name": "Bryan Krikalo"
                 },
                 {
-                    "name": "Daddy T x 3",
-                    "size": 1,
-                    "fb_name": "Tray Batson"
-                },
-                {
-                    "name": "Frouimet",
-                    "size": 1,
-                    "fb_name": "Patrick Whitehead"
-                },
-                {
                     "name": "Bean",
                     "size": 1,
                     "fb_name": "Beaner Brown"
@@ -1575,11 +1565,6 @@
                     "name": "guest59",
                     "size": 1,
                     "fb_name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u03a0\u03bf\u03c1\u03c6\u03cd\u03c1\u03b7\u03c2"
-                },
-                {
-                    "name": "Ty Webb",
-                    "size": 1,
-                    "fb_name": "Jonathan Gartland"
                 },
                 {
                     "name": "ANewName",

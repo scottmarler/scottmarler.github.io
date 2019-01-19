@@ -312,6 +312,11 @@
                     "fb_name": "Ross Munford"
                 },
                 {
+                    "name": "Derick",
+                    "size": 1,
+                    "fb_name": "Derick Turner"
+                },
+                {
                     "name": "Michelle",
                     "size": 1,
                     "fb_name": "Michelle Law"
@@ -480,11 +485,6 @@
                     "name": "Crash-n-Burn",
                     "size": 1,
                     "fb_name": "Robert Sweisthal"
-                },
-                {
-                    "name": "Derrick",
-                    "size": 1,
-                    "fb_name": "Derrick Walls"
                 },
                 {
                     "name": "RV",
@@ -1320,11 +1320,6 @@
                     "fb_name": "James Schwab"
                 },
                 {
-                    "name": "Derick",
-                    "size": 1,
-                    "fb_name": "Derick Turner"
-                },
-                {
                     "name": "Bryan",
                     "size": 1,
                     "fb_name": "Bryan Gilbert"
@@ -1490,6 +1485,11 @@
                     "fb_name": "Michael Sturm"
                 },
                 {
+                    "name": "Derrick",
+                    "size": 1,
+                    "fb_name": "Derrick Walls"
+                },
+                {
                     "name": "Dennis",
                     "size": 1,
                     "fb_name": "Dennis M McClendon Jr"
@@ -1565,6 +1565,11 @@
                     "name": "guest59",
                     "size": 1,
                     "fb_name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u03a0\u03bf\u03c1\u03c6\u03cd\u03c1\u03b7\u03c2"
+                },
+                {
+                    "name": "Teddy13",
+                    "size": 1,
+                    "fb_name": "Teddy Gorman"
                 },
                 {
                     "name": "ANewName",

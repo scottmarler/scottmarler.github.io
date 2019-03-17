@@ -1,404 +1,418 @@
-Name,Facebook Name,S6 Clan,S5 Clan,S4 Clan,S3 Clan,S2 Clan,S1 Clan,S5 Points,S4 Points,S3 Points,S2 Points,S1 Points
-#coachp,Jeff Ellsworth,A,A,A,C,D,G,5250.0,4620.0,4300.0,2400.0,1290.0
-Andrew,Andrew Bernlohr,A,A,B,B,B,A,3670.0,3880.0,2800.0,2440.0,2570.0
-Ashton,Nick Fyock,A,A,B,C,E,E,2860.0,3330.0,3630.0,2100.0,886.0
-BallBoy534,Will Reeside,A,A,A,A,C,C,5970.0,3450.0,5670.0,4440.0,3150.0
-Baron,Baron Gochenour,A,A,A,A,A,A,4580.0,5770.0,6290.0,11940.0,6790.0
-Beaven,Beaner Brown,A,A,A,A,C,E,3910.0,4580.0,4440.0,4060.0,2300.0
-Becca,Craig Stein,A,B,C,B,A,C,3990.0,3040.0,1640.0,3200.0,4300.0
-BruceLee1976,Gwo Shih,A,A,A,A,A,D,5770.0,4350.0,4390.0,5460.0,4440.0
-Buck,Buck Luckner,A,A,A,A,A,B,4310.0,5040.0,4130.0,4540.0,3800.0
-Chris,Chris Dohm,A,B,B,B,A,A,2930.0,1580.0,2460.0,2670.0,3580.0
-Craig,Craig Stein,A,C,A,D,C,C,2500.0,1860.0,6000.0,989.0,1830.0
-Crash-n-Burn,Robert Sweisthal,A,B,C,C,A,B,2320.0,2070.0,2580.0,2420.0,3920.0
-DLB,Dlb Barneyppm,A,B,A,B,B,B,3020.0,2820.0,4370.0,2680.0,2230.0
-Dave,Dave Shill,A,A,A,A,A,B,6160.0,5420.0,5720.0,5160.0,4210.0
-Dylan,Dylan Patterson,A,A,,,,,1910.0,,,,
-F. Ouimet,Ty Webb,A,A,B,B,A,C,4630.0,4810.0,1850.0,3430.0,3220.0
-Found it!,Dan Bennett,A,B,B,B,B,B,1840.0,2630.0,1940.0,3790.0,4720.0
-Iceman,Peter Epsom,A,B,C,C,G,None,561.0,3290.0,2530.0,1790.0,
-John,John Hayden,A,E,B,B,B,C,3560.0,966.0,2080.0,2440.0,2910.0
-Josh,Josh Hathorn,A,A,A,A,A,G,5900.0,3870.0,5200.0,5640.0,3580.0
-Jörgen,Jörgen Forslund,A,A,A,A,A,A,1680.0,3930.0,6080.0,10890.0,6680.0
-Kevin,Kevin Nunes,A,A,A,A,A,A,3490.0,5140.0,6850.0,6710.0,3330.0
-Keyser Söze,Bobby Boyens,A,C,A,A,A,G,1780.0,1350.0,6960.0,3900.0,5880.0
-LuckyGirl2,Sonja K Larson,A,C,C,C,C,D,4180.0,3080.0,1820.0,1510.0,1770.0
-Martin,Martin Studnitz Andersen,A,A,C,D,D,E,2680.0,5840.0,2210.0,1500.0,993.0
-Michael,Michael Li,A,A,C,C,C,B,2320.0,3680.0,2090.0,1460.0,1390.0
-Mini-me,Scott Marler,A,C,F,F,None,None,6230.0,3800.0,3150.0,,
-Nikki,Nikki Duggan,A,B,None,None,None,None,2770.0,1950.0,,,
-Noonan!,Danny Noonan,A,B,B,B,C,C,2640.0,3060.0,4420.0,2720.0,1500.0
-Ours,Ours Bipolaire,A,A,B,None,None,None,3360.0,7830.0,,,
-Paul,Paul E. Mooney,A,B,B,B,B,E,4010.0,2240.0,2830.0,2570.0,2720.0
-Paul,Paul Klages,A,A,A,A,C,D,5620.0,6260.0,4490.0,4970.0,1580.0
-Quackerjack,Ross Munford,A,B,B,None,None,None,1670.0,3240.0,4100.0,,
-Quacky,Ross Munford,A,B,B,B,A,E,2720.0,5560.0,5120.0,2730.0,3430.0
-RV,Robert Vincent,A,B,B,B,None,None,3070.0,2270.0,4060.0,,
-Randy,Randy Chua,A,A,A,A,A,A,4530.0,4520.0,4140.0,6290.0,6840.0
-Robin,Robin Parker,A,B,C,A,A,G,1780.0,2640.0,2450.0,3690.0,3180.0
-Rory,Rory Violett,A,A,A,D,B,C,639.0,3610.0,5270.0,920.0,2350.0
-Scott,Scott Caenepeel,A,B,B,B,B,C,2850.0,1620.0,3960.0,3980.0,2600.0
-Sherm,Joseph Sherman,A,A,A,A,A,A,3130.0,3880.0,6450.0,4870.0,4440.0
-Sneppahtihs,Robert Vincent,A,B,B,C,None,None,813.0,3070.0,3560.0,,
-Tee Time,Tee Time,A,B,B,B,B,D,3140.0,2930.0,3780.0,3230.0,2520.0
-The Mate,Christopher F. Haggins,A,B,B,B,B,B,4640.0,3000.0,3730.0,5290.0,4090.0
-Tin Cup,Ivan Sharpe,A,B,C,D,D,D,3130.0,2750.0,2820.0,1600.0,1360.0
-Tin Cup,Justin Reynolds,A,B,B,A,C,B,1740.0,2010.0,4120.0,4740.0,1820.0
-Ty Webb,Ty Webb II,A,A,A,A,A,A,7660.0,5540.0,7540.0,4820.0,5520.0
-Ty Webb,Ty Webb,A,B,B,B,B,C,3120.0,3080.0,3290.0,2440.0,2880.0
-Velcro Balls,Robert Vincent,A,B,B,None,None,None,1130.0,3380.0,3570.0,,
-Will,Will Reeside,A,A,A,A,A,A,5060.0,7490.0,7500.0,6020.0,3950.0
-Zack,David Waugh,A,B,B,A,A,D,3040.0,2900.0,3250.0,5510.0,4340.0
-Ace,Adam Effinger,B,C,C,C,C,E,1360.0,1650.0,1320.0,1930.0,1480.0
-Beaner,Beaner Brown,B,B,B,B,B,B,1960.0,1790.0,2460.0,2890.0,2330.0
-Bernadette,Robert Fudge,B,D,D,G,C,F,1770.0,1820.0,1220.0,1460.0,1450.0
-Bryan_Lock1,Bryan Loughmiller,B,C,E,E,E,H,1880.0,1810.0,1390.0,1420.0,635.0
-Charles,Charles P Harris,B,C,C,D,D,A,1640.0,1870.0,2480.0,1090.0,1230.0
-Craig,Craig Lee,B,C,C,C,C,C,1620.0,795.0,2780.0,1050.0,1520.0
-DP,David Potts,B,B,B,B,B,B,1050.0,2820.0,1200.0,1890.0,1800.0
-Dalton,Dalton Morris,B,C,C,F,F,F,841.0,1720.0,1970.0,1100.0,921.0
-Dan C.,Dan Cline,B,C,C,C,C,E,1330.0,1730.0,2800.0,1230.0,1750.0
-Darlene,Darlene Barnhouse,B,B,B,C,C,E,2140.0,2850.0,3480.0,1700.0,1460.0
-Dave,Dave Cheetham,B,C,C,D,B,A,2510.0,1880.0,2660.0,1370.0,1940.0
-Derick,Derick Turner,B,B,B,B,B,C,735.0,2180.0,2780.0,2980.0,2130.0
-Edison,Edison Doughty,B,F,B,B,D,G,2280.0,1860.0,3730.0,2620.0,1360.0
-Geoff,Geoff Brown,B,C,D,D,B,D,2090.0,1780.0,841.0,1310.0,2220.0
-Go Blue TB12,Rory Violett,B,C,C,C,C,D,742.0,1460.0,2760.0,1460.0,1830.0
-HoneyB,Pat Brovier,B,B,B,B,B,C,2350.0,2240.0,1880.0,2390.0,2140.0
-Hookslice,Paul E. Mooney,B,B,B,B,B,E,2800.0,1340.0,4640.0,2730.0,1930.0
-Jay,Jeremy Holt,B,B,B,B,B,A,1900.0,2190.0,2600.0,2290.0,2510.0
-Jay Enright,Jay Enright,B,D,F,F,C,F,2990.0,1140.0,622.0,488.0,1720.0
-Jochen,Jörgen Forslund,B,D,A,B,G,H,1480.0,1240.0,4130.0,3090.0,280.0
-Joel,McAndrews Joel,B,B,E,E,E,C,1960.0,2660.0,987.0,788.0,912.0
-Joseph,Joseph Andersen,B,C,F,C,D,F,1200.0,1830.0,368.0,2320.0,1190.0
-Julio,Julio C Jaramillo,B,C,E,B,D,A,2130.0,1410.0,808.0,2970.0,1380.0
-KC GC,Scott Caenepeel,B,B,C,C,C,F,2400.0,3030.0,1900.0,2460.0,1420.0
-Kat,Kat Ramage,B,D,B,B,B,None,1840.0,1170.0,3250.0,1770.0,
-KatBClashin,Kat Ramage,B,B,B,B,G,C,1490.0,2080.0,3090.0,3330.0,2040.0
-Michelle,Michelle Law,B,B,B,B,B,C,987.0,1730.0,1800.0,1870.0,2130.0
-Miles...,Scott Miles,B,C,E,G,G,None,2580.0,1910.0,884.0,546.0,
-NeoDawg,Fernando Ponce,B,B,D,B,B,C,1780.0,2300.0,1580.0,1720.0,1950.0
-OhYeah,Everett Wilson,B,B,B,B,B,C,1470.0,1670.0,2040.0,2180.0,1900.0
-Open Man,Robert Fudge,B,E,E,G,None,None,981.0,1540.0,1800.0,,
-Philip,Philip Neussendorfer,B,C,C,C,C,B,1380.0,1650.0,1410.0,1380.0,1400.0
-Prion,Αντώνης Πορφύρης,B,C,C,C,E,F,2050.0,1650.0,1530.0,1800.0,706.0
-RTR Bama,John McKinney,B,B,B,B,B,C,1810.0,2020.0,1780.0,2000.0,2220.0
-Roland,Roland Armitage,B,C,C,C,C,E,2400.0,1110.0,1500.0,1670.0,1500.0
-Ron,Ron Knobloch,B,B,B,B,B,B,7180.0,5250.0,5690.0,8150.0,10230.0
-Rory,Rory Dowling,B,B,C,E,B,E,1460.0,2940.0,2880.0,920.0,2290.0
-Shanker,Mike Zoran,B,C,C,C,C,F,1790.0,1970.0,1270.0,1560.0,1390.0
-Shooter,Tony Weber,B,B,B,B,B,E,1410.0,1990.0,2560.0,2090.0,2030.0
-Smiles,Jake Brandl,B,C,C,E,D,A,1270.0,1540.0,2050.0,522.0,1360.0
-Studnitz,Martin Studnitz Andersen,B,C,C,C,D,E,3400.0,1160.0,2280.0,2200.0,1130.0
-Tee-1000,David Cheetham,B,B,B,B,B,A,1400.0,1750.0,3320.0,1700.0,2990.0
-The Hobbster,Yog Bear,B,C,C,C,C,D,1690.0,1690.0,1590.0,1620.0,1420.0
-Tim,Tim Van Tassel,B,C,C,C,C,D,1690.0,1280.0,1710.0,1500.0,1740.0
-Tim,Timothy Shane,B,B,B,B,B,G,2200.0,2620.0,2480.0,2630.0,2660.0
-Virus,Αντώνης Πορφύρης,B,D,D,D,D,C,2310.0,1140.0,1470.0,1380.0,1110.0
-Zemanch,Josh Zechman,B,C,C,C,E,F,1670.0,308.0,1480.0,2570.0,851.0
-Zephyr,Dean Evans,B,B,D,E,E,A,1640.0,3230.0,1490.0,684.0,744.0
-Zephyr2,Dean Evans,B,B,B,C,F,C,1720.0,2480.0,3240.0,2580.0,420.0
-ΠΑΟΚ,Steve Georgitsos,B,C,C,C,C,D,1050.0,1440.0,2140.0,1260.0,1800.0
-Amanda,Tom Clark,C,C,C,D,D,B,518.0,1140.0,2140.0,995.0,1210.0
-Andy G,Andy Grassom,C,D,D,D,E,D,1400.0,1050.0,1250.0,1430.0,902.0
-Big Hampton,Paul Baker,C,D,D,E,E,D,689.0,1160.0,1300.0,1200.0,805.0
-Bill,Bill Myers,C,D,E,E,E,G,1120.0,1240.0,1020.0,855.0,643.0
-Bink,Bink Davis,C,D,D,D,D,A,1230.0,696.0,1130.0,1060.0,1110.0
-Brian,Brian Zimmel,C,D,D,D,C,A,1460.0,90.0,914.0,954.0,1420.0
-Bruce,Bruce LeMeur,C,D,D,D,D,A,803.0,1130.0,1600.0,800.0,991.0
-Buddy,Bill Myers,C,D,D,D,F,G,1020.0,1210.0,1280.0,955.0,565.0
-ButtonButton,Mike Button,C,B,B,B,B,B,4030.0,3820.0,1480.0,4390.0,4430.0
-CaptPancakes,Ross Munford,C,G,None,None,None,None,1400.0,,,,
-Chad,Chad Shearer,C,C,D,D,B,B,791.0,1070.0,589.0,992.0,2250.0
-Daniel,Daniel Michaud,C,D,None,None,D,D,1590.0,,,0.0,1000.0
-Deek,Derick Turner,C,D,D,G,None,None,935.0,677.0,1220.0,,
-Del,Delroy Tuorila,C,C,D,D,E,F,1240.0,1450.0,1460.0,1510.0,836.0
-Delroy,Delroy Tuorila,C,C,C,C,C,D,1260.0,576.0,1030.0,1700.0,1460.0
-Duggan,Dan Bennett,C,E,F,F,None,None,1320.0,675.0,306.0,,
-Falcon 2,Bill Baker,C,G,,,,,1040.0,,,,
-Foot Wedge $,Paul E. Mooney,C,C,C,C,E,D,2090.0,2850.0,2740.0,2720.0,885.0
-FrayBentos,Steve Farley,C,D,E,C,C,D,1040.0,1000.0,812.0,1130.0,1820.0
-Fred M.....,Fred Miller,C,C,E,E,C,D,1040.0,1600.0,1090.0,749.0,1480.0
-Grip-n-Rip,Ken Bengtson,C,D,D,D,A,F,845.0,1520.0,684.0,1390.0,4270.0
-Harris,Harris Paul,C,D,F,E,E,F,1140.0,842.0,373.0,897.0,1350.0
-InDaHole,Jay Ott,C,C,C,C,C,A,795.0,1520.0,1080.0,1050.0,1740.0
-Jack,Jack Noe,C,C,C,C,C,A,1180.0,1310.0,930.0,1780.0,1720.0
-Jethro,Geoff Brown,C,D,D,D,D,G,1850.0,772.0,710.0,1470.0,1280.0
-Jhorn,Josh Hathorn,C,E,G,G,None,None,1720.0,886.0,499.0,,
-Jim,Jim Bailey,C,D,D,D,D,E,1030.0,860.0,1010.0,1160.0,1070.0
-Joe,Joe Servedio,C,D,D,D,D,B,756.0,973.0,1420.0,971.0,1070.0
-Kenny,Kenny Jay,C,C,C,C,C,B,702.0,985.0,1120.0,1310.0,1490.0
-Keyser Soze,David Potts,C,C,C,C,G,G,778.0,1030.0,1680.0,1790.0,224.0
-LaffertyDan,Daniel Jimenez,C,F,B,E,F,G,1240.0,516.0,3380.0,818.0,300.0
-Larry,Larry Kirkland,C,C,D,C,C,E,1560.0,1230.0,914.0,1190.0,1750.0
-Mike,Mike Wortman,C,C,C,C,E,C,1030.0,1040.0,2660.0,2020.0,871.0
-Mike,Mike George,C,E,F,E,E,B,1690.0,1080.0,456.0,832.0,746.0
-Mike the 3rd,Mike Button,C,F,F,E,None,None,1350.0,710.0,370.0,,
-MinH,Minh Nguyen,C,B,D,B,B,F,560.0,558.0,1570.0,2130.0,2660.0
-Not Sure,Justin Gleiter,C,C,C,C,E,F,120.0,1000.0,2020.0,1840.0,765.0
-Pat,Pat O'Shrine,C,D,E,E,E,F,1050.0,1380.0,806.0,1200.0,916.0
-Poppa Mupp,Cliff Vaughan,C,C,C,D,F,G,1420.0,705.0,1900.0,1660.0,508.0
-Rassa,Rassa Wassa,C,D,D,D,D,C,994.0,1120.0,804.0,1170.0,1330.0
-Rob,Rob Skuza,C,C,C,C,C,B,906.0,821.0,917.0,1420.0,1460.0
-Robert,Robert Fudge,C,C,C,C,C,E,1370.0,1400.0,1210.0,1360.0,1470.0
-Steve,Steve Georgitsos,C,D,D,D,D,C,612.0,1100.0,1680.0,788.0,1100.0
-Tom,Tom Clark,C,D,E,E,E,B,1060.0,1850.0,574.0,980.0,625.0
-Vegas Rose,Scott Miles,C,C,F,F,None,None,1180.0,1460.0,732.0,,
-Walt,Walter Ramsey,C,C,C,F,F,G,700.0,1750.0,2590.0,749.0,384.0
-Walter,Walter Ramsey,C,C,D,E,E,E,1030.0,2010.0,1610.0,1290.0,922.0
-YankeeJoe,Joseph Sherman,C,D,E,G,None,None,1150.0,998.0,1070.0,,
-ZipperZipper,Mike Button,C,C,C,C,C,F,1170.0,1990.0,1910.0,1140.0,1440.0
-明毅,Ming-yi Li,C,E,F,F,F,B,1730.0,1180.0,319.0,536.0,428.0
-#GoBlue,Fritz Allhoff,D,E,E,E,E,B,272.0,536.0,1070.0,1110.0,746.0
-Andy|K,Andy Kirkbride,D,D,D,D,D,B,1120.0,828.0,764.0,782.0,1330.0
-BallCrusher,William Netz,D,D,D,D,D,E,958.0,594.0,712.0,1650.0,1090.0
-Bean,Beaner Brown,D,G,G,G,None,None,736.0,862.0,347.0,,
-Blackandblue,Mathew Vargas,D,E,D,E,E,None,430.0,790.0,1170.0,759.0,
-Brooke,Jonathan Bathe,D,E,E,G,G,F,895.0,822.0,979.0,683.0,46.0
-Burr,Matt Huber,D,D,G,G,G,None,850.0,1170.0,571.0,920.0,
-Bust'n Balls,Geoff Hamilton,D,D,D,D,E,D,223.0,16.0,1400.0,1500.0,605.0
-Corey,Corey Dolan,D,E,D,D,D,B,595.0,552.0,854.0,656.0,1090.0
-Craig,Craig Anderson,D,D,D,E,E,G,459.0,824.0,1190.0,1100.0,884.0
-Cuse33,Frank Swierk,D,D,D,D,D,E,699.0,939.0,1120.0,825.0,994.0
-Edward,Edward Chase,D,E,E,E,E,B,298.0,886.0,641.0,582.0,769.0
-Eugene,Eugene Greenfield,D,E,F,F,F,E,637.0,1170.0,776.0,335.0,516.0
-Ferchu,Fernando Galvan,D,E,E,C,None,None,771.0,877.0,626.0,,
-Flash Clash,Yog Bear,D,E,D,D,F,G,871.0,974.0,711.0,1030.0,411.0
-Forrest,Forrest VanPatten,D,E,E,E,D,C,708.0,985.0,691.0,519.0,1040.0
-Fred,Fred Schlicht,D,E,E,F,E,E,1170.0,753.0,1070.0,402.0,817.0
-GCJimmy,Jim Almond,D,E,E,E,E,A,1390.0,311.0,466.0,962.0,622.0
-Gino,Mattia Peruzzo,D,E,E,E,E,F,597.0,806.0,796.0,852.0,622.0
-Grip-n-Rip3,Ken Bengtson,D,D,D,G,None,None,755.0,942.0,1140.0,,
-Hamish,Hamish Philp,D,E,F,E,E,G,728.0,944.0,402.0,680.0,726.0
-Jake,Jake Brandl,D,D,G,C,D,A,581.0,749.0,128.0,2110.0,1240.0
-Jennifer,Jennifer Bitner-Castellanos,D,D,D,D,G,None,874.0,666.0,1210.0,1180.0,
-La Donco,Larry Kirkland,D,D,E,E,C,G,917.0,1050.0,673.0,732.0,1670.0
-Lock2,Bryan Loughmiller,D,D,E,E,E,G,863.0,1060.0,1290.0,801.0,900.0
-LuckyGirl,Sonja K Larson,D,None,None,None,None,None,,,,,
-Michael,Michael Schimmelman,D,E,D,D,D,C,782.0,267.0,949.0,573.0,1020.0
-Mike,Mike Snyder,D,E,D,F,F,B,543.0,665.0,1270.0,321.0,564.0
-MrPWest,Prescott Hilson,D,E,E,E,E,A,858.0,440.0,773.0,665.0,757.0
-Myst,Clay Flemming,D,E,E,F,F,C,564.0,1210.0,836.0,498.0,584.0
-Oh Henrik,Joseph Sherman,D,D,A,A,B,D,380.0,1130.0,5290.0,4540.0,4690.0
-Pod,Patrick O'Daniel,D,F,G,G,G,None,984.0,449.0,246.0,604.0,
-Portaguee,Mathew Vargas,D,D,D,D,D,C,1020.0,900.0,1140.0,680.0,1060.0
-Richard,Richard Paul,D,E,G,G,G,E,320.0,1850.0,251.0,533.0,247.0
-RobertGoulet,Mike Johnson,D,E,E,D,D,B,606.0,755.0,517.0,845.0,1220.0
-Rory,Michael Tran,D,F,F,None,None,None,949.0,261.0,,,
-Russell,Russell Gardner,D,E,E,E,E,D,1110.0,317.0,496.0,871.0,753.0
-Sam,Roland Armitage,D,D,E,C,C,E,923.0,718.0,628.0,1060.0,1430.0
-Slumerican,Matt Coker,D,E,D,F,F,B,1110.0,326.0,1520.0,271.0,464.0
-Steve C,Steven Curry,D,E,E,E,E,E,732.0,569.0,768.0,765.0,830.0
-Teddy,Teddy Gorman,D,D,D,D,D,B,930.0,547.0,789.0,1120.0,1090.0
-Tiger Would,Joel Saffer,D,B,,,,,964.0,,,,
-Tina,Tina R Weston,D,D,E,E,C,D,567.0,818.0,1080.0,717.0,1490.0
-Tom,Tom Clark,D,E,E,E,E,E,640.0,614.0,998.0,711.0,790.0
-Tyler,Tyler Andrew,D,E,D,F,F,F,598.0,940.0,1250.0,406.0,393.0
-Victor,Victor Jeanah Bartruff,D,D,E,E,E,D,241.0,1210.0,760.0,1270.0,685.0
-Whole N Juan,Oak Hale,D,E,F,F,F,F,912.0,395.0,533.0,1100.0,592.0
-Wurx,Patrick Harbert,D,G,None,None,None,None,1000.0,,,,
-Zoey,Minh Nguyen,D,D,F,D,D,G,667.0,1070.0,395.0,971.0,1300.0
-guest59,Αντώνης Πορφύρης,D,G,None,None,None,None,844.0,,,,
-2ndHand Lion,Dave Rees,E,F,F,E,E,F,16.0,128.0,456.0,930.0,625.0
-ABooGie,Alvin Kyles Jr.,E,D,,,,,439.0,,,,
-ANewName,David Potts,E,G,G,G,G,D,627.0,378.0,160.0,413.0,320.0
-Anthony,Anthony Jones,E,D,F,E,B,A,78.0,311.0,292.0,522.0,2810.0
-Badguest,Sketch Mohan,E,F,F,F,F,B,312.0,394.0,323.0,267.0,572.0
-BlackCaesar,Prescott Hilson,E,F,F,F,F,B,717.0,550.0,556.0,365.0,489.0
-Brad H,Brad Harrison,E,E,F,F,C,D,190.0,163.0,598.0,498.0,1510.0
-Brainiac,Brian Cole,E,F,F,F,F,B,244.0,144.0,216.0,620.0,576.0
-Brandon22,Sarah N Brandon Whitfield,E,F,F,F,F,E,10.0,30.0,627.0,433.0,533.0
-Buckeye45,Dave Sisson,E,E,E,E,F,D,100.0,624.0,688.0,899.0,510.0
-Care,Carie L. May,E,E,F,D,D,C,65.0,377.0,468.0,1310.0,1020.0
-Chris,Chris Field,E,F,F,F,F,C,196.0,395.0,372.0,410.0,497.0
-Chrissy,Chrissy Howard,E,F,G,G,G,D,300.0,351.0,222.0,508.0,115.0
-Curtis,Curtis Vanover,E,E,E,F,F,B,441.0,573.0,950.0,605.0,306.0
-D Dot Doug,Dougie Doug,E,E,E,E,F,G,313.0,250.0,742.0,787.0,549.0
-David,David Windsor,E,E,D,D,D,E,262.0,42.0,671.0,1070.0,1150.0
-Davis,Davis Tran,E,F,E,G,G,E,248.0,522.0,706.0,258.0,159.0
-Dennis,Dennis M McClendon Jr,E,F,F,F,F,B,194.0,35.0,318.0,475.0,392.0
-Dennis,Dennis Beninato,E,E,E,D,D,F,479.0,157.0,472.0,588.0,1140.0
-Dominic,Dominic Aviss,E,E,E,E,E,F,605.0,604.0,707.0,678.0,838.0
-Duffer,Michael Sturm,E,F,G,G,G,H,292.0,483.0,253.0,378.0,122.0
-Fly Away,Harold Sutton,E,F,F,F,F,F,323.0,404.0,628.0,514.0,446.0
-FredM IV,Fred Miller,E,F,F,F,F,H,502.0,505.0,508.0,379.0,290.0
-GC - Gards,Russell Gardner,E,F,G,G,G,G,143.0,993.0,195.0,104.0,264.0
-GC-Russ,Russell Gardner,E,F,F,F,E,G,281.0,352.0,657.0,273.0,651.0
-Gerd B Clash,Gerd B Clash Clash,E,F,G,G,G,None,252.0,306.0,410.0,344.0,
-Gerd-Clash,Gerd-Clash Clash,E,F,G,G,G,None,50.0,128.0,588.0,304.0,
-Gizmo,Jen Bitner,E,F,G,G,G,None,483.0,615.0,316.0,454.0,
-Ido Haiku,Ray Caligiuri,E,E,F,D,D,E,584.0,603.0,418.0,1000.0,1240.0
-Jack,Christopher Tyrrell,E,None,None,None,None,None,,,,,
-Jason,Jason Speer,E,F,F,F,None,None,91.0,235.0,696.0,286.0,
-John,John Weston,E,D,E,E,E,D,433.0,236.0,658.0,1400.0,890.0
-Kay,Tom Marler,E,G,None,None,None,None,592.0,,,,
-Kernel,Ross Munford,E,G,None,None,None,None,595.0,,,,
-Kirkland,Larry Kirkland,E,E,E,E,E,H,725.0,441.0,539.0,1000.0,659.0
-LD,Larry Kirkland,E,B,,,,,690.0,,,,
-Larry Don,Larry Kirkland,E,B,None,D,D,G,320.0,,224.0,634.0,953.0
-NapoleonSolo,Joe Morrison,E,F,F,F,F,D,120.0,667.0,406.0,410.0,550.0
-Olddog,Chris Field,E,F,F,F,F,E,360.0,648.0,363.0,295.0,356.0
-Olddog62,Chris Field,E,E,E,E,E,E,520.0,645.0,806.0,835.0,645.0
-Overreaction,Dave Sisson,E,F,F,F,E,D,354.0,405.0,223.0,433.0,714.0
-Ray,Bink Davis,E,E,D,D,F,G,545.0,581.0,689.0,1110.0,557.0
-Ricko,Ricko Sells,E,F,F,F,F,F,324.0,358.0,579.0,744.0,577.0
-Rob,Rob Kerfoot,E,F,E,F,F,B,186.0,575.0,921.0,506.0,336.0
-Schwabby78,James Schwab,E,F,F,F,F,G,448.0,624.0,360.0,445.0,364.0
-TeeTime,David Glazer,E,C,G,D,B,C,322.0,407.0,13.0,1640.0,2130.0
-Tom,Tom Kosakowski,E,F,G,G,G,C,467.0,554.0,498.0,367.0,271.0
-Tommy,Tommy Howell II,E,F,F,F,F,C,242.0,383.0,469.0,296.0,580.0
-Ty Webb,Jason Ballard,E,F,F,F,F,G,590.0,365.0,325.0,272.0,389.0
-Undertaker,James Milligan,E,E,F,F,F,B,669.0,698.0,716.0,745.0,463.0
-Albi Seeker,David Roseman,F,F,G,G,G,E,248.0,303.0,65.0,435.0,32.0
-BK84,Bryan Krikalo,F,F,F,F,F,F,6.0,162.0,322.0,397.0,321.0
-Barney,Barney Fife,F,G,,,,,87.0,,,,
-Bryan,Bryan Gilbert,F,F,G,G,G,C,91.0,190.0,65.0,523.0,154.0
-Dave,Dave Sisson,F,F,G,G,G,E,98.0,250.0,342.0,296.0,194.0
-Dave Jr.,David Roseman,F,G,G,G,G,G,200.0,180.0,310.0,120.0,147.0
-Dean,Dean Myers,F,E,,,,,108.0,,,,
-Eazy E,Eric Croom,F,F,,,,,39.0,,,,
-Frouimet,Patrick Whitehead,F,F,G,G,G,F,145.0,80.0,180.0,310.0,244.0
-Gerd-Clasha,Gerd-Clasha Clash,F,F,G,G,G,None,100.0,216.0,324.0,379.0,
-Gerdclash,Gerhard Clash,F,G,G,G,None,None,190.0,184.0,176.0,,
-Graciebear,Matthew Spatcher,F,G,None,None,None,None,7.0,,,,
-Hobart,Bryan Gilbert,F,G,G,G,G,G,216.0,326.0,12.0,248.0,63.0
-I,Bryan Krikalo,F,G,G,G,None,None,172.0,24.0,58.0,,
-JB,Juliana Brown,F,G,G,G,G,None,198.0,222.0,235.0,157.0,
-Jeangulmanut,Oak Hale,F,G,G,G,D,None,23.0,8.0,0.0,56.0,
-Lateralus,Law Desilet,F,,,,,,,,,,
-Longshanks,Rory Dowling,F,G,G,None,None,None,250.0,34.0,,,
-NoWinForYou,Andrew Bernard,F,F,G,G,G,E,176.0,90.0,170.0,665.0,150.0
-Pinky,Larry Kirkland,F,B,,,,,231.0,,,,
-Shao-Ting,Shao-ting Li,F,F,F,F,F,G,152.0,136.0,376.0,300.0,290.0
-Sketch,Sketch Mohan,F,G,G,F,F,A,178.0,212.0,75.0,138.0,313.0
-TaylorMade,Patrick Whitehead,F,F,F,F,F,B,16.0,413.0,304.0,176.0,352.0
-Teddy13,Teddy Gorman,F,G,G,G,G,C,23.0,0.0,27.0,6.0,17.0
-Ty Webb,Jonathan Gartland,F,F,G,G,G,G,314.0,150.0,108.0,371.0,189.0
-XGC Loaded,JR Byford,F,F,F,F,F,B,8.0,16.0,318.0,557.0,472.0
-Jon Snow,Law Desilet,G,A,D,D,D,E,5690.0,3900.0,9570.0,1730.0,2770.0
-Alex,Scott Marler,None,None,None,F,None,None,,,1240.0,,
-Amber,Bones Rekamreliob,None,E,E,E,E,H,0.0,2270.0,656.0,1700.0,100.0
-Andrew,Nick Fyock,None,None,G,G,G,E,,257.0,329.0,150.0,238.0
-Anthony,Anthony Rivera,None,None,G,G,G,C,,0.0,0.0,270.0,221.0
-Awsungawd,Walter Lyons,None,None,G,G,G,G,,0.0,0.0,13.0,117.0
-BallKiller85,Julio C Jaramillo,None,None,F,F,D,F,,0.0,192.0,400.0,964.0
-Beeferclaus,Brian McCale,None,None,A,A,A,A,,5110.0,4470.0,5630.0,3700.0
-Ben,Ben Aviss,None,A,A,A,A,G,7140.0,4390.0,4330.0,5300.0,3450.0
-Benn Dover,Law Desilet,None,None,None,None,F,F,,,,20.0,4.0
-Betheball,David Glazer,None,C,C,G,None,None,0.0,1410.0,2100.0,,
-Betterwetter,Stephen Conway Jr,None,None,None,B,B,C,,,2250.0,2080.0,2730.0
-Bohica,Bill Foster,None,None,None,B,B,F,,,180.0,2040.0,1880.0
-Bradley,Bradley Faithfull,None,A,A,A,A,D,9100.0,7180.0,6710.0,9050.0,7230.0
-Brian,Brian Allen,None,None,G,C,C,D,,498.0,20.0,1310.0,1440.0
-Bryantm,Bryant Mack,None,None,B,C,D,None,,3630.0,3810.0,503.0,
-Bunkerseeker,Tim Strickler,None,None,None,None,C,G,,,,1150.0,1460.0
-Buster Brown,Bones Rekamreliob,None,D,D,D,None,None,0.0,366.0,208.0,,
-CH€€Z€,Rick Harshberger,None,None,None,None,F,D,,,,56.0,537.0
-Cal,Caleb Hathorn,None,D,D,F,None,None,0.0,890.0,1130.0,,
-Charles,Charles Howard,None,None,None,None,D,D,,,,1150.0,1220.0
-Cliff,Cliff Vaughan,None,None,None,E,E,E,,,1060.0,623.0,934.0
-Clint,Clint Craven,None,None,F,F,F,D,,0.0,340.0,780.0,519.0
-Cornholio,Stephen Conway Jr,None,None,None,B,B,E,,,3580.0,3120.0,2180.0
-Craig,Craig Sutherland,None,G,G,G,G,None,0.0,0.0,128.0,446.0,
-Crash Davis,Stephen Doll,None,None,None,None,E,A,,,,233.0,643.0
-D.J,Duncan Woods,None,None,None,E,E,G,,,1610.0,514.0,690.0
-Da' Man,Gary Breakfield,None,G,G,F,F,H,0.0,100.0,148.0,311.0,586.0
-Daddy T,Tray Batson,None,None,A,None,None,None,,2210.0,4190.0,,
-Daddy T x 2,Tray Batson,None,None,D,None,None,None,,710.0,1630.0,,
-Daddy T x 3,Tray Batson,None,None,E,None,None,None,,257.0,,,
-Darrin,Darrin Parrish,None,None,None,D,D,B,,,457.0,1410.0,1150.0
-Derrick,Derrick Walls,None,None,B,B,A,C,,400.0,2020.0,3660.0,3450.0
-Dewlap,Scott Groff,None,None,B,B,B,C,,896.0,1920.0,1900.0,2010.0
-Dick,Dick Goesinya,None,None,None,None,F,A,,,,209.0,372.0
-Dregoboss,Andre Carty,None,E,E,E,E,E,0.0,609.0,875.0,735.0,790.0
-Falcon,Bill Baker,None,A,A,A,A,None,7160.0,4060.0,4360.0,5390.0,
-Free.Rider,Za Mohd,None,None,None,None,C,G,,,,2680.0,1570.0
-GC Robert,Robert Mcdougall,None,None,None,C,C,A,,,1180.0,1030.0,1760.0
-Gary,Gary Harding-Payne,None,None,None,None,C,D,,,,520.0,1650.0
-Gee,Gee Wiz,None,None,None,F,F,F,,,156.0,349.0,576.0
-Gerhard,Gerhard Clash,None,None,G,G,G,D,,0.0,0.0,0.0,0.0
-Getinthehole,Derrick Walls,None,None,C,C,A,C,,625.0,1020.0,1940.0,4280.0
-Ghost,Nick Fyock,None,A,B,C,C,E,4340.0,1480.0,3260.0,2440.0,3520.0
-Ghost Pepper,Jeffrey Bereiter,None,None,None,D,D,C,,,2060.0,1250.0,1280.0
-GolfPlumber,Nathan Mcdevitt,None,None,None,D,D,G,,,500.0,693.0,1000.0
-Gwo,Gwo Shih,None,None,A,A,A,D,,3870.0,6270.0,4300.0,3300.0
-Hawk,Jeff Smith,None,None,None,None,A,B,,,,4130.0,4360.0
-Hawk,Jeff Smith,None,None,None,None,C,None,,,,830.0,
-Hendrix,Jim Matteuzzi,None,None,None,B,C,A,,,3010.0,3940.0,1770.0
-Hollywood,Nathan Mcdevitt,None,None,None,None,F,A,,,,36.0,470.0
-James,James Jacob,None,None,G,G,G,E,,407.0,277.0,151.0,166.0
-James,James G Hudson,None,B,A,A,A,E,3770.0,2090.0,7240.0,6200.0,4180.0
-Jason,Jason Collar,None,None,None,None,G,None,,,,2190.0,
-Jason,Jason Collar,None,None,None,None,G,None,,,,1720.0,
-Jason,Jason Tisdale,None,E,E,G,None,None,489.0,15.0,788.0,,
-Joel,Joel Saffer,None,None,A,A,A,A,,4910.0,5200.0,4260.0,4480.0
-John P,John Penny,None,None,F,F,F,C,,559.0,269.0,606.0,528.0
-Jok3r,Joshua M. Koester,None,None,None,C,C,None,,,550.0,1680.0,
-Jon,Jon Herrick,None,None,None,B,B,C,,,4000.0,2510.0,2110.0
-Juan Centavo,John Penny,None,None,F,C,C,B,,935.0,272.0,1360.0,1470.0
-Justin,Justin Zachary,None,None,None,B,B,C,,,846.0,2920.0,2710.0
-Justin,Justin Patrick,None,None,None,B,B,C,,,0.0,1800.0,2460.0
-Karl,Jason Collar,None,None,None,None,G,None,,,,2670.0,
-King,King Wong,None,None,None,None,A,A,,,,4050.0,3180.0
-Kkimmes,Kevin Kimmes,None,None,None,None,G,F,,,,30.0,20.0
-Kyle,Kyle Plaster,None,None,B,B,B,B,,710.0,1760.0,2300.0,2460.0
-Lauras,Laura Shrader,None,None,None,G,G,G,,,0.0,40.0,24.0
-Law,Law Desilet,None,None,None,None,None,None,,,,7840.0,3920.0
-Les,Les Eastman,None,None,None,None,F,A,,,,383.0,311.0
-Luis,Luis Retamar Briggs,None,None,B,B,B,B,,1930.0,2770.0,3260.0,1940.0
-Luis,Luis Retamar Briggs,None,None,A,A,B,B,,6330.0,6500.0,6500.0,4740.0
-Maverick,Bradley Faithfull,None,E,D,G,G,G,1090.0,660.0,1170.0,955.0,141.0
-MerdeLadop,Scott Groff,None,None,C,C,C,A,,1550.0,1530.0,1740.0,1760.0
-Michael,Michael Tran,None,None,D,D,None,None,,787.0,1340.0,,
-Michael,Michael Li,None,None,D,E,E,B,,1360.0,1600.0,1080.0,814.0
-Mike,Mike Bradt,None,None,A,None,None,None,,5720.0,10130.0,,
-Moises,Moises Hop,None,C,G,E,B,A,0.0,1020.0,20.0,885.0,2650.0
-Monk,GC Monk,None,D,D,D,D,F,0.0,56.0,1050.0,1010.0,1350.0
-Nasty1,Nas Ron,None,None,None,None,G,B,,,,80.0,88.0
-Neal2,John Brown,None,None,None,E,None,None,,,130.0,,
-Neal3,John Brown,None,None,None,E,None,None,,,420.0,,
-Phoenix jord ,Jordan Edge,None,None,C,None,None,None,,1930.0,,,
-Poppy,Jay Whipple,None,None,None,A,A,A,,,2490.0,5790.0,6430.0
-Quackers,Ross Munford,None,None,A,A,A,E,,3430.0,4670.0,3880.0,3210.0
-Random,Randy Dedeugd,None,None,D,D,D,D,,0.0,673.0,828.0,1050.0
-Rhyno,Ryan Doherty,None,None,G,G,G,G,,0.0,14.0,70.0,4.0
-Rob,Rob Cunningham,None,None,G,G,None,None,,411.0,244.0,,
-Robert,Robert Habowski,None,None,None,None,F,F,,,,115.0,430.0
-Scott,Scott Groff,None,None,C,C,G,None,,1770.0,1900.0,2150.0,
-Scott,Scott Miles,None,None,C,A,C,None,,2360.0,3010.0,5190.0,
-SirSliceAlot,Dave Herman,None,None,None,B,B,C,,,1640.0,1970.0,2060.0
-Sova4u,Warren Ploot,None,None,None,None,D,F,,,,241.0,1120.0
-Stephen,Stephen Power,None,None,None,None,E,E,,,,156.0,706.0
-Stephen,Stephen Falcus,None,None,A,A,B,G,,5150.0,4840.0,6090.0,2930.0
-Tanstaafl,Stephen Doll,None,None,None,None,E,B,,,,338.0,772.0
-The Phoenix,Lora Welch,None,F,F,E,D,D,0.0,24.0,170.0,562.0,1050.0
-TofuDaLegend,Masters Fowler,None,None,None,None,G,H,,,,336.0,0.0
-TrippinMocha,Jonathan Palmos,None,None,G,G,G,E,,0.0,0.0,95.0,38.0
-Trouble Boy,Luis Retamar Briggs,None,None,B,B,G,H,,1530.0,3080.0,3230.0,269.0
-Udunngoe,Scott Groff,None,None,E,E,E,E,,1240.0,849.0,756.0,739.0
-Venician,Lou Rossi,None,None,None,A,A,A,,,3760.0,4700.0,3820.0
-Venician2,Lou Rossi,None,None,None,B,B,B,,,2440.0,3170.0,2740.0
-Venician3,Lou Rossi,None,None,None,G,None,None,,,503.0,,
-Warren,Warren Ploot,None,None,None,None,D,F,,,,256.0,1030.0
-Washed Balls,Quinn Oldenhoff,None,None,A,A,A,C,,5340.0,5650.0,8490.0,6720.0
-Whackhead,Norman Haggan,None,E,E,E,E,F,0.0,32.0,944.0,953.0,795.0
-Bobby,Bobby Boyens,WPU,A,A,A,A,A,7940.0,1450.0,3610.0,3440.0,4420.0
-Bones,Bones Rekamreliob,WPU,A,A,A,A,A,7650.0,9200.0,5640.0,4240.0,2420.0
-Brian,Christopher Tyrrell,WPU,A,A,A,A,A,4740.0,6010.0,14780.0,5970.0,4930.0
-Chris,Chris Kowatsch,WPU,A,A,A,A,E,12280.0,8870.0,9050.0,5730.0,7970.0
-Derek,Derek Holt,WPU,A,A,A,A,D,8410.0,8950.0,12780.0,10020.0,8630.0
-Go2urhome!!!,Ikee Woods,WPU,A,A,None,None,None,8850.0,10190.0,12980.0,,
-Jonathan,Jonathan Bathe,WPU,A,A,A,A,C,10100.0,9950.0,9910.0,7940.0,6610.0
-Law,Law Desilet,WPU,None,A,None,A,A,,5780.0,8000.0,7840.0,3920.0
-Luckyshot,Christopher Tyrrell,WPU,A,A,A,A,H,13360.0,7880.0,16060.0,6110.0,9500.0
-Matt,Matthew Spatcher,WPU,A,A,A,A,A,10540.0,5920.0,11130.0,4790.0,6750.0
-Michael,Michael Bradt Jr.,WPU,A,A,A,A,A,7100.0,8490.0,19870.0,1550.0,7130.0
-Nick,Nick Fyock,WPU,A,A,A,A,A,5720.0,4140.0,8060.0,3830.0,3520.0
-RichDolla,Richard George Wiley III,WPU,,,,,,,,,,
-Richard,Richard George Wiley III,WPU,,,,,,,,,,
-Scott,Scott Marler,WPU,A,A,A,A,H,8150.0,9750.0,12130.0,12610.0,12330.0
-Shanker Mike,Mike Zoran,WPU,A,A,A,A,A,5750.0,9000.0,8380.0,13620.0,7100.0
-Shooter,Ikee Woods,WPU,,,,,,,,,,
-Skadoosh,George Canales,WPU,A,A,A,A,D,10570.0,6030.0,10180.0,7390.0,8610.0
-Tara Holenme,Ikee Woods,WPU,,,,,,,,,,
-⛳Matthew⛳,Matthew Wilkinson,WPU,A,A,A,A,D,6570.0,8700.0,11490.0,5990.0,3270.0
+Name,Facebook Name,S7 Clan,S6 Clan,S5 Clan,S4 Clan,S3 Clan,S2 Clan,S1 Clan,S6 Points,S5 Points,S4 Points,S3 Points,S2 Points,S1 Points
+#coachp,Jeff Ellsworth,A,A,A,A,C,D,G,7240.0,5250.0,4620.0,4300.0,2400.0,1290.0
+Andrew,Andrew Bernlohr,A,A,A,B,B,B,A,3970.0,3670.0,3880.0,2800.0,2440.0,2570.0
+Ashton,Nick Fyock,A,A,A,B,C,E,E,2360.0,2860.0,3330.0,3630.0,2100.0,886.0
+BallBoy534,Will Reeside,A,A,A,A,A,C,C,2020.0,5970.0,3450.0,5670.0,4440.0,3150.0
+Baron,Baron Gochenour,A,A,A,A,A,A,A,8760.0,4580.0,5770.0,6290.0,11940.0,6790.0
+Beaven,Beaner Brown,A,A,A,A,A,C,E,4990.0,3910.0,4580.0,4440.0,4060.0,2300.0
+Becca,Craig Stein,A,A,B,C,B,A,C,3650.0,3990.0,3040.0,1640.0,3200.0,4300.0
+Ben,Ben Aviss,A,None,A,A,A,A,G,,7140.0,4390.0,4330.0,5300.0,3450.0
+Buck,Buck Luckner,A,A,A,A,A,A,B,4750.0,4310.0,5040.0,4130.0,4540.0,3800.0
+Craig,Craig Stein,A,A,C,A,D,C,C,3080.0,2500.0,1860.0,6000.0,989.0,1830.0
+DLB,Dlb Barneyppm,A,A,B,A,B,B,B,2780.0,3020.0,2820.0,4370.0,2680.0,2230.0
+Dave,Dave Shill,A,A,A,A,A,A,B,6590.0,6160.0,5420.0,5720.0,5160.0,4210.0
+Dylan,Dylan Patterson,A,A,A,,,,,4190.0,1910.0,,,,
+F. Ouimet,Ty Webb,A,A,A,B,B,A,C,5960.0,4630.0,4810.0,1850.0,3430.0,3220.0
+Jack,Christopher Tyrrell,A,E,None,None,None,None,None,4350.0,,,,,
+John,John Hayden,A,A,E,B,B,B,C,5390.0,3560.0,966.0,2080.0,2440.0,2910.0
+Josh,Josh Hathorn,A,A,A,A,A,A,G,2670.0,5900.0,3870.0,5200.0,5640.0,3580.0
+Kevin,Kevin Carrone,A,A,None,None,None,None,None,3030.0,,,,,
+Kevin,Kevin Nunes,A,A,A,A,A,A,A,5320.0,3490.0,5140.0,6850.0,6710.0,3330.0
+Keyser Söze,Bobby Boyens,A,A,C,A,A,A,G,5450.0,1780.0,1350.0,6960.0,3900.0,5880.0
+LuckyGirl2,Sonja K Larson,A,A,C,C,C,C,D,6770.0,4180.0,3080.0,1820.0,1510.0,1770.0
+Michael,Michael Li,A,A,A,C,C,C,B,4310.0,2320.0,3680.0,2090.0,1460.0,1390.0
+Mini-me,Scott Marler,A,A,C,F,F,None,None,6820.0,6230.0,3800.0,3150.0,,
+Nikki,Nikki Duggan,A,A,B,None,None,None,None,3180.0,2770.0,1950.0,,,
+Noonan!,Danny Noonan,A,A,B,B,B,C,C,1790.0,2640.0,3060.0,4420.0,2720.0,1500.0
+Ours,Ours Bipolaire,A,A,A,B,None,None,None,3550.0,3360.0,7830.0,,,
+Paul,Paul E. Mooney,A,A,B,B,B,B,E,3760.0,4010.0,2240.0,2830.0,2570.0,2720.0
+Paul,Paul Klages,A,A,A,A,A,C,D,5350.0,5620.0,6260.0,4490.0,4970.0,1580.0
+Quackerjack,Ross Munford,A,A,B,B,None,None,None,4630.0,1670.0,3240.0,4100.0,,
+Quackers,Ross Munford,A,None,None,A,A,A,E,,,3430.0,4670.0,3880.0,3210.0
+Quacky,Ross Munford,A,A,B,B,B,A,E,9280.0,2720.0,5560.0,5120.0,2730.0,3430.0
+Randy,Randy Chua,A,A,A,A,A,A,A,3890.0,4530.0,4520.0,4140.0,6290.0,6840.0
+Rory,Rory Dowling,A,B,B,C,E,B,E,4500.0,1460.0,2940.0,2880.0,920.0,2290.0
+Rory,Rory Violett,A,A,A,A,D,B,C,12930.0,639.0,3610.0,5270.0,920.0,2350.0
+Sherm,Joseph Sherman,A,A,A,A,A,A,A,9950.0,3130.0,3880.0,6450.0,4870.0,4440.0
+Tee Time,Tee Time,A,A,B,B,B,B,D,3390.0,3140.0,2930.0,3780.0,3230.0,2520.0
+The Mate,Christopher F. Haggins,A,A,B,B,B,B,B,5130.0,4640.0,3000.0,3730.0,5290.0,4090.0
+Ty Webb,Ty Webb,A,A,B,B,B,B,C,1980.0,3120.0,3080.0,3290.0,2440.0,2880.0
+Will,Will Reeside,A,A,A,A,A,A,A,9440.0,5060.0,7490.0,7500.0,6020.0,3950.0
+Zack,David Waugh,A,A,B,B,A,A,D,3690.0,3040.0,2900.0,3250.0,5510.0,4340.0
+Zephyr2,Dean Evans,A,B,B,B,C,F,C,5890.0,1720.0,2480.0,3240.0,2580.0,420.0
+Ace,Adam Effinger,B,B,C,C,C,C,E,1630.0,1360.0,1650.0,1320.0,1930.0,1480.0
+Beaner,Beaner Brown,B,B,B,B,B,B,B,1780.0,1960.0,1790.0,2460.0,2890.0,2330.0
+Bernadette,Robert Fudge,B,B,D,D,G,C,F,5040.0,1770.0,1820.0,1220.0,1460.0,1450.0
+Bryan_Lock1,Bryan Loughmiller,B,B,C,E,E,E,H,3020.0,1880.0,1810.0,1390.0,1420.0,635.0
+Charles,Charles P Harris,B,B,C,C,D,D,A,1772.0,1640.0,1870.0,2480.0,1090.0,1230.0
+Chris,Chris Dohm,B,A,B,B,B,A,A,2080.0,2930.0,1580.0,2460.0,2670.0,3580.0
+Craig,Craig Lee,B,B,C,C,C,C,C,1250.0,1620.0,795.0,2780.0,1050.0,1520.0
+Crash-n-Burn,Robert Sweisthal,B,A,B,C,C,A,B,1980.0,2320.0,2070.0,2580.0,2420.0,3920.0
+Dalton,Dalton Morris,B,B,C,C,F,F,F,1770.0,841.0,1720.0,1970.0,1100.0,921.0
+Dan C.,Dan Cline,B,B,C,C,C,C,E,1970.0,1330.0,1730.0,2800.0,1230.0,1750.0
+Darlene,Darlene Barnhouse,B,B,B,B,C,C,E,2000.0,2140.0,2850.0,3480.0,1700.0,1460.0
+Dave,Dave Cheetham,B,B,C,C,D,B,A,2020.0,2510.0,1880.0,2660.0,1370.0,1940.0
+Edison,Edison Doughty,B,B,F,B,B,D,G,2050.0,2280.0,1860.0,3730.0,2620.0,1360.0
+Geoff,Geoff Brown,B,B,C,D,D,B,D,1510.0,2090.0,1780.0,841.0,1310.0,2220.0
+Go Blue TB12,Rory Violett,B,B,C,C,C,C,D,1910.0,742.0,1460.0,2760.0,1460.0,1830.0
+Hookslice,Paul E. Mooney,B,B,B,B,B,B,E,4310.0,2800.0,1340.0,4640.0,2730.0,1930.0
+Jay,Jeremy Holt,B,B,B,B,B,B,A,2020.0,1900.0,2190.0,2600.0,2290.0,2510.0
+Jay Enright,Jay Enright,B,B,D,F,F,C,F,2000.0,2990.0,1140.0,622.0,488.0,1720.0
+Joel,McAndrews Joel,B,B,B,E,E,E,C,1180.0,1960.0,2660.0,987.0,788.0,912.0
+Julio,Julio C Jaramillo,B,B,C,E,B,D,A,2390.0,2130.0,1410.0,808.0,2970.0,1380.0
+KC GC,Scott Caenepeel,B,B,B,C,C,C,F,1240.0,2400.0,3030.0,1900.0,2460.0,1420.0
+Kat,Kat Ramage,B,B,D,B,B,B,None,2690.0,1840.0,1170.0,3250.0,1770.0,
+KatBClashin,Kat Ramage,B,B,B,B,B,G,C,2500.0,1490.0,2080.0,3090.0,3330.0,2040.0
+Keyser Soze,David Potts,B,C,C,C,C,G,G,1300.0,778.0,1030.0,1680.0,1790.0,224.0
+Martin,Martin Studnitz Andersen,B,A,A,C,D,D,E,895.0,2680.0,5840.0,2210.0,1500.0,993.0
+Michelle,Michelle Law,B,B,B,B,B,B,C,1410.0,987.0,1730.0,1800.0,1870.0,2130.0
+NeoDawg,Fernando Ponce,B,B,B,D,B,B,C,1990.0,1780.0,2300.0,1580.0,1720.0,1950.0
+OhYeah,Everett Wilson,B,B,B,B,B,B,C,1490.0,1470.0,1670.0,2040.0,2180.0,1900.0
+Open Man,Robert Fudge,B,B,E,E,G,None,None,1600.0,981.0,1540.0,1800.0,,
+Philip,Philip Neussendorfer,B,B,C,C,C,C,B,1120.0,1380.0,1650.0,1410.0,1380.0,1400.0
+Prion,Αντώνης Πορφύρης,B,B,C,C,C,E,F,2970.0,2050.0,1650.0,1530.0,1800.0,706.0
+RTR Bama,John McKinney,B,B,B,B,B,B,C,1670.0,1810.0,2020.0,1780.0,2000.0,2220.0
+Robin,Robin Parker,B,A,B,C,A,A,G,1820.0,1780.0,2640.0,2450.0,3690.0,3180.0
+Roland,Roland Armitage,B,B,C,C,C,C,E,2330.0,2400.0,1110.0,1500.0,1670.0,1500.0
+Ron,Ron Knobloch,B,B,B,B,B,B,B,7130.0,7180.0,5250.0,5690.0,8150.0,10230.0
+Scott,Scott Caenepeel,B,A,B,B,B,B,C,1400.0,2850.0,1620.0,3960.0,3980.0,2600.0
+Shanker,Mike Zoran,B,B,C,C,C,C,F,2550.0,1790.0,1970.0,1270.0,1560.0,1390.0
+Shooter,Tony Weber,B,B,B,B,B,B,E,1220.0,1410.0,1990.0,2560.0,2090.0,2030.0
+Smiles,Jake Brandl,B,B,C,C,E,D,A,2370.0,1270.0,1540.0,2050.0,522.0,1360.0
+Studnitz,Martin Studnitz Andersen,B,B,C,C,C,D,E,1330.0,3400.0,1160.0,2280.0,2200.0,1130.0
+Tee-1000,David Cheetham,B,B,B,B,B,B,A,1890.0,1400.0,1750.0,3320.0,1700.0,2990.0
+The Hobbster,Yog Bear,B,B,C,C,C,C,D,1440.0,1690.0,1690.0,1590.0,1620.0,1420.0
+Tim,Tim Van Tassel,B,B,C,C,C,C,D,1100.0,1690.0,1280.0,1710.0,1500.0,1740.0
+Tim,Timothy Shane,B,B,B,B,B,B,G,1750.0,2200.0,2620.0,2480.0,2630.0,2660.0
+Tin Cup,Ivan Sharpe,B,A,B,C,D,D,D,2210.0,3130.0,2750.0,2820.0,1600.0,1360.0
+Tin Cup,Justin Reynolds,B,A,B,B,A,C,B,1420.0,1740.0,2010.0,4120.0,4740.0,1820.0
+Tin Cup Trev,Trevor Tyrrell,B,E,None,None,None,None,None,3050.0,,,,,
+Virus,Αντώνης Πορφύρης,B,B,D,D,D,D,C,2590.0,2310.0,1140.0,1470.0,1380.0,1110.0
+Zephyr,Dean Evans,B,B,B,D,E,E,A,1620.0,1640.0,3230.0,1490.0,684.0,744.0
+ΠΑΟΚ,Steve Georgitsos,B,B,C,C,C,C,D,3040.0,1050.0,1440.0,2140.0,1260.0,1800.0
+Amanda,Tom Clark,C,C,C,C,D,D,B,880.0,518.0,1140.0,2140.0,995.0,1210.0
+Andy G,Andy Grassom,C,C,D,D,D,E,D,855.0,1400.0,1050.0,1250.0,1430.0,902.0
+Bill,Bill Myers,C,C,D,E,E,E,G,1620.0,1120.0,1240.0,1020.0,855.0,643.0
+Bink,Bink Davis,C,C,D,D,D,D,A,950.0,1230.0,696.0,1130.0,1060.0,1110.0
+Brian,Brian Zimmel,C,C,D,D,D,C,A,1810.0,1460.0,90.0,914.0,954.0,1420.0
+Bruce,Bruce LeMeur,C,C,D,D,D,D,A,857.0,803.0,1130.0,1600.0,800.0,991.0
+Buddy,Bill Myers,C,C,D,D,D,F,G,1990.0,1020.0,1210.0,1280.0,955.0,565.0
+ButtonButton,Mike Button,C,C,B,B,B,B,B,1150.0,4030.0,3820.0,1480.0,4390.0,4430.0
+CaptPancakes,Ross Munford,C,C,G,None,None,None,None,1120.0,1400.0,,,,
+Daniel,Daniel Michaud,C,C,D,None,None,D,D,1420.0,1590.0,,,0.0,1000.0
+Darth Ritis,Stephen Doll,C,F,None,None,None,None,None,1900.0,,,,,
+Deek,Derick Turner,C,C,D,D,G,None,None,1200.0,935.0,677.0,1220.0,,
+Del,Delroy Tuorila,C,C,C,D,D,E,F,1730.0,1240.0,1450.0,1460.0,1510.0,836.0
+Derick,Derick Turner,C,B,B,B,B,B,C,580.0,735.0,2180.0,2780.0,2980.0,2130.0
+Falcon 2,Bill Baker,C,C,G,,,,,660.0,1040.0,,,,
+Foot Wedge $,Paul E. Mooney,C,C,C,C,C,E,D,3360.0,2090.0,2850.0,2740.0,2720.0,885.0
+Found it!,Dan Bennett,C,A,B,B,B,B,B,595.0,1840.0,2630.0,1940.0,3790.0,4720.0
+FrayBentos,Steve Farley,C,C,D,E,C,C,D,848.0,1040.0,1000.0,812.0,1130.0,1820.0
+Fred M.....,Fred Miller,C,C,C,E,E,C,D,1600.0,1040.0,1600.0,1090.0,749.0,1480.0
+Grip-n-Rip,Ken Bengtson,C,C,D,D,D,A,F,576.0,845.0,1520.0,684.0,1390.0,4270.0
+I DON'T CHAT,George Canales,C,F,None,None,None,None,None,2180.0,,,,,
+InDaHole,Jay Ott,C,C,C,C,C,C,A,1180.0,795.0,1520.0,1080.0,1050.0,1740.0
+Jack,Jack Noe,C,C,C,C,C,C,A,1150.0,1180.0,1310.0,930.0,1780.0,1720.0
+Jethro,Geoff Brown,C,C,D,D,D,D,G,2020.0,1850.0,772.0,710.0,1470.0,1280.0
+Jhorn,Josh Hathorn,C,C,E,G,G,None,None,1510.0,1720.0,886.0,499.0,,
+Jim,Jim Bailey,C,C,D,D,D,D,E,1650.0,1030.0,860.0,1010.0,1160.0,1070.0
+Jochen,Jörgen Forslund,C,B,D,A,B,G,H,875.0,1480.0,1240.0,4130.0,3090.0,280.0
+Joe,Joe Servedio,C,C,D,D,D,D,B,660.0,756.0,973.0,1420.0,971.0,1070.0
+Joseph,Joseph Andersen,C,B,C,F,C,D,F,743.0,1200.0,1830.0,368.0,2320.0,1190.0
+Kernel,Ross Munford,C,E,G,None,None,None,None,1830.0,595.0,,,,
+LaffertyDan,Daniel Jimenez,C,C,F,B,E,F,G,1180.0,1240.0,516.0,3380.0,818.0,300.0
+Larry,Larry Kirkland,C,C,C,D,C,C,E,1530.0,1560.0,1230.0,914.0,1190.0,1750.0
+Matt2,Matthew Spatcher,C,F,None,None,None,None,None,1120.0,,,,,
+Mike,Mike Wortman,C,C,C,C,C,E,C,1420.0,1030.0,1040.0,2660.0,2020.0,871.0
+Mike,Mike George,C,C,E,F,E,E,B,1630.0,1690.0,1080.0,456.0,832.0,746.0
+Mike the 3rd,Mike Button,C,C,F,F,E,None,None,1280.0,1350.0,710.0,370.0,,
+MinH,Minh Nguyen,C,C,B,D,B,B,F,1530.0,560.0,558.0,1570.0,2130.0,2660.0
+Not Sure,Justin Gleiter,C,C,C,C,C,E,F,1780.0,120.0,1000.0,2020.0,1840.0,765.0
+Poppa Mupp,Cliff Vaughan,C,C,C,C,D,F,G,902.0,1420.0,705.0,1900.0,1660.0,508.0
+Rob,Rob Skuza,C,C,C,C,C,C,B,806.0,906.0,821.0,917.0,1420.0,1460.0
+Robert,Robert Fudge,C,C,C,C,C,C,E,2100.0,1370.0,1400.0,1210.0,1360.0,1470.0
+Steve,Steve Georgitsos,C,C,D,D,D,D,C,1530.0,612.0,1100.0,1680.0,788.0,1100.0
+TeeTime,David Glazer,C,E,C,G,D,B,C,1190.0,322.0,407.0,13.0,1640.0,2130.0
+Tom,Tom Clark,C,C,D,E,E,E,B,1480.0,1060.0,1850.0,574.0,980.0,625.0
+Walt,Walter Ramsey,C,C,C,C,F,F,G,1790.0,700.0,1750.0,2590.0,749.0,384.0
+YankeeJoe,Joseph Sherman,C,C,D,E,G,None,None,1740.0,1150.0,998.0,1070.0,,
+Zemanch,Josh Zechman,C,B,C,C,C,E,F,620.0,1670.0,308.0,1480.0,2570.0,851.0
+ZipperZipper,Mike Button,C,C,C,C,C,C,F,1130.0,1170.0,1990.0,1910.0,1140.0,1440.0
+Zoey,Minh Nguyen,C,D,D,F,D,D,G,2079.0,667.0,1070.0,395.0,971.0,1300.0
+明毅,Ming-yi Li,C,C,E,F,F,F,B,1200.0,1730.0,1180.0,319.0,536.0,428.0
+#GoBlue,Fritz Allhoff,D,D,E,E,E,E,B,1151.0,272.0,536.0,1070.0,1110.0,746.0
+Blackandblue,Mathew Vargas,D,D,E,D,E,E,None,890.0,430.0,790.0,1170.0,759.0,
+Brooke,Jonathan Bathe,D,D,E,E,G,G,F,1719.0,895.0,822.0,979.0,683.0,46.0
+Burr,Matt Huber,D,D,D,G,G,G,None,1000.0,850.0,1170.0,571.0,920.0,
+Chad,Chad Shearer,D,C,C,D,D,B,B,574.0,791.0,1070.0,589.0,992.0,2250.0
+Craig,Craig Anderson,D,D,D,D,E,E,G,613.0,459.0,824.0,1190.0,1100.0,884.0
+Cuse33,Frank Swierk,D,D,D,D,D,D,E,792.0,699.0,939.0,1120.0,825.0,994.0
+Duggan,Dan Bennett,D,C,E,F,F,None,None,399.0,1320.0,675.0,306.0,,
+Edward,Edward Chase,D,D,E,E,E,E,B,683.0,298.0,886.0,641.0,582.0,769.0
+Eugene,Eugene Greenfield,D,D,E,F,F,F,E,692.0,637.0,1170.0,776.0,335.0,516.0
+Flash Clash,Yog Bear,D,D,E,D,D,F,G,678.0,871.0,974.0,711.0,1030.0,411.0
+Fly Away,Harold Sutton,D,E,F,F,F,F,F,1040.0,323.0,404.0,628.0,514.0,446.0
+Forrest,Forrest VanPatten,D,D,E,E,E,D,C,1041.0,708.0,985.0,691.0,519.0,1040.0
+Fred,Fred Schlicht,D,D,E,E,F,E,E,625.0,1170.0,753.0,1070.0,402.0,817.0
+GC-Russ,Russell Gardner,D,E,F,F,F,E,G,1110.0,281.0,352.0,657.0,273.0,651.0
+GCJimmy,Jim Almond,D,D,E,E,E,E,A,751.0,1390.0,311.0,466.0,962.0,622.0
+Gino,Mattia Peruzzo,D,D,E,E,E,E,F,806.0,597.0,806.0,796.0,852.0,622.0
+Grip-n-Rip3,Ken Bengtson,D,D,D,D,G,None,None,495.0,755.0,942.0,1140.0,,
+Hamish,Hamish Philp,D,D,E,F,E,E,G,550.0,728.0,944.0,402.0,680.0,726.0
+Harris,Harris Paul,D,C,D,F,E,E,F,513.0,1140.0,842.0,373.0,897.0,1350.0
+Jake,Jake Brandl,D,D,D,G,C,D,A,1391.0,581.0,749.0,128.0,2110.0,1240.0
+Jennifer,Jennifer Bitner-Castellanos,D,D,D,D,D,G,None,1618.0,874.0,666.0,1210.0,1180.0,
+Kenny,Kenny Jay,D,C,C,C,C,C,B,472.0,702.0,985.0,1120.0,1310.0,1490.0
+La Donco,Larry Kirkland,D,D,D,E,E,C,G,480.0,917.0,1050.0,673.0,732.0,1670.0
+Lock2,Bryan Loughmiller,D,D,D,E,E,E,G,1098.0,863.0,1060.0,1290.0,801.0,900.0
+LuckyGirl,Sonja K Larson,D,D,None,None,None,None,None,1750.0,,,,,
+Michael,Michael Schimmelman,D,D,E,D,D,D,C,1350.0,782.0,267.0,949.0,573.0,1020.0
+Mike,Mike Snyder,D,D,E,D,F,F,B,1263.0,543.0,665.0,1270.0,321.0,564.0
+MrPWest,Prescott Hilson,D,D,E,E,E,E,A,696.0,858.0,440.0,773.0,665.0,757.0
+Myst,Clay Flemming,D,D,E,E,F,F,C,630.0,564.0,1210.0,836.0,498.0,584.0
+Oh Henrik,Joseph Sherman,D,D,D,A,A,B,D,4730.0,380.0,1130.0,5290.0,4540.0,4690.0
+Pat,Pat O'Shrine,D,C,D,E,E,E,F,422.0,1050.0,1380.0,806.0,1200.0,916.0
+Pod,Patrick O'Daniel,D,D,F,G,G,G,None,775.0,984.0,449.0,246.0,604.0,
+Portaguee,Mathew Vargas,D,D,D,D,D,D,C,763.0,1020.0,900.0,1140.0,680.0,1060.0
+Rassa,Rassa Wassa,D,C,D,D,D,D,C,480.0,994.0,1120.0,804.0,1170.0,1330.0
+Richard,Richard Paul,D,D,E,G,G,G,E,1081.0,320.0,1850.0,251.0,533.0,247.0
+RobertGoulet,Mike Johnson,D,D,E,E,D,D,B,561.0,606.0,755.0,517.0,845.0,1220.0
+Rory,Michael Tran,D,D,F,F,None,None,None,935.0,949.0,261.0,,,
+Russell,Russell Gardner,D,D,E,E,E,E,D,801.0,1110.0,317.0,496.0,871.0,753.0
+Sam,Roland Armitage,D,D,D,E,C,C,E,892.0,923.0,718.0,628.0,1060.0,1430.0
+Slumerican,Matt Coker,D,D,E,D,F,F,B,576.0,1110.0,326.0,1520.0,271.0,464.0
+Steve C,Steven Curry,D,D,E,E,E,E,E,352.0,732.0,569.0,768.0,765.0,830.0
+Teddy,Teddy Gorman,D,D,D,D,D,D,B,679.0,930.0,547.0,789.0,1120.0,1090.0
+TeesdezBalls,Darrin Parish,D,D,,,,,,929.0,,,,,
+Tiger Would,Joel Saffer,D,D,B,,,,,1557.0,964.0,,,,
+Tina,Tina R Weston,D,D,D,E,E,C,D,1139.0,567.0,818.0,1080.0,717.0,1490.0
+Tom,Tom Clark,D,D,E,E,E,E,E,1169.0,640.0,614.0,998.0,711.0,790.0
+Victor,Victor Jeanah Bartruff,D,D,D,E,E,E,D,791.0,241.0,1210.0,760.0,1270.0,685.0
+Walter,Walter Ramsey,D,C,C,D,E,E,E,495.0,1030.0,2010.0,1610.0,1290.0,922.0
+guest59,Αντώνης Πορφύρης,D,D,G,None,None,None,None,1615.0,844.0,,,,
+Albi Seeker,David Roseman,E,F,F,G,G,G,E,331.0,248.0,303.0,65.0,435.0,32.0
+Badguest,Sketch Mohan,E,E,F,F,F,F,B,357.0,312.0,394.0,323.0,267.0,572.0
+Barney,Barney Fife,E,F,G,,,,,656.0,87.0,,,,
+Bean,Beaner Brown,E,D,G,G,G,None,None,334.0,736.0,862.0,347.0,,
+Big Hampton,Paul Baker,E,C,D,D,E,E,D,320.0,689.0,1160.0,1300.0,1200.0,805.0
+BlackCaesar,Prescott Hilson,E,E,F,F,F,F,B,653.0,717.0,550.0,556.0,365.0,489.0
+Blackie,Larry Kirkland,E,E,None,None,None,None,None,250.0,,,,,
+Brainiac,Brian Cole,E,E,F,F,F,F,B,368.0,244.0,144.0,216.0,620.0,576.0
+Buckeye45,Dave Sisson,E,E,E,E,E,F,D,513.0,100.0,624.0,688.0,899.0,510.0
+Chris,Chris Field,E,E,F,F,F,F,C,337.0,196.0,395.0,372.0,410.0,497.0
+Curtis,Curtis Vanover,E,E,E,E,F,F,B,290.0,441.0,573.0,950.0,605.0,306.0
+D Dot Doug,Dougie Doug,E,E,E,E,E,F,G,281.0,313.0,250.0,742.0,787.0,549.0
+DP,David Potts,E,B,B,B,B,B,B,915.0,1050.0,2820.0,1200.0,1890.0,1800.0
+David,David Windsor,E,E,E,D,D,D,E,415.0,262.0,42.0,671.0,1070.0,1150.0
+Delroy,Delroy Tuorila,E,C,C,C,C,C,D,320.0,1260.0,576.0,1030.0,1700.0,1460.0
+Dennis,Dennis Beninato,E,E,E,E,D,D,F,356.0,479.0,157.0,472.0,588.0,1140.0
+Duffer,Michael Sturm,E,E,F,G,G,G,H,256.0,292.0,483.0,253.0,378.0,122.0
+Ferchu,Fernando Galvan,E,D,E,E,C,None,None,210.0,771.0,877.0,626.0,,
+FredM IV,Fred Miller,E,E,F,F,F,F,H,521.0,502.0,505.0,508.0,379.0,290.0
+GC - Gards,Russell Gardner,E,E,F,G,G,G,G,409.0,143.0,993.0,195.0,104.0,264.0
+Gizmo,Jen Bitner,E,E,F,G,G,G,None,990.0,483.0,615.0,316.0,454.0,
+Hank,Jack Noe,E,F,None,None,None,None,None,1290.0,,,,,
+Hillbilly,Dylan Patterson,E,E,None,None,None,None,None,646.0,,,,,
+I,Bryan Krikalo,E,F,G,G,G,None,None,569.0,172.0,24.0,58.0,,
+Iceman,Peter Epsom,E,A,B,C,C,G,None,265.0,561.0,3290.0,2530.0,1790.0,
+Ido Haiku,Ray Caligiuri,E,E,E,F,D,D,E,406.0,584.0,603.0,418.0,1000.0,1240.0
+John,John Weston,E,E,D,E,E,E,D,499.0,433.0,236.0,658.0,1400.0,890.0
+Kay,Tom Marler,E,E,G,None,None,None,None,922.0,592.0,,,,
+LD,Larry Kirkland,E,E,B,,,,,999.0,690.0,,,,
+Larry Don,Larry Kirkland,E,E,B,None,D,D,G,220.0,320.0,,224.0,634.0,953.0
+Longshanks,Rory Dowling,E,F,G,G,None,None,None,639.0,250.0,34.0,,,
+Moises,Moises Hop,E,F,C,G,E,B,A,485.0,0.0,1020.0,20.0,885.0,2650.0
+Moises GC,Moises Hop,E,F,None,None,None,None,None,340.0,,,,,
+NapoleonSolo,Joe Morrison,E,E,F,F,F,F,D,250.0,120.0,667.0,406.0,410.0,550.0
+Olddog62,Chris Field,E,E,E,E,E,E,E,625.0,520.0,645.0,806.0,835.0,645.0
+Overreaction,Dave Sisson,E,E,F,F,F,E,D,420.0,354.0,405.0,223.0,433.0,714.0
+Pinky,Larry Kirkland,E,F,B,,,,,588.0,231.0,,,,
+RV,Robert Vincent,E,A,B,B,B,None,None,2810.0,3070.0,2270.0,4060.0,,
+Ricko,Ricko Sells,E,E,F,F,F,F,F,495.0,324.0,358.0,579.0,744.0,577.0
+Schwabby78,James Schwab,E,E,F,F,F,F,G,754.0,448.0,624.0,360.0,445.0,364.0
+Shao-Ting,Shao-ting Li,E,F,F,F,F,F,G,408.0,152.0,136.0,376.0,300.0,290.0
+Sneppahtihs,Robert Vincent,E,A,B,B,C,None,None,4870.0,813.0,3070.0,3560.0,,
+Tom,Tom Kosakowski,E,E,F,G,G,G,C,565.0,467.0,554.0,498.0,367.0,271.0
+Tom,Tom Marler,E,E,None,None,None,None,None,120.0,,,,,
+Tommy,Tommy Howell II,E,E,F,F,F,F,C,431.0,242.0,383.0,469.0,296.0,580.0
+Ty Webb,Jason Ballard,E,E,F,F,F,F,G,646.0,590.0,365.0,325.0,272.0,389.0
+Tyler,Tyler Andrew,E,D,E,D,F,F,F,177.0,598.0,940.0,1250.0,406.0,393.0
+Undertaker,James Milligan,E,E,E,F,F,F,B,744.0,669.0,698.0,716.0,745.0,463.0
+Velcro Balls,Robert Vincent,E,A,B,B,None,None,None,3810.0,1130.0,3380.0,3570.0,,
+Whole N Juan,Oak Hale,E,D,E,F,F,F,F,568.0,912.0,395.0,533.0,1100.0,592.0
+Anthony,Anthony Jones,F,E,D,F,E,B,A,169.0,78.0,311.0,292.0,522.0,2810.0
+Ben,Ben McClean,F,F,None,None,None,None,None,42.0,,,,,
+Brandon22,Sarah N Brandon Whitfield,F,E,F,F,F,F,E,20.0,10.0,30.0,627.0,433.0,533.0
+Bryan,Bryan Gilbert,F,F,F,G,G,G,C,143.0,91.0,190.0,65.0,523.0,154.0
+Chrissy,Chrissy Howard,F,E,F,G,G,G,D,151.0,300.0,351.0,222.0,508.0,115.0
+Corey,Corey Dolan,F,D,E,D,D,D,B,100.0,595.0,552.0,854.0,656.0,1090.0
+Dave,Dave Sisson,F,F,F,G,G,G,E,34.0,98.0,250.0,342.0,296.0,194.0
+Davis,Davis Tran,F,E,F,E,G,G,E,30.0,248.0,522.0,706.0,258.0,159.0
+Eazy E,Eric Croom,F,F,F,,,,,91.0,39.0,,,,
+Frouimet,Patrick Whitehead,F,F,F,G,G,G,F,120.0,145.0,80.0,180.0,310.0,244.0
+Gerd B Clash,Gerd B Clash Clash,F,E,F,G,G,G,None,42.0,252.0,306.0,410.0,344.0,
+Gerd-Clash,Gerd-Clash Clash,F,E,F,G,G,G,None,46.0,50.0,128.0,588.0,304.0,
+JB,Juliana Brown,F,F,G,G,G,G,None,154.0,198.0,222.0,235.0,157.0,
+Kirkland,Larry Kirkland,F,E,E,E,E,E,H,16.0,725.0,441.0,539.0,1000.0,659.0
+Lateralus,Law Desilet,F,F,,,,,,363.0,,,,,
+MikeDW,Mike George,F,F,None,None,None,None,None,266.0,,,,,
+NoWinForYou,Andrew Bernard,F,F,F,G,G,G,E,272.0,176.0,90.0,170.0,665.0,150.0
+Olddog,Chris Field,F,E,F,F,F,F,E,202.0,360.0,648.0,363.0,295.0,356.0
+Sketch,Sketch Mohan,F,F,G,G,F,F,A,186.0,178.0,212.0,75.0,138.0,313.0
+TaylorMade,Patrick Whitehead,F,F,F,F,F,F,B,237.0,16.0,413.0,304.0,176.0,352.0
+Teddy13,Teddy Gorman,F,F,G,G,G,G,C,12.0,23.0,0.0,27.0,6.0,17.0
+Ty Webb,Jonathan Gartland,F,F,F,G,G,G,G,283.0,314.0,150.0,108.0,371.0,189.0
+2ndHand Lion,Dave Rees,None,None,F,F,E,E,F,,16.0,128.0,456.0,930.0,625.0
+ABooGie,Alvin Kyles Jr.,None,None,D,,,,,,439.0,,,,
+Alex,Scott Marler,None,None,None,None,F,None,None,,,,1240.0,,
+Amber,Bones Rekamreliob,None,None,E,E,E,E,H,,0.0,2270.0,656.0,1700.0,100.0
+Andrew,Nick Fyock,None,None,None,G,G,G,E,,,257.0,329.0,150.0,238.0
+Andy|K,Andy Kirkbride,None,D,D,D,D,D,B,619.0,1120.0,828.0,764.0,782.0,1330.0
+Anthony,Anthony Rivera,None,None,None,G,G,G,C,,,0.0,0.0,270.0,221.0
+Awsungawd,Walter Lyons,None,None,None,G,G,G,G,,,0.0,0.0,13.0,117.0
+BK84,Bryan Krikalo,None,F,F,F,F,F,F,0.0,6.0,162.0,322.0,397.0,321.0
+BallCrusher,William Netz,None,None,D,D,D,D,E,,958.0,594.0,712.0,1650.0,1090.0
+BallKiller85,Julio C Jaramillo,None,None,None,F,F,D,F,,,0.0,192.0,400.0,964.0
+Beeferclaus,Brian McCale,None,None,None,A,A,A,A,,,5110.0,4470.0,5630.0,3700.0
+Benn Dover,Law Desilet,None,None,None,None,None,F,F,,,,,20.0,4.0
+Betheball,David Glazer,None,None,C,C,G,None,None,,0.0,1410.0,2100.0,,
+Betterwetter,Stephen Conway Jr,None,None,None,None,B,B,C,,,,2250.0,2080.0,2730.0
+Bohica,Bill Foster,None,None,None,None,B,B,F,,,,180.0,2040.0,1880.0
+Brad H,Brad Harrison,None,E,E,F,F,C,D,0.0,190.0,163.0,598.0,498.0,1510.0
+Bradley,Bradley Faithfull,None,None,A,A,A,A,D,,9100.0,7180.0,6710.0,9050.0,7230.0
+Brian,Brian Allen,None,None,None,G,C,C,D,,,498.0,20.0,1310.0,1440.0
+Brian,Christopher Tyrrell,None,WPU,A,A,A,A,A,,4740.0,6010.0,14780.0,5970.0,4930.0
+BruceLee1976,Gwo Shih,None,A,A,A,A,A,D,8590.0,5770.0,4350.0,4390.0,5460.0,4440.0
+Bryantm,Bryant Mack,None,None,None,B,C,D,None,,,3630.0,3810.0,503.0,
+Bunkerseeker,Tim Strickler,None,None,None,None,None,C,G,,,,,1150.0,1460.0
+Bust'n Balls,Geoff Hamilton,None,D,D,D,D,E,D,0.0,223.0,16.0,1400.0,1500.0,605.0
+Buster Brown,Bones Rekamreliob,None,None,D,D,D,None,None,,0.0,366.0,208.0,,
+CH€€Z€,Rick Harshberger,None,None,None,None,None,F,D,,,,,56.0,537.0
+Cal,Caleb Hathorn,None,None,D,D,F,None,None,,0.0,890.0,1130.0,,
+Care,Carie L. May,None,E,E,F,D,D,C,0.0,65.0,377.0,468.0,1310.0,1020.0
+Charles,Charles Howard,None,None,None,None,None,D,D,,,,,1150.0,1220.0
+Cliff,Cliff Vaughan,None,None,None,None,E,E,E,,,,1060.0,623.0,934.0
+Clint,Clint Craven,None,None,None,F,F,F,D,,,0.0,340.0,780.0,519.0
+Cornholio,Stephen Conway Jr,None,None,None,None,B,B,E,,,,3580.0,3120.0,2180.0
+Craig,Craig Sutherland,None,None,G,G,G,G,None,,0.0,0.0,128.0,446.0,
+Crash Davis,Stephen Doll,None,None,None,None,None,E,A,,,,,233.0,643.0
+D.J,Duncan Woods,None,None,None,None,E,E,G,,,,1610.0,514.0,690.0
+Da' Man,Gary Breakfield,None,None,G,G,F,F,H,,0.0,100.0,148.0,311.0,586.0
+Daddy T,Tray Batson,None,None,None,A,None,None,None,,,2210.0,4190.0,,
+Daddy T x 2,Tray Batson,None,None,None,D,None,None,None,,,710.0,1630.0,,
+Daddy T x 3,Tray Batson,None,None,None,E,None,None,None,,,257.0,,,
+Darrin,Darrin Parrish,None,None,None,None,D,D,B,,,,457.0,1410.0,1150.0
+Dave Jr.,David Roseman,None,F,G,G,G,G,G,,200.0,180.0,310.0,120.0,147.0
+Dean,Dean Myers,None,None,E,,,,,,108.0,,,,
+Dennis,Dennis M McClendon Jr,None,None,F,F,F,F,B,,194.0,35.0,318.0,475.0,392.0
+Derrick,Derrick Walls,None,None,None,B,B,A,C,,,400.0,2020.0,3660.0,3450.0
+Dewlap,Scott Groff,None,None,None,B,B,B,C,,,896.0,1920.0,1900.0,2010.0
+Dick,Dick Goesinya,None,None,None,None,None,F,A,,,,,209.0,372.0
+Dominic,Dominic Aviss,None,E,E,E,E,E,F,0.0,605.0,604.0,707.0,678.0,838.0
+Dregoboss,Andre Carty,None,None,E,E,E,E,E,,0.0,609.0,875.0,735.0,790.0
+Falcon,Bill Baker,None,None,A,A,A,A,None,,7160.0,4060.0,4360.0,5390.0,
+Free.Rider,Za Mohd,None,None,None,None,None,C,G,,,,,2680.0,1570.0
+GC Robert,Robert Mcdougall,None,None,None,None,C,C,A,,,,1180.0,1030.0,1760.0
+Gary,Gary Harding-Payne,None,None,None,None,None,C,D,,,,,520.0,1650.0
+Gee,Gee Wiz,None,None,None,None,F,F,F,,,,156.0,349.0,576.0
+Gerd-Clasha,Gerd-Clasha Clash,None,F,F,G,G,G,None,0.0,100.0,216.0,324.0,379.0,
+Gerdclash,Gerhard Clash,None,F,G,G,G,None,None,0.0,190.0,184.0,176.0,,
+Gerhard,Gerhard Clash,None,None,None,G,G,G,D,,,0.0,0.0,0.0,0.0
+Getinthehole,Derrick Walls,None,None,None,C,C,A,C,,,625.0,1020.0,1940.0,4280.0
+Ghost,Nick Fyock,None,None,A,B,C,C,E,,4340.0,1480.0,3260.0,2440.0,3520.0
+Ghost Pepper,Jeffrey Bereiter,None,None,None,None,D,D,C,,,,2060.0,1250.0,1280.0
+GolfPlumber,Nathan Mcdevitt,None,None,None,None,D,D,G,,,,500.0,693.0,1000.0
+Graciebear,Matthew Spatcher,None,F,G,None,None,None,None,,7.0,,,,
+Gwo,Gwo Shih,None,None,None,A,A,A,D,,,3870.0,6270.0,4300.0,3300.0
+Hawk,Jeff Smith,None,None,None,None,None,A,B,,,,,4130.0,4360.0
+Hawk,Jeff Smith,None,None,None,None,None,C,None,,,,,830.0,
+Hendrix,Jim Matteuzzi,None,None,None,None,B,C,A,,,,3010.0,3940.0,1770.0
+Hobart,Bryan Gilbert,None,F,G,G,G,G,G,,216.0,326.0,12.0,248.0,63.0
+Hollywood,Nathan Mcdevitt,None,None,None,None,None,F,A,,,,,36.0,470.0
+HoneyB,Pat Brovier,None,None,B,B,B,B,C,0.0,2350.0,2240.0,1880.0,2390.0,2140.0
+James,James Jacob,None,None,None,G,G,G,E,,,407.0,277.0,151.0,166.0
+James,James G Hudson,None,None,B,A,A,A,E,,3770.0,2090.0,7240.0,6200.0,4180.0
+Jason,Jason Collar,None,None,None,None,None,G,None,,,,,2190.0,
+Jason,Jason Collar,None,None,None,None,None,G,None,,,,,1720.0,
+Jason,Jason Tisdale,None,None,E,E,G,None,None,,489.0,15.0,788.0,,
+Jason,Jason Speer,None,None,F,F,F,None,None,,91.0,235.0,696.0,286.0,
+Jeangulmanut,Oak Hale,None,F,G,G,G,D,None,,23.0,8.0,0.0,56.0,
+Jimmy,Law Desilet,None,G,,,,,,,,,,,
+Joel,Joel Saffer,None,None,None,A,A,A,A,,,4910.0,5200.0,4260.0,4480.0
+John P,John Penny,None,None,None,F,F,F,C,,,559.0,269.0,606.0,528.0
+Jok3r,Joshua M. Koester,None,None,None,None,C,C,None,,,,550.0,1680.0,
+Jon,Jon Herrick,None,None,None,None,B,B,C,,,,4000.0,2510.0,2110.0
+Juan Centavo,John Penny,None,None,None,F,C,C,B,,,935.0,272.0,1360.0,1470.0
+Justin,Justin Zachary,None,None,None,None,B,B,C,,,,846.0,2920.0,2710.0
+Justin,Justin Patrick,None,None,None,None,B,B,C,,,,0.0,1800.0,2460.0
+Jörgen,Jörgen Forslund,None,A,A,A,A,A,A,13590.0,1680.0,3930.0,6080.0,10890.0,6680.0
+Karl,Jason Collar,None,None,None,None,None,G,None,,,,,2670.0,
+King,King Wong,None,None,None,None,None,A,A,,,,,4050.0,3180.0
+Kkimmes,Kevin Kimmes,None,None,None,None,None,G,F,,,,,30.0,20.0
+Kyle,Kyle Plaster,None,None,None,B,B,B,B,,,710.0,1760.0,2300.0,2460.0
+Lauras,Laura Shrader,None,None,None,None,G,G,G,,,,0.0,40.0,24.0
+Law,Law Desilet,None,None,None,None,None,None,None,,,,,7840.0,3920.0
+Les,Les Eastman,None,None,None,None,None,F,A,,,,,383.0,311.0
+Luis,Luis Retamar Briggs,None,None,None,B,B,B,B,,,1930.0,2770.0,3260.0,1940.0
+Luis,Luis Retamar Briggs,None,None,None,A,A,B,B,,,6330.0,6500.0,6500.0,4740.0
+Maverick,Bradley Faithfull,None,None,E,D,G,G,G,,1090.0,660.0,1170.0,955.0,141.0
+MerdeLadop,Scott Groff,None,None,None,C,C,C,A,,,1550.0,1530.0,1740.0,1760.0
+Michael,Michael Tran,None,None,None,D,D,None,None,,,787.0,1340.0,,
+Michael,Michael Li,None,None,None,D,E,E,B,,,1360.0,1600.0,1080.0,814.0
+Mike,Mike Bradt,None,None,None,A,None,None,None,,,5720.0,10130.0,,
+Miles...,Scott Miles,None,None,C,E,G,G,None,,2580.0,1910.0,884.0,546.0,
+Monk,GC Monk,None,None,D,D,D,D,F,,0.0,56.0,1050.0,1010.0,1350.0
+Nasty1,Nas Ron,None,None,None,None,None,G,B,,,,,80.0,88.0
+Neal2,John Brown,None,None,None,None,E,None,None,,,,130.0,,
+Neal3,John Brown,None,None,None,None,E,None,None,,,,420.0,,
+Phoenix jord ,Jordan Edge,None,None,None,C,None,None,None,,,1930.0,,,
+Poppy,Jay Whipple,None,None,None,None,A,A,A,,,,2490.0,5790.0,6430.0
+Random,Randy Dedeugd,None,None,None,D,D,D,D,,,0.0,673.0,828.0,1050.0
+Ray,Bink Davis,None,None,E,D,D,F,G,,545.0,581.0,689.0,1110.0,557.0
+Rhyno,Ryan Doherty,None,None,None,G,G,G,G,,,0.0,14.0,70.0,4.0
+Rob,Rob Kerfoot,None,None,F,E,F,F,B,,186.0,575.0,921.0,506.0,336.0
+Rob,Rob Cunningham,None,None,None,G,G,None,None,,,411.0,244.0,,
+Robert,Robert Habowski,None,None,None,None,None,F,F,,,,,115.0,430.0
+Scott,Scott Groff,None,None,None,C,C,G,None,,,1770.0,1900.0,2150.0,
+Scott,Scott Miles,None,None,None,C,A,C,None,,,2360.0,3010.0,5190.0,
+SirSliceAlot,Dave Herman,None,None,None,None,B,B,C,,,,1640.0,1970.0,2060.0
+Sova4u,Warren Ploot,None,None,None,None,None,D,F,,,,,241.0,1120.0
+Stephen,Stephen Power,None,None,None,None,None,E,E,,,,,156.0,706.0
+Stephen,Stephen Falcus,None,None,None,A,A,B,G,,,5150.0,4840.0,6090.0,2930.0
+Tanstaafl,Stephen Doll,None,None,None,None,None,E,B,,,,,338.0,772.0
+The Phoenix,Lora Welch,None,None,F,F,E,D,D,,0.0,24.0,170.0,562.0,1050.0
+TofuDaLegend,Masters Fowler,None,None,None,None,None,G,H,,,,,336.0,0.0
+TrippinMocha,Jonathan Palmos,None,None,None,G,G,G,E,,,0.0,0.0,95.0,38.0
+Trouble Boy,Luis Retamar Briggs,None,None,None,B,B,G,H,,,1530.0,3080.0,3230.0,269.0
+Ty Webb,Ty Webb II,None,None,A,A,A,A,A,,7660.0,5540.0,7540.0,4820.0,5520.0
+Udunngoe,Scott Groff,None,None,None,E,E,E,E,,,1240.0,849.0,756.0,739.0
+Vegas Rose,Scott Miles,None,None,C,F,F,None,None,,1180.0,1460.0,732.0,,
+Venician,Lou Rossi,None,None,None,None,A,A,A,,,,3760.0,4700.0,3820.0
+Venician2,Lou Rossi,None,None,None,None,B,B,B,,,,2440.0,3170.0,2740.0
+Venician3,Lou Rossi,None,None,None,None,G,None,None,,,,503.0,,
+Warren,Warren Ploot,None,None,None,None,None,D,F,,,,,256.0,1030.0
+Washed Balls,Quinn Oldenhoff,None,None,None,A,A,A,C,,,5340.0,5650.0,8490.0,6720.0
+Whackhead,Norman Haggan,None,None,E,E,E,E,F,,0.0,32.0,944.0,953.0,795.0
+Wurx,Patrick Harbert,None,None,G,None,None,None,None,,1000.0,,,,
+XGC Loaded,JR Byford,None,F,F,F,F,F,B,0.0,8.0,16.0,318.0,557.0,472.0
+Bobby,Bobby Boyens,WPU,WPU,A,A,A,A,A,,7940.0,1450.0,3610.0,3440.0,4420.0
+Bones,Bones Rekamreliob,WPU,WPU,A,A,A,A,A,,7650.0,9200.0,5640.0,4240.0,2420.0
+Chris,Chris Kowatsch,WPU,WPU,A,A,A,A,E,,12280.0,8870.0,9050.0,5730.0,7970.0
+Derek,Derek Holt,WPU,WPU,A,A,A,A,D,,8410.0,8950.0,12780.0,10020.0,8630.0
+Go2urhome!!!,Ikee Woods,WPU,WPU,A,A,None,None,None,,8850.0,10190.0,12980.0,,
+Jon Snow,Law Desilet,WPU,F,A,D,D,D,E,805.0,5690.0,3900.0,9570.0,1730.0,2770.0
+Jonathan,Jonathan Bathe,WPU,WPU,A,A,A,A,C,,10100.0,9950.0,9910.0,7940.0,6610.0
+Law,Law Desilet,WPU,WPU,None,A,None,A,A,,,5780.0,8000.0,7840.0,3920.0
+Luckyshot,Christopher Tyrrell,WPU,WPU,A,A,A,A,H,,13360.0,7880.0,16060.0,6110.0,9500.0
+Matt,Matthew Spatcher,WPU,WPU,A,A,A,A,A,,10540.0,5920.0,11130.0,4790.0,6750.0
+Michael,Michael Bradt Jr.,WPU,WPU,A,A,A,A,A,,7100.0,8490.0,19870.0,1550.0,7130.0
+Nick,Nick Fyock,WPU,WPU,A,A,A,A,A,,5720.0,4140.0,8060.0,3830.0,3520.0
+RichDolla,Richard George Wiley III,WPU,WPU,,,,,,,,,,,
+Richard,Richard George Wiley III,WPU,WPU,,,,,,,,,,,
+Scott,Scott Marler,WPU,WPU,A,A,A,A,H,,8150.0,9750.0,12130.0,12610.0,12330.0
+Shanker Mike,Mike Zoran,WPU,WPU,A,A,A,A,A,,5750.0,9000.0,8380.0,13620.0,7100.0
+Shooter,Ikee Woods,WPU,WPU,,,,,,,,,,,
+Skadoosh,George Canales,WPU,WPU,A,A,A,A,D,,10570.0,6030.0,10180.0,7390.0,8610.0
+Tara Holenme,Ikee Woods,WPU,WPU,None,None,None,None,None,,,,,,
+⛳Matthew⛳,Matthew Wilkinson,WPU,WPU,A,A,A,A,D,,6570.0,8700.0,11490.0,5990.0,3270.0
+ANewName,David Potts,,G,G,G,G,G,D,,627.0,378.0,160.0,413.0,320.0
